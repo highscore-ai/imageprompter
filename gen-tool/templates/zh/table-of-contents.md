@@ -6,4 +6,3 @@
 - [💡 提示词技巧](#prompting-tips)
 - [🤝 如何贡献](#how-to-contribute)
 - [🙏 致谢](#acknowledgements)
-- [🌟 Star历史](#star-history)
