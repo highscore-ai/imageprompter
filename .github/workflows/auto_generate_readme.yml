@@ -40,16 +40,17 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-          # Check if either README.md or README_en.md has changed
+          # Check if either README.md or README_cn.md has changed
           README_CHANGED=$(git diff --quiet README.md || echo "changed")
-          README_ZH_CHANGED=$(git diff --quiet README_zh.md || echo "changed")
+          README_CN_CHANGED=$(git diff --quiet README_cn.md || echo "changed")
           
-          if [ -z "$README_CHANGED" ] && [ -z "$README_ZH_CHANGED" ]; then
+          if [ -z "$README_CHANGED" ] && [ -z "$README_CN_CHANGED" ]; then
             echo "README files are up-to-date. No changes to commit."
           else
             echo "README files have changes. Committing..."
-            git add README.md README_zh.md
+            git add README.md README_cn.md
             git commit -m "docs: update auto-generated README files"
             git push origin main
             echo "Changes pushed successfully."
           fi
+
