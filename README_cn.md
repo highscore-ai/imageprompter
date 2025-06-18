@@ -14,13 +14,9 @@
 
 案例主要来源于 Twitter/X 🐦 和 Sora 社区 🎬，希望这些案例能为您带来启发 💡，为你的灵感加速 🚀。
 
-<strong>另外，来自OpenAI官方发布的 gpt‑image‑1 模型的数十个精彩案例，由本项目精心整理和翻译，查看请戳👇</strong>
+本作品基于 Jamez Bondos 的 [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)，© 2025 Jamez Bondos，采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可协议。
+原始来源：https://github.com/jamez-bondos/awesome-gpt4o-images
 
-- 中文版：[OpenAI gpt-image-1: 40 个精选图像案例及提示词](./gpt-image-1/gpt-image-1.md)
-- 英文版：[OpenAI gpt-image-1: 40 Curated Prompt & Image Examples](./gpt-image-1/gpt-image-1-en.md)
-
-
-<strong>→ 喜欢就点 Star 支持！ / Smash that ⭐ if you like it!</strong>
 
 
 ---
@@ -34,8 +30,6 @@
 - [💡 提示词技巧](#prompting-tips)
 - [🤝 如何贡献](#how-to-contribute)
 - [🙏 致谢](#acknowledgements)
-- [🌟 Star历史](#star-history)
-
 
 ---
 
@@ -57,6 +51,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 <a id="cases-toc"></a>
 ## 📖 案例目录
 
+*   [案例 101：泡泡食物 (by @aziz4ai)](#cases-101)
 *   [案例 100：实物与手绘涂鸦创意广告 (by @azed_ai)](#cases-100)
 *   [案例 99：黑白肖像艺术 (by @ZHO_ZHO_ZHO)](#cases-99)
 *   [案例 98：磨砂玻璃后的虚实对比剪影 (by @umesh_ai)](#cases-98)
@@ -162,6 +157,27 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 <a id="cases"></a>
 ## 🧩 案例
+
+<a id="cases-101"></a>
+### 案例 101：泡泡食物 (by [@aziz4ai](https://x.com/aziz4ai/))
+
+[原文链接](https://x.com/aziz4ai/status/1934986353848017349)
+
+<img src="cases/101/edible_pop.jpeg" width="300" alt="泡泡食物"><br>
+<sub>Image © 2025 <a href="https://github.com/highscore-ai">@highscore-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/aziz4ai/">@aziz4ai</a></sub>
+
+**提示词**
+
+```
+一张超逼真的DSLR相机拍摄照片，展示出\[品牌/产品]——多汁、酥脆、令人垂涎。由一只可爱的Q版卡通小手拿着，正准备咬上一口。背景为平面2D插画，采用柔和的马卡龙色调，看起来像能吃的一样，灵感来自其视觉识别风格——带有超现实、可爱风格的矢量元素，如糖屑、星星、柔和渐变和俏皮图形。加入一个醒目的口号，仅用**一个有力的单词**来形容口味（如“酥”、“化”、“赞”）。在食物上或口号旁边清晰展示品牌Logo。构图为居中、1:1方形比例，电影感柔光，真实食物与扁平插画背景形成强烈对比，4K分辨率。
+```
+
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
 
 <a id="cases-100"></a>
 ### 案例 100：实物与手绘涂鸦创意广告 (by [@azed_ai](https://x.com/azed_ai))
@@ -2697,25 +2713,6 @@ Aspect ratio: 9:16
 
 
 
-<a id="prompting-tips"></a>
-## 💡 提示词技巧
-
-1. [提示词高手们到底是怎么发现 GPT-4o 画图新玩法的？](https://baoyu.io/blog/gpt-4-image-generation-new-tricks) by [@dotey](https://x.com/dotey)
-2. [Prompt Engineering (PDF)](https://s.baoyu.io/files/2025-01-18-pdf-1-TechAI-Goolge-whitepaper_Prompt%20Engineering_v4-af36dcc7a49bb7269a58b1c9b89a8ae1.pdf) by Google
-3. [Prompt Engineering 简体中文翻译版](https://baoyu.io/blog/google-prompt-engineering-whitepaper) by [@dotey](https://x.com/dotey)
-4. [如何轻松写出好用的提示词模板？](https://baoyu.io/blog/how-to-write-prompt-templates) by [@dotey](https://x.com/dotey)
-
-
-
-
-<a id="how-to-contribute"></a>
-## 🤝 贡献案例
-
-有两种参与贡献的方式，请阅读 [CONTRIBUTING.md](./CONTRIBUTING.md)。
-
-
-
-
 <a id="acknowledgements"></a>
 ## 🙏 致谢
 
@@ -2758,12 +2755,4 @@ Aspect ratio: 9:16
 
 [⬆️ 返回顶部](#readme-top)
 
-
-
-<a id="star-history"></a>
-## 🌟 Star历史
-
-[![Star History Chart](https://api.star-history.com/svg?repos=jamez-bondos/awesome-gpt4o-images&type=Date)](https://www.star-history.com/#jamez-bondos/awesome-gpt4o-images&Date)
-
-[⬆️ 返回顶部](#readme-top)
 
