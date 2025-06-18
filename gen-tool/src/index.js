@@ -42,16 +42,16 @@ for (const c of cases) {
     cases_contents += Mustache.render(case_template, {
       case_no: c.case_no,
       t: t,
-      title: lang === 'zh' ? c.title : c.title_en,
+      title: lang === 'en' ? c.title : c.title_en,
       author: c.author,
       author_link: c.author_link,
       source_links: source_links,
       image: c.image,
-      alt_text: lang === 'zh' ? c.alt_text.trim() : c.alt_text_en.trim(),
+      alt_text: lang === 'en' ? c.alt_text.trim() : c.alt_text_en.trim(),
       attribution: c.attribution,
-      prompt: lang === 'zh' ? c.prompt.trim() : c.prompt_en.trim(),
-      prompt_note: lang === 'zh' ? c.prompt_note.trim() : c.prompt_note_en.trim(),
-      reference_note: lang === 'zh' ? c.reference_note.trim() : c.reference_note_en.trim(),
+      prompt: lang === 'en' ? c.prompt.trim() : c.prompt_en.trim(),
+      prompt_note: lang === 'en' ? c.prompt_note.trim() : c.prompt_note_en.trim(),
+      reference_note: lang === 'en' ? c.reference_note.trim() : c.reference_note_en.trim(),
       submitter: c.submitter,
       submitter_link: c.submitter_link,
     }) + '\n';
@@ -62,7 +62,7 @@ const data = {
   't': t,
   'cases': cases.map(c => ({
     case_no: c.case_no,
-    title: lang === 'zh' ? c.title : c.title_en,
+    title: lang === 'en' ? c.title : c.title_cn,
     author: c.author,
   })),
   'header': fs.readFileSync(path.join(__dirname, '../templates', lang, 'header.md'), 'utf8'),
@@ -70,10 +70,7 @@ const data = {
   'gpt4o-intro': fs.readFileSync(path.join(__dirname, '../templates', lang, 'gpt4o-intro.md'), 'utf8'),
   'cases-contents': cases_contents,
   'tools-intro': fs.readFileSync(path.join(__dirname, '../templates', lang, 'tools-intro.md'), 'utf8'),
-  'prompting-tips': fs.readFileSync(path.join(__dirname, '../templates', lang, 'prompting-tips.md'), 'utf8'),
-  'how-to-contribute': fs.readFileSync(path.join(__dirname, '../templates', lang, 'how-to-contribute.md'), 'utf8'),
-  'acknowledgements': fs.readFileSync(path.join(__dirname, '../templates', lang, 'acknowledgements.md'), 'utf8'),
-  'star-history': fs.readFileSync(path.join(__dirname, '../templates', lang, 'star-history.md'), 'utf8')
+  'acknowledgements': fs.readFileSync(path.join(__dirname, '../templates', lang, 'acknowledgements.md'), 'utf8')
 };
 
 // Render the README template
