@@ -42,13 +42,13 @@ jobs:
 
           # Check if either README.md or README_en.md has changed
           README_CHANGED=$(git diff --quiet README.md || echo "changed")
-          README_EN_CHANGED=$(git diff --quiet README_en.md || echo "changed")
+          README_EN_CHANGED=$(git diff --quiet README_cn.md || echo "changed")
           
-          if [ -z "$README_CHANGED" ] && [ -z "$README_EN_CHANGED" ]; then
+          if [ -z "$README_CHANGED" ] && [ -z "$README_CN_CHANGED" ]; then
             echo "README files are up-to-date. No changes to commit."
           else
             echo "README files have changes. Committing..."
-            git add README.md README_en.md
+            git add README.md README_cn.md
             git commit -m "docs: update auto-generated README files"
             git push origin main
             echo "Changes pushed successfully."
