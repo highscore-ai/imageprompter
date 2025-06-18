@@ -10,7 +10,7 @@ const __dirname = path.dirname(__filename);
 
 const args = process.argv.slice(2);
 const args_lang = args.find(arg => arg.startsWith('--lang='));
-const lang = args_lang ? args_lang.split('=')[1] : 'en'; // Changed default from 'zh' to 'en'
+const lang = args_lang ? args_lang.split('=')[1] : 'en';
 const t = langs[lang];
 
 // read all case files
@@ -42,16 +42,16 @@ for (const c of cases) {
     cases_contents += Mustache.render(case_template, {
       case_no: c.case_no,
       t: t,
-      title: lang === 'en' ? c.title : c.title_en,
+      title: lang === 'en' ? c.title_en : c.title,
       author: c.author,
       author_link: c.author_link,
       source_links: source_links,
       image: c.image,
-      alt_text: lang === 'en' ? c.alt_text.trim() : c.alt_text_en.trim(),
+      alt_text: lang === 'en' ? c.alt_text_en.trim() : c.alt_text.trim(),
       attribution: c.attribution,
-      prompt: lang === 'en' ? c.prompt.trim() : c.prompt_en.trim(),
-      prompt_note: lang === 'en' ? c.prompt_note.trim() : c.prompt_note_en.trim(),
-      reference_note: lang === 'en' ? c.reference_note.trim() : c.reference_note_en.trim(),
+      prompt: lang === 'en' ? c.prompt_en.trim() : c.prompt.trim(),
+      prompt_note: lang === 'en' ? c.prompt_note_en.trim() : c.prompt_note.trim(),
+      reference_note: lang === 'en' ? c.reference_note_en.trim() : c.reference_note.trim(),
       submitter: c.submitter,
       submitter_link: c.submitter_link,
     }) + '\n';
@@ -62,7 +62,7 @@ const data = {
   't': t,
   'cases': cases.map(c => ({
     case_no: c.case_no,
-    title: lang === 'en' ? c.title : c.title_cn,
+    title: lang === 'en' ? c.title_en : c.title,
     author: c.author,
   })),
   'header': fs.readFileSync(path.join(__dirname, '../templates', lang, 'header.md'), 'utf8'),
@@ -70,7 +70,10 @@ const data = {
   'gpt4o-intro': fs.readFileSync(path.join(__dirname, '../templates', lang, 'gpt4o-intro.md'), 'utf8'),
   'cases-contents': cases_contents,
   'tools-intro': fs.readFileSync(path.join(__dirname, '../templates', lang, 'tools-intro.md'), 'utf8'),
-  'acknowledgements': fs.readFileSync(path.join(__dirname, '../templates', lang, 'acknowledgements.md'), 'utf8')
+  'prompting-tips': fs.readFileSync(path.join(__dirname, '../templates', lang, 'prompting-tips.md'), 'utf8'),
+  'how-to-contribute': fs.readFileSync(path.join(__dirname, '../templates', lang, 'how-to-contribute.md'), 'utf8'),
+  'acknowledgements': fs.readFileSync(path.join(__dirname, '../templates', lang, 'acknowledgements.md'), 'utf8'),
+  'star-history': fs.readFileSync(path.join(__dirname, '../templates', lang, 'star-history.md'), 'utf8')
 };
 
 // Render the README template
@@ -78,6 +81,6 @@ const readmeTemplate = fs.readFileSync(path.join(__dirname, '../templates/README
 const renderedReadme = Mustache.render(readmeTemplate, data);
 
 // Write the rendered README
-const filename = lang === 'en' ? 'README.md' : 'README_zh.md'; // Changed logic: English gets README.md, Chinese gets README_zh.md
+const filename = lang === 'en' ? 'README.md' : 'README_zh.md';
 fs.writeFileSync(path.join(__dirname, '../..', filename), renderedReadme);
 console.log(`${filename} generated successfully`);
