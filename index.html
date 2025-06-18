@@ -723,7 +723,7 @@
                 let websiteData;
                 
                 try {
-                    const response = await fetch('data/cases.json');
+                    const response = await fetch('docs/data/cases.json');
                     if (response.ok) {
                         websiteData = await response.json();
                         console.log('Loaded data from JSON file');
