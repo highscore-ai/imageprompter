@@ -10,7 +10,7 @@ const __dirname = path.dirname(__filename);
 
 const args = process.argv.slice(2);
 const args_lang = args.find(arg => arg.startsWith('--lang='));
-const lang = args_lang ? args_lang.split('=')[1] : 'zh';
+const lang = args_lang ? args_lang.split('=')[1] : 'en'; // Changed default from 'zh' to 'en'
 const t = langs[lang];
 
 // read all case files
@@ -81,6 +81,6 @@ const readmeTemplate = fs.readFileSync(path.join(__dirname, '../templates/README
 const renderedReadme = Mustache.render(readmeTemplate, data);
 
 // Write the rendered README
-const filename = lang === 'zh' ? 'README.md' : 'README_en.md';
+const filename = lang === 'en' ? 'README.md' : 'README_zh.md'; // Changed logic: English gets README.md, Chinese gets README_zh.md
 fs.writeFileSync(path.join(__dirname, '../..', filename), renderedReadme);
 console.log(`${filename} generated successfully`);
