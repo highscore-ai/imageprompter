@@ -26,8 +26,6 @@ Original source: https://github.com/jamez-bondos/awesome-gpt4o-images
 - [💡 Prompting Tips](#prompting-tips)
 - [🤝 How to Contribute](#how-to-contribute)
 - [🙏 Acknowledgements](#acknowledgements)
-- [🌟 Star History](#star-history)
-
 
 ---
 
