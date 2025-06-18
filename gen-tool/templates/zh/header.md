@@ -13,10 +13,6 @@
 
 案例主要来源于 Twitter/X 🐦 和 Sora 社区 🎬，希望这些案例能为您带来启发 💡，为你的灵感加速 🚀。
 
-<strong>另外，来自OpenAI官方发布的 gpt‑image‑1 模型的数十个精彩案例，由本项目精心整理和翻译，查看请戳👇</strong>
+本作品基于 Jamez Bondos 的 [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)，© 2025 Jamez Bondos，采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可协议。
+原始来源：https://github.com/jamez-bondos/awesome-gpt4o-images
 
-- 中文版：[OpenAI gpt-image-1: 40 个精选图像案例及提示词](./gpt-image-1/gpt-image-1.md)
-- 英文版：[OpenAI gpt-image-1: 40 Curated Prompt & Image Examples](./gpt-image-1/gpt-image-1-en.md)
-
-
-<strong>→ 喜欢就点 Star 支持！ / Smash that ⭐ if you like it!</strong>
