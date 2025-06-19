@@ -62,23 +62,22 @@
             50% { transform: translateY(-20px) rotate(180deg); }
         }
 
-        /* Header */
+        /* Compact Header */
         .header {
-            padding: 2rem 1rem;
+            padding: 1.5rem 1rem;
             text-align: center;
             background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%);
             border-bottom: 1px solid var(--border);
-            position: relative;
         }
 
         .header h1 {
-            font-size: clamp(2.5rem, 5vw, 4rem);
+            font-size: clamp(2rem, 4vw, 3rem);
             font-weight: 800;
             background: var(--gradient);
             background-clip: text;
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
-            margin-bottom: 1rem;
+            margin-bottom: 0.5rem;
             animation: glow 2s ease-in-out infinite alternate;
         }
 
@@ -88,43 +87,15 @@
         }
 
         .header p {
-            font-size: 1.2rem;
+            font-size: 1rem;
             color: var(--text-secondary);
             max-width: 600px;
-            margin: 0 auto 2rem;
+            margin: 0 auto;
         }
 
-        .badges {
-            display: flex;
-            gap: 1rem;
-            justify-content: center;
-            flex-wrap: wrap;
-            margin-bottom: 2rem;
-        }
-
-        .badge {
-            display: inline-flex;
-            align-items: center;
-            gap: 0.5rem;
-            padding: 0.5rem 1rem;
-            background: var(--bg-card);
-            border: 1px solid var(--border);
-            border-radius: 25px;
-            text-decoration: none;
-            color: var(--text-primary);
-            transition: all 0.3s ease;
-            font-size: 0.9rem;
-        }
-
-        .badge:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 10px 25px rgba(0, 212, 255, 0.2);
-            border-color: var(--accent);
-        }
-
-        /* Navigation */
+        /* Compact Navigation */
         .nav {
-            padding: 1rem;
+            padding: 0.75rem 1rem;
             background: var(--bg-secondary);
             border-bottom: 1px solid var(--border);
             position: sticky;
@@ -134,33 +105,13 @@
         }
 
         .nav-container {
-            max-width: 1200px;
+            max-width: 1400px;
             margin: 0 auto;
             display: flex;
             justify-content: space-between;
             align-items: center;
             flex-wrap: wrap;
             gap: 1rem;
-        }
-
-        .nav-links {
-            display: flex;
-            gap: 2rem;
-            flex-wrap: wrap;
-        }
-
-        .nav-link {
-            color: var(--text-secondary);
-            text-decoration: none;
-            font-weight: 500;
-            transition: all 0.3s ease;
-            padding: 0.5rem 1rem;
-            border-radius: 8px;
-        }
-
-        .nav-link:hover {
-            color: var(--accent);
-            background: rgba(0, 212, 255, 0.1);
         }
 
         .nav-right {
@@ -172,81 +123,70 @@
         .search-container {
             position: relative;
             flex: 1;
-            max-width: 300px;
+            max-width: 250px;
         }
 
         .search-input {
             width: 100%;
-            padding: 0.75rem 1rem 0.75rem 3rem;
+            padding: 0.5rem 1rem 0.5rem 2.5rem;
             background: var(--bg-card);
             border: 1px solid var(--border);
-            border-radius: 25px;
+            border-radius: 20px;
             color: var(--text-primary);
-            font-size: 0.9rem;
+            font-size: 0.85rem;
             transition: all 0.3s ease;
         }
 
         .search-input:focus {
             outline: none;
             border-color: var(--accent);
-            box-shadow: 0 0 20px var(--accent-glow);
+            box-shadow: 0 0 15px var(--accent-glow);
         }
 
         .search-icon {
             position: absolute;
-            left: 1rem;
+            left: 0.8rem;
             top: 50%;
             transform: translateY(-50%);
             color: var(--text-secondary);
-        }
-
-        .language-selector {
-            position: relative;
+            font-size: 0.9rem;
         }
 
         .language-select {
             background: var(--bg-card);
             border: 1px solid var(--border);
-            border-radius: 20px;
+            border-radius: 15px;
             color: var(--text-primary);
-            padding: 0.5rem 1rem;
-            font-size: 0.9rem;
+            padding: 0.4rem 0.8rem;
+            font-size: 0.85rem;
             cursor: pointer;
             transition: all 0.3s ease;
             appearance: none;
-            background-image: url("data:image/svg+xml;charset=UTF-8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23a0a0a0'><path d='M7 10l5 5 5-5z'/></svg>");
-            background-repeat: no-repeat;
-            background-position: right 0.7rem center;
-            background-size: 1rem;
-            padding-right: 2.5rem;
+            min-width: 80px;
         }
 
         .language-select:focus {
             outline: none;
             border-color: var(--accent);
-            box-shadow: 0 0 15px var(--accent-glow);
-        }
-
-        .language-select:hover {
-            border-color: var(--accent);
         }
 
         .filter-container {
             display: flex;
-            gap: 1rem;
+            gap: 0.5rem;
             margin: 1rem 0;
             flex-wrap: wrap;
+            justify-content: center;
         }
 
         .filter-btn {
-            padding: 0.5rem 1rem;
+            padding: 0.4rem 0.8rem;
             background: transparent;
             border: 1px solid var(--border);
-            border-radius: 20px;
+            border-radius: 15px;
             color: var(--text-secondary);
             cursor: pointer;
             transition: all 0.3s ease;
-            font-size: 0.85rem;
+            font-size: 0.8rem;
         }
 
         .filter-btn:hover,
@@ -260,21 +200,21 @@
         .container {
             max-width: 1400px;
             margin: 0 auto;
-            padding: 2rem 1rem;
+            padding: 1rem;
         }
 
-        /* Stats */
+        /* Compact Stats */
         .stats {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 1.5rem;
-            margin-bottom: 3rem;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
         }
 
         .stat-card {
             background: var(--bg-card);
-            padding: 2rem;
-            border-radius: 16px;
+            padding: 1rem;
+            border-radius: 12px;
             border: 1px solid var(--border);
             text-align: center;
             transition: all 0.3s ease;
@@ -293,12 +233,12 @@
         }
 
         .stat-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+            transform: translateY(-3px);
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
         }
 
         .stat-number {
-            font-size: 2.5rem;
+            font-size: 1.8rem;
             font-weight: 800;
             background: var(--gradient);
             background-clip: text;
@@ -309,105 +249,81 @@
 
         .stat-label {
             color: var(--text-secondary);
-            font-size: 0.9rem;
+            font-size: 0.75rem;
             text-transform: uppercase;
-            letter-spacing: 1px;
+            letter-spacing: 0.5px;
         }
 
-        /* Case grid */
-        .cases-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-            gap: 2rem;
-            margin-top: 2rem;
+        /* Masonry Grid */
+        .masonry-container {
+            column-count: 4;
+            column-gap: 1rem;
+            margin-top: 1rem;
+        }
+
+        @media (max-width: 1200px) {
+            .masonry-container {
+                column-count: 3;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .masonry-container {
+                column-count: 2;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .masonry-container {
+                column-count: 1;
+            }
         }
 
         .case-card {
             background: var(--bg-card);
-            border-radius: 16px;
+            border-radius: 12px;
             border: 1px solid var(--border);
             overflow: hidden;
             transition: all 0.4s ease;
             position: relative;
             cursor: pointer;
+            break-inside: avoid;
+            margin-bottom: 1rem;
+            display: inline-block;
+            width: 100%;
         }
 
         .case-card:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 25px 50px rgba(0, 0, 0, 0.4);
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
             border-color: var(--accent);
         }
 
         .case-image {
             width: 100%;
-            height: 250px;
-            object-fit: cover;
+            height: auto;
+            display: block;
             transition: transform 0.4s ease;
         }
 
         .case-card:hover .case-image {
-            transform: scale(1.05);
-        }
-
-        .case-content {
-            padding: 1.5rem;
-        }
-
-        .case-number {
-            font-size: 0.8rem;
-            color: var(--accent);
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            margin-bottom: 0.5rem;
-        }
-
-        .case-title {
-            font-size: 1.1rem;
-            font-weight: 600;
-            margin-bottom: 0.5rem;
-            line-height: 1.4;
-        }
-
-        .case-author {
-            color: var(--text-secondary);
-            font-size: 0.9rem;
-            margin-bottom: 1rem;
-        }
-
-        .case-tags {
-            display: flex;
-            gap: 0.5rem;
-            flex-wrap: wrap;
-            margin-bottom: 1rem;
-        }
-
-        .tag {
-            background: rgba(0, 212, 255, 0.1);
-            color: var(--accent);
-            padding: 0.25rem 0.75rem;
-            border-radius: 12px;
-            font-size: 0.8rem;
-            border: 1px solid rgba(0, 212, 255, 0.2);
-        }
-
-        .case-actions {
-            display: flex;
-            gap: 1rem;
+            transform: scale(1.03);
         }
 
         .btn {
-            padding: 0.5rem 1rem;
-            border-radius: 8px;
+            padding: 0.4rem 0.8rem;
+            border-radius: 6px;
             text-decoration: none;
-            font-size: 0.85rem;
+            font-size: 0.75rem;
             font-weight: 500;
             transition: all 0.3s ease;
             display: inline-flex;
             align-items: center;
-            gap: 0.5rem;
+            gap: 0.3rem;
             border: none;
             cursor: pointer;
+            flex: 1;
+            justify-content: center;
         }
 
         .btn-primary {
@@ -422,11 +338,11 @@
         }
 
         .btn:hover {
-            transform: translateY(-2px);
+            transform: translateY(-1px);
         }
 
         .btn-primary:hover {
-            box-shadow: 0 10px 25px var(--accent-glow);
+            box-shadow: 0 8px 20px var(--accent-glow);
         }
 
         .btn-secondary:hover {
@@ -443,10 +359,10 @@
         }
 
         .spinner {
-            width: 40px;
-            height: 40px;
-            border: 3px solid var(--border);
-            border-top: 3px solid var(--accent);
+            width: 30px;
+            height: 30px;
+            border: 2px solid var(--border);
+            border-top: 2px solid var(--accent);
             border-radius: 50%;
             animation: spin 1s linear infinite;
         }
@@ -486,14 +402,14 @@
             background: var(--bg-card);
             border-radius: 16px;
             border: 1px solid var(--border);
-            max-width: 800px;
+            max-width: 700px;
             max-height: 90vh;
             overflow-y: auto;
             width: 90%;
         }
 
         .modal-header {
-            padding: 2rem 2rem 0;
+            padding: 1.5rem 1.5rem 0;
             display: flex;
             justify-content: space-between;
             align-items: flex-start;
@@ -516,7 +432,7 @@
         }
 
         .modal-body {
-            padding: 2rem;
+            padding: 1.5rem;
         }
 
         .prompt-code {
@@ -526,10 +442,11 @@
             padding: 1rem;
             margin: 1rem 0;
             font-family: 'Monaco', 'Menlo', monospace;
-            font-size: 0.9rem;
+            font-size: 0.85rem;
             line-height: 1.5;
             white-space: pre-wrap;
             overflow-x: auto;
+            position: relative;
         }
 
         .copy-btn {
@@ -541,7 +458,7 @@
             color: var(--text-secondary);
             padding: 0.25rem 0.5rem;
             border-radius: 4px;
-            font-size: 0.75rem;
+            font-size: 0.7rem;
             cursor: pointer;
         }
 
@@ -565,40 +482,34 @@
         @media (max-width: 768px) {
             .nav-container {
                 flex-direction: column;
-                gap: 1rem;
-            }
-
-            .nav-links {
-                justify-content: center;
+                gap: 0.8rem;
             }
 
             .nav-right {
-                flex-direction: column;
+                flex-direction: row;
                 width: 100%;
-                gap: 1rem;
+                gap: 0.8rem;
+                justify-content: center;
             }
 
             .search-container {
-                max-width: none;
-                order: 1;
-            }
-
-            .language-selector {
-                order: 2;
-                align-self: center;
-            }
-
-            .cases-grid {
-                grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-                gap: 1.5rem;
+                max-width: 200px;
             }
 
             .header {
-                padding: 1.5rem 1rem;
+                padding: 1rem;
             }
 
             .header h1 {
-                font-size: 2.5rem;
+                font-size: 2rem;
+            }
+
+            .stats {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .container {
+                padding: 0.8rem;
             }
         }
     </style>
@@ -613,13 +524,6 @@
 
     <nav class="nav">
         <div class="nav-container">
-            <div class="nav-links">
-                <a href="#cases" class="nav-link" data-text-key="navCases">Cases</a>
-                <a href="#tools" class="nav-link" data-text-key="navTools">Tools</a>
-                <a href="#tips" class="nav-link" data-text-key="navTips">Tips</a>
-                <a href="#contribute" class="nav-link" data-text-key="navContribute">Contribute</a>
-            </div>
-            
             <div class="nav-right">
                 <div class="search-container">
                     <input type="text" class="search-input" placeholder="Search cases..." id="searchInput">
@@ -628,7 +532,7 @@
                 
                 <div class="language-selector">
                     <select id="languageSelect" class="language-select">
-                        <option value="en">English</option>
+                        <option value="en">EN</option>
                         <option value="zh">中文</option>
                     </select>
                 </div>
@@ -671,7 +575,7 @@
                 <p data-text-key="errorDescription">Please check your internet connection or try again later.</p>
             </div>
             
-            <div class="cases-grid" id="casesGrid" style="display: none;">
+            <div class="masonry-container" id="casesGrid" style="display: none;">
                 <!-- Cases will be loaded dynamically -->
             </div>
             
@@ -708,10 +612,6 @@
             en: {
                 pageTitle: "Awesome GPT-4o Images ✨",
                 pageDescription: "A curated collection of images and prompts generated by GPT-4o and gpt-image-1",
-                navCases: "Cases",
-                navTools: "Tools", 
-                navTips: "Tips",
-                navContribute: "Contribute",
                 statTotalCases: "Total Cases",
                 statContributors: "Contributors",
                 statStars: "GitHub Stars",
@@ -722,7 +622,7 @@
                 errorDescription: "Please check your internet connection or try again later.",
                 noResultsTitle: "No cases found",
                 noResultsDescription: "Try adjusting your search or filter criteria.",
-                viewDetails: "👁️ View Details",
+                viewDetails: "👁️ View",
                 source: "🔗 Source",
                 copy: "Copy",
                 copied: "Copied!",
@@ -737,10 +637,6 @@
             zh: {
                 pageTitle: "精选 GPT-4o 图像 ✨",
                 pageDescription: "GPT-4o 和 gpt-image-1 生成的图像和提示词精选集合",
-                navCases: "案例",
-                navTools: "工具",
-                navTips: "技巧", 
-                navContribute: "贡献",
                 statTotalCases: "案例总数",
                 statContributors: "贡献者",
                 statStars: "GitHub 星标",
@@ -751,7 +647,7 @@
                 errorDescription: "请检查网络连接或稍后重试。",
                 noResultsTitle: "未找到案例",
                 noResultsDescription: "请尝试调整搜索或筛选条件。",
-                viewDetails: "👁️ 查看详情",
+                viewDetails: "👁️ 查看",
                 source: "🔗 来源",
                 copy: "复制",
                 copied: "已复制！",
@@ -777,7 +673,6 @@
          * Initialize language settings
          */
         function initializeLanguage() {
-            // Check for saved language preference
             const savedLanguage = localStorage.getItem('preferred-language');
             if (savedLanguage && ['en', 'zh'].includes(savedLanguage)) {
                 currentLanguage = savedLanguage;
@@ -792,17 +687,13 @@
          */
         function setupLanguageSelector() {
             const languageSelect = document.getElementById('languageSelect');
-            
-            // Set current language
             languageSelect.value = currentLanguage;
             
             languageSelect.addEventListener('change', function(e) {
                 currentLanguage = e.target.value;
                 localStorage.setItem('preferred-language', currentLanguage);
-                
-                // Update page content
                 updatePageLanguage();
-                displayCases(); // Refresh case display
+                displayCases();
             });
         }
 
@@ -812,11 +703,9 @@
         function updatePageLanguage() {
             const t = translations[currentLanguage];
             
-            // Update page title and description
             document.getElementById('pageTitle').textContent = t.pageTitle;
             document.getElementById('pageDescription').textContent = t.pageDescription;
             
-            // Update navigation
             document.querySelectorAll('[data-text-key]').forEach(element => {
                 const key = element.getAttribute('data-text-key');
                 if (t[key]) {
@@ -824,10 +713,7 @@
                 }
             });
             
-            // Update search placeholder
             document.getElementById('searchInput').placeholder = t.searchPlaceholder;
-            
-            // Update HTML lang attribute
             document.documentElement.lang = currentLanguage;
         }
 
@@ -849,109 +735,12 @@
             try {
                 console.log('Loading cases data...');
                 
-                // Try to load from docs/data/cases.json first, fallback to sample data
-                let websiteData;
-                
-                try {
-                    const response = await fetch('docs/data/cases.json');
-                    if (response.ok) {
-                        websiteData = await response.json();
-                        console.log('Loaded data from JSON file');
-                    } else {
-                        throw new Error('JSON file not found');
-                    }
-                } catch (fetchError) {
-                    console.log('JSON file not found, using fallback data');
-                    // Fallback to sample data if JSON file is not available
-                    websiteData = {
-                        metadata: {
-                            totalCases: 3,
-                            lastUpdated: new Date().toISOString(),
-                            version: '1.0.0'
-                        },
-                        cases: [
-                            {
-                                id: 101,
-                                title: "泡泡食物",
-                                title_en: "Edible Pop",
-                                author: "@aziz4ai",
-                                author_link: "https://x.com/aziz4ai/",
-                                source_links: [
-                                    { url: "https://x.com/aziz4ai/status/1934986353848017349" }
-                                ],
-                                image: "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAwIiBoZWlnaHQ9IjI1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjMjUyNTI1Ii8+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNCIgZmlsbD0iIzY2NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZHk9Ii4zZW0iPkVkaWJsZSBQb3A8L3RleHQ+PC9zdmc+",
-                                alt_text: "泡泡食物",
-                                alt_text_en: "Edible Pop",
-                                prompt: "一张超逼真的DSLR相机拍摄照片，展示出[品牌/产品]——多汁、酥脆、令人垂涎。由一只可爱的Q版卡通小手拿着，正准备咬上一口。背景为平面2D插画，采用柔和的马卡龙色调，看起来像能吃的一样，灵感来自其视觉识别风格——带有超现实、可爱风格的矢量元素，如糖屑、星星、柔和渐变和俏皮图形。加入一个醒目的口号，仅用**一个有力的单词**来形容口味。在食物上或口号旁边清晰展示品牌Logo。构图为居中、1:1方形比例，电影感柔光，真实食物与扁平插画背景形成强烈对比，4K分辨率。",
-                                prompt_en: "A hyper-realistic DSLR photo of the [brand/product] — juicy, crispy, mouth-watering. Held by a cute cartoon chibi hand about to take a bite. The background is a flat 2D illustration with pastel, edible-looking colors inspired by its visual identity — surreal, kawaii-style vector elements like sprinkles, stars, soft gradients, and playful shapes. Add a bold slogan using ONE powerful word that describes the flavor (like CRUNCH, MELT, WOW). Include the logo clearly on the food or next to the slogan. Composition: centered, 1:1 square, cinematic soft lighting, strong contrast between real food and flat illustrated background, 4K resolution.",
-                                prompt_note: "",
-                                prompt_note_en: "",
-                                reference_note: "",
-                                reference_note_en: "A brand/product photo.",
-                                submitter: "",
-                                submitter_link: "",
-                                tags: ["anime", "cartoon", "realistic", "poster", "logo", "food", "chibi", "2d", "colorful"],
-                                hasReference: true,
-                                createdAt: "2025-06-17T15:50:21.751Z"
-                            },
-                            {
-                                id: 100,
-                                title: "实物与手绘涂鸦创意广告",
-                                title_en: "Creative Ad with Real Object and Hand-Drawn Doodle",
-                                author: "@azed_ai",
-                                author_link: "https://x.com/azed_ai",
-                                source_links: [
-                                    { url: "https://x.com/azed_ai/status/1923016036120658122" }
-                                ],
-                                image: "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAwIiBoZWlnaHQ9IjI1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjMjUyNTI1Ii8+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNCIgZmlsbD0iIzY2NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZHk9Ii4zZW0iPkNyZWF0aXZlIEFkPC90ZXh0Pjwvc3ZnPg==",
-                                alt_text: "实物与手绘涂鸦创意广告",
-                                alt_text_en: "Creative Ad with Real Object and Hand-Drawn Doodle",
-                                prompt: "一则简约且富有创意的广告，设置在纯白背景上。一个真实的 [真实物体] 与手绘黑色墨水涂鸦相结合，线条松散而俏皮。涂鸦描绘了：[涂鸦概念及交互：以巧妙、富有想象力的方式与物体互动]。在顶部或中部加入粗体黑色 [广告文案] 文字。在底部清晰放置 [品牌标志]。视觉效果应简洁、有趣、高对比度且构思巧妙。",
-                                prompt_en: "A minimalist and creative advertisement set on a clean white background. A real [Real Object] is integrated into a hand-drawn black ink doodle, using loose, playful lines. The [Doodle Concept] interacts with the object in a clever, imaginative way. Include bold black [Ad Copy] text at the top or center. Place the [Brand Logo] clearly at the bottom. The visual should be clean, fun, high-contrast, and conceptually smart.",
-                                prompt_note: "请将提示词中的 [真实物体]、[涂鸦概念及交互]、[广告文案] 和 [品牌标志] 替换为具体内容。",
-                                prompt_note_en: "Replace [Real Object], [Doodle Concept], [Ad Copy], and [Brand Logo] in the prompt with specific details.",
-                                reference_note: "",
-                                reference_note_en: "",
-                                submitter: "",
-                                submitter_link: "",
-                                tags: ["minimalist", "poster", "logo"],
-                                hasReference: false,
-                                createdAt: "2025-06-17T15:31:06.871Z"
-                            },
-                            {
-                                id: 99,
-                                title: "黑白肖像艺术",
-                                title_en: "Black and White Portrait Art",
-                                author: "@ZHO_ZHO_ZHO",
-                                author_link: "https://x.com/ZHO_ZHO_ZHO",
-                                source_links: [
-                                    { url: "https://x.com/ZHO_ZHO_ZHO/status/1922150692145283299" }
-                                ],
-                                image: "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAwIiBoZWlnaHQ9IjI1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjMjUyNTI1Ii8+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNCIgZmlsbD0iIzY2NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZHk9Ii4zZW0iPkJsYWNrICYgV2hpdGU8L3RleHQ+PC9zdmc+",
-                                alt_text: "黑白肖像艺术",
-                                alt_text_en: "Black and White Portrait Art",
-                                prompt: "高分辨率的黑白肖像艺术作品，采用编辑类和艺术摄影风格。背景呈现柔和渐变效果，从中灰过渡到近乎纯白，营造出层次感与寂静氛围。",
-                                prompt_en: "A high-resolution black and white portrait artwork, in an editorial and fine art photography style. The background features a soft gradient, transitioning from mid-gray to almost pure white, creating a sense of depth and tranquility.",
-                                prompt_note: "",
-                                prompt_note_en: "",
-                                reference_note: "",
-                                reference_note_en: "",
-                                submitter: "",
-                                submitter_link: "",
-                                tags: ["realistic", "poster", "logo", "portrait", "black-white"],
-                                hasReference: false,
-                                createdAt: "2025-06-17T15:31:07.516Z"
-                            }
-                        ],
-                        stats: {
-                            totalCases: 3,
-                            contributors: 3,
-                            categories: 8,
-                            withReference: 1
-                        }
-                    };
+                const response = await fetch('docs/data/cases.json');
+                if (!response.ok) {
+                    throw new Error('JSON file not found');
                 }
                 
+                const websiteData = await response.json();
                 allCases = websiteData.cases || [];
                 filteredCases = [...allCases];
                 
@@ -966,7 +755,7 @@
                 
                 // Hide loading, show content
                 loading.style.display = 'none';
-                casesGrid.style.display = 'grid';
+                casesGrid.style.display = 'block';
                 document.getElementById('filterContainer').style.display = 'flex';
                 
                 console.log(`Successfully loaded ${allCases.length} cases`);
@@ -996,11 +785,9 @@
             const filterContainer = document.getElementById('filterContainer');
             const allTags = [...new Set(allCases.flatMap(c => c.tags || []))].sort();
             
-            // Clear existing buttons except "All"
             const existingButtons = filterContainer.querySelectorAll('.filter-btn:not([data-filter="all"])');
             existingButtons.forEach(btn => btn.remove());
             
-            // Add tag filter buttons
             allTags.forEach(tag => {
                 const button = document.createElement('button');
                 button.className = 'filter-btn';
@@ -1012,7 +799,7 @@
         }
 
         /**
-         * Display cases in the grid
+         * Display cases in the masonry grid
          */
         function displayCases() {
             const casesGrid = document.getElementById('casesGrid');
@@ -1025,44 +812,20 @@
             }
             
             noResults.style.display = 'none';
-            casesGrid.style.display = 'grid';
+            casesGrid.style.display = 'block';
             
             casesGrid.innerHTML = filteredCases.map(caseData => createCaseCard(caseData)).join('');
-            
-            // Add click listeners to case cards
-            document.querySelectorAll('.case-card').forEach((card, index) => {
-                card.addEventListener('click', () => openCaseModal(filteredCases[index]));
-            });
         }
 
         /**
-         * Create HTML for a case card
+         * Create HTML for a case card (image only)
          */
         function createCaseCard(caseData) {
-            const title = currentLanguage === 'zh' ? caseData.title : caseData.title_en;
             const altText = currentLanguage === 'zh' ? caseData.alt_text : caseData.alt_text_en;
-            const tags = (caseData.tags || []).map(tag => `<span class="tag">${tag}</span>`).join('');
-            const sourceLinks = caseData.source_links && caseData.source_links.length > 0 
-                ? caseData.source_links[0].url 
-                : '#';
             
             return `
-                <div class="case-card" data-case-id="${caseData.id}">
+                <div class="case-card" data-case-id="${caseData.id}" onclick="openCaseModalById(${caseData.id})">
                     <img src="${caseData.image}" alt="${altText}" class="case-image">
-                    <div class="case-content">
-                        <div class="case-number">Case ${caseData.id}</div>
-                        <h3 class="case-title">${title}</h3>
-                        <p class="case-author">by ${caseData.author}</p>
-                        <div class="case-tags">${tags}</div>
-                        <div class="case-actions">
-                            <button class="btn btn-primary" onclick="event.stopPropagation(); openCaseModalById(${caseData.id})">
-                                ${getText('viewDetails')}
-                            </button>
-                            <a href="${sourceLinks}" class="btn btn-secondary" onclick="event.stopPropagation()" target="_blank">
-                                ${getText('source')}
-                            </a>
-                        </div>
-                    </div>
                 </div>
             `;
         }
@@ -1073,12 +836,10 @@
         function filterCases(filter) {
             currentFilter = filter;
             
-            // Update active filter button
             document.querySelectorAll('.filter-btn').forEach(btn => {
                 btn.classList.toggle('active', btn.getAttribute('data-filter') === filter);
             });
             
-            // Filter cases
             if (filter === 'all') {
                 filteredCases = allCases.filter(caseData => 
                     matchesSearch(caseData, currentSearch)
@@ -1101,7 +862,6 @@
             searchInput.addEventListener('input', function(e) {
                 currentSearch = e.target.value.toLowerCase();
                 
-                // Apply both search and filter
                 if (currentFilter === 'all') {
                     filteredCases = allCases.filter(caseData => 
                         matchesSearch(caseData, currentSearch)
@@ -1139,14 +899,12 @@
          * Setup modal event listeners
          */
         function setupModalListeners() {
-            // Close modal when clicking outside
             document.getElementById('caseModal').addEventListener('click', function(e) {
                 if (e.target === this) {
                     closeModal();
                 }
             });
 
-            // Close modal with escape key
             document.addEventListener('keydown', function(e) {
                 if (e.key === 'Escape') {
                     closeModal();
@@ -1178,7 +936,7 @@
             const referenceNote = currentLanguage === 'zh' ? caseData.reference_note : caseData.reference_note_en;
             const altText = currentLanguage === 'zh' ? caseData.alt_text : caseData.alt_text_en;
             
-            modalTitle.textContent = `Case ${caseData.id}: ${title}`;
+            modalTitle.textContent = `#${caseData.id}: ${title}`;
             
             const sourceLinks = caseData.source_links && caseData.source_links.length > 0
                 ? caseData.source_links.map((link, i) => 
@@ -1192,7 +950,7 @@
                 <div style="margin-bottom: 1.5rem;">
                     <strong>${getText('author')}</strong> <a href="${caseData.author_link}" target="_blank" style="color: var(--accent);">${caseData.author}</a><br>
                     <strong>${getText('sourceLabel')}</strong> ${sourceLinks}
-                    ${caseData.hasReference ? `<br><strong>${getText('referenceImageRequired')}</strong> ${getText('referenceImageRequired').includes('：') || getText('referenceImageRequired').includes(':') ? '' : 'Yes'}` : ''}
+                    ${caseData.hasReference ? `<br><strong>${getText('referenceImageRequired')}</strong> Yes` : ''}
                     ${caseData.submitter ? `<br><strong>${getText('submittedBy')}</strong> <a href="${caseData.submitter_link}" target="_blank" style="color: var(--accent);">${caseData.submitter}</a>` : ''}
                 </div>
 
@@ -1219,7 +977,6 @@
             if (caseData) {
                 const prompt = currentLanguage === 'zh' ? caseData.prompt : caseData.prompt_en;
                 navigator.clipboard.writeText(prompt).then(() => {
-                    // Show temporary feedback
                     const btn = event.target;
                     const originalText = btn.textContent;
                     btn.textContent = getText('copied');
@@ -1241,20 +998,6 @@
             document.getElementById('caseModal').style.display = 'none';
             document.body.style.overflow = 'auto';
         }
-
-        // Smooth scrolling for navigation links
-        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-            anchor.addEventListener('click', function (e) {
-                e.preventDefault();
-                const target = document.querySelector(this.getAttribute('href'));
-                if (target) {
-                    target.scrollIntoView({
-                        behavior: 'smooth',
-                        block: 'start'
-                    });
-                }
-            });
-        });
     </script>
 </body>
 </html>
