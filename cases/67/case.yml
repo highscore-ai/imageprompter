@@ -1,6 +1,6 @@
 title: 超写实3D游戏
 title_en: Ultra-realistic 3D Game
-author: "@ZHO_ZHO_ZHO"
+author: '@ZHO_ZHO_ZHO'
 author_link: https://x.com/ZHO_ZHO_ZHO
 source_links:
   - url: https://x.com/ZHO_ZHO_ZHO/status/1913648013144137840
@@ -17,9 +17,17 @@ prompt_en: |
   Ultra-realistic 3D rendered image that replicates the character design of Natasha from Command & Conquer: Red Alert 3 in 2008, following the original model exactly. The scene is set in a dim and cluttered bedroom from the year 2008. The character is sitting on the carpet, facing an old-fashioned television that is playing Command & Conquer: Red Alert 3 and a game console controller.
   The entire room is filled with a nostalgic atmosphere of the year 2008: snack packaging bags, soda cans, posters, and tangled wires are everywhere. Natasha Volkova is captured in the moment of turning her head, looking back at the camera over her shoulder. There is an innocent smile on her iconic ethereally beautiful face. Her upper body is slightly twisted, with a natural dynamic, as if she is reacting to being startled by the flash.
   The flash slightly overexposes her face and clothes, making her silhouette stand out more prominently in the dimly lit room. The whole photo appears raw and natural. The strong contrast between light and dark casts deep shadows behind her. The image is full of tactile feel, with a simulated texture that resembles an authentic film snapshot from 2008.
-prompt_note: ""
-prompt_note_en: ""
-reference_note: ""
-reference_note_en: ""
+prompt_note: ''
+prompt_note_en: ''
+reference_note: ''
+reference_note_en: ''
 submitter: wowmarcomei
 submitter_link: https://github.com/wowmarcomei
+title_ja: 超リアルな3Dゲーム
+alt_text_ja: 超リアルな3Dゲーム
+prompt_ja: |-
+  超リアルな3Dレンダリング画像で、2008年の「コマンド＆コンカー：レッドアラート3」に登場するナターシャのキャラクターデザインを、オリジナルのモデリングに忠実に再現しています。舞台は薄暗く散らかった2008年代の寝室で、キャラクターは床に座り、「コマンド＆コンカー：レッドアラート3」が映し出されている古いテレビとゲームコントローラーに向かっています。
+
+  部屋全体は2008年代のノスタルジックな雰囲気に満ちています：スナック菓子の包装、ソーダ缶、ポスター、絡み合った電線など。ナターシャ・ヴォルコワは振り向いた瞬間を捉えられ、カメラ目線で振り返っており、彼女の特徴的な神秘的で美しい顔には純粋な微笑みが浮かんでいます。上半身は自然に少しねじれており、まるでフラッシュに驚いて反応したかのような自然な動きを見せています。
+
+  フラッシュが彼女の顔と服を少し露出オーバーにし、暗い部屋の中で彼女のシルエットをより際立たせています。写真全体が生々しく自然で、強いコントラストが彼女の背後に深い影を落とし、画像には質感があり、2008年のフィルムスナップショットを模した本物のような質感が漂っています。

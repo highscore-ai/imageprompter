@@ -1,7 +1,7 @@
 title: 玩具盒中的国家立体模型
-title_en: "Country Diorama in a Toy Box"
-author: "@TheRelianceAI"
-author_link: "https://x.com/TheRelianceAI"
+title_en: Country Diorama in a Toy Box
+author: '@TheRelianceAI'
+author_link: https://x.com/TheRelianceAI
 source_links:
   - url: https://x.com/TheRelianceAI/status/1925223613055017251
 image: country_diorama_in_toy_box.png
@@ -15,7 +15,11 @@ prompt_note: |
   请将提示词中的 `[国家名称]` 替换为具体的国家名称。
 prompt_note_en: |
   Please replace `[COUNTRY NAME]` in the prompt with a specific country name.
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: おもちゃ箱の中の国の立体模型
+alt_text_ja: おもちゃ箱の中の[国名]立体模型
+prompt_ja: 超リアルな俯瞰写真作品で、ベージュ色の段ボール箱の中に入った3Dプリントの立体模型が、二つの人の手によって蓋が開けられている様子を表現しています。箱の中には[国名]のミニチュア風景が広がり、象徴的なランドマーク、地形、建物、川、植生、そして多数の微細な人物モデルが含まれています。この立体模型は、生き生きとした地理的特徴に合った要素で満ちており、すべてが触り心地の良いおもちゃのようなスタイルで、マットな3Dプリント質感で作られ、プリントの層が見える仕上がりになっています。上部では、箱の蓋の内側に大きくカラフルな浮き出しプラスチック文字で「[国名]」と表示されています—各文字は異なる明るい色で彩られています。温かみのある映画的な光が当たり、質感と影を強調し、まるで見る人が魔法のような国のミニチュアバージョンを開けているかのような、リアル感と魅力を醸し出しています。
+prompt_note_ja: プロンプト内の「[国家名称]」を具体的な国名に置き換えてください。

@@ -1,11 +1,9 @@
 # Awesome GPT-4o Images ✨
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![English](https://img.shields.io/badge/English-Click-yellow)](README_en.md)
-[![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README.md)
-<a href="https://github.com/jamez-bondos/awesome-gpt4o-images/stargazers">
-  <img src="https://img.shields.io/github/stars/jamez-bondos/awesome-gpt4o-images?style=social" alt="GitHub stars">
-</a>
+[![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
+[![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README_cn.md)
+[![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-blue)](README_ja.md)
 
 🎉 欢迎来到 GPT‑4o 图片精选！
 

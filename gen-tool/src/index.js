@@ -13,6 +13,14 @@ const args_lang = args.find(arg => arg.startsWith('--lang='));
 const lang = args_lang ? args_lang.split('=')[1] : 'en';
 const t = langs[lang];
 
+// Validate language support
+if (!t) {
+  console.error(`❌ Language '${lang}' not supported. Available languages: ${Object.keys(langs).join(', ')}`);
+  process.exit(1);
+}
+
+console.log(`🌐 Generating README for language: ${lang}`);
+
 // read all case files
 const caseDirs = fs.readdirSync(path.join(__dirname, '../../cases'));
 const numericDirs = caseDirs.filter(dir => !isNaN(dir));
@@ -28,32 +36,65 @@ let cases = numericDirs.map(dir => {
     attribution: attributionData
   };
 });
+
 // Sort cases in descending order by case number
 cases.sort((a, b) => b.case_no - a.case_no);
+
+console.log(`📊 Found ${cases.length} cases to process`);
+
+// Helper function to get field value based on language
+function getLocalizedField(caseData, fieldName) {
+  if (lang === 'ja') {
+    // Japanese: try _ja field first, then fallback to Chinese, then English
+    return caseData[`${fieldName}_ja`] || caseData[fieldName] || caseData[`${fieldName}_en`] || '';
+  } else if (lang === 'en') {
+    // English: try _en field first, then fallback to Chinese
+    return caseData[`${fieldName}_en`] || caseData[fieldName] || '';
+  } else {
+    // Chinese (zh): use base field, fallback to English
+    return caseData[fieldName] || caseData[`${fieldName}_en`] || '';
+  }
+}
 
 // render cases
 const case_template = fs.readFileSync(path.join(__dirname, '../templates/case.md'), 'utf8');
 let cases_contents = '';
+
 for (const c of cases) {
     const source_links = c.source_links.length === 1
       ? `[${t.source_link_caption}](${c.source_links[0].url})`
     : c.source_links.map((link, i) => `[${t.source_link_caption}${i + 1}](${link.url})`).join(' | ');
 
+    // Get localized content based on language
+    const title = getLocalizedField(c, 'title');
+    const alt_text = getLocalizedField(c, 'alt_text');
+    const prompt = getLocalizedField(c, 'prompt');
+    const prompt_note = getLocalizedField(c, 'prompt_note');
+    const reference_note = getLocalizedField(c, 'reference_note');
+    
+    // Get attribution title
+    const attribution_title = getLocalizedField(c.attribution, 'title');
+
+    console.log(`📝 Processing Case ${c.case_no}: ${title.substring(0, 30)}...`);
+
     cases_contents += Mustache.render(case_template, {
       case_no: c.case_no,
       t: t,
-      title: lang === 'en' ? c.title_en : c.title,
+      title: title.trim(),
       author: c.author,
       author_link: c.author_link,
       source_links: source_links,
       image: c.image,
-      alt_text: lang === 'en' ? c.alt_text_en.trim() : c.alt_text.trim(),
-      attribution: c.attribution,
-      prompt: lang === 'en' ? c.prompt_en.trim() : c.prompt.trim(),
-      prompt_note: lang === 'en' ? c.prompt_note_en.trim() : c.prompt_note.trim(),
-      reference_note: lang === 'en' ? c.reference_note_en.trim() : c.reference_note.trim(),
-      submitter: c.submitter,
-      submitter_link: c.submitter_link,
+      alt_text: alt_text.trim(),
+      attribution: {
+        ...c.attribution,
+        title: attribution_title
+      },
+      prompt: prompt.trim(),
+      prompt_note: prompt_note.trim(),
+      reference_note: reference_note.trim(),
+      submitter: c.submitter || '',
+      submitter_link: c.submitter_link || '',
     }) + '\n';
 }
 
@@ -62,7 +103,7 @@ const data = {
   't': t,
   'cases': cases.map(c => ({
     case_no: c.case_no,
-    title: lang === 'en' ? c.title_en : c.title,
+    title: getLocalizedField(c, 'title'),
     author: c.author,
   })),
   'header': fs.readFileSync(path.join(__dirname, '../templates', lang, 'header.md'), 'utf8'),
@@ -77,7 +118,39 @@ const data = {
 const readmeTemplate = fs.readFileSync(path.join(__dirname, '../templates/README.md.md'), 'utf8');
 const renderedReadme = Mustache.render(readmeTemplate, data);
 
+// Determine output filename based on language
+let filename;
+switch(lang) {
+  case 'en':
+    filename = 'README.md';
+    break;
+  case 'zh':
+    filename = 'README_cn.md';
+    break;
+  case 'ja':
+    filename = 'README_ja.md';
+    break;
+  default:
+    filename = `README_${lang}.md`;
+}
+
 // Write the rendered README
-const filename = lang === 'en' ? 'README.md' : 'README_cn.md';
-fs.writeFileSync(path.join(__dirname, '../..', filename), renderedReadme);
-console.log(`${filename} generated successfully`);
+const outputPath = path.join(__dirname, '../..', filename);
+fs.writeFileSync(outputPath, renderedReadme);
+
+console.log(`✅ ${filename} generated successfully!`);
+console.log(`📁 Output location: ${outputPath}`);
+
+// Summary
+console.log('\n📊 Generation Summary:');
+console.log(`   • Language: ${lang}`);
+console.log(`   • Cases processed: ${cases.length}`);
+console.log(`   • Output file: ${filename}`);
+console.log(`   • Template directory: templates/${lang}/`);
+
+if (lang === 'ja') {
+  console.log('\n🇯🇵 Japanese-specific info:');
+  console.log('   • Using _ja fields from YAML files');
+  console.log('   • Fallback order: _ja → base → _en');
+  console.log('   • Japanese templates loaded from templates/ja/');
+}

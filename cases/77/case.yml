@@ -1,6 +1,6 @@
 title: 水晶球故事场景
 title_en: Story Scene in Crystal Ball
-author: "@dotey"
+author: '@dotey'
 author_link: https://x.com/dotey
 source_links:
   - url: https://x.com/dotey/status/1916530529324699858
@@ -17,7 +17,11 @@ prompt_note: |
   可替换提示词中括号 {} 内文字为故事场景描述，成语、故事、小故事都可以。
 prompt_note_en: |
   Replace the text within the square brackets {} in the prompt with a description of a story scene (idioms, stories, short tales all work).
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: 水晶球ストーリーシーン
+alt_text_ja: クリスタルボールのストーリーシーン
+prompt_ja: 窓辺の温かく柔らかなテーブルの上に、精巧なクリスタルボールが静かに置かれています。背景はぼんやりとぼやけ、暖色の陽光がクリスタルボールを優しく透過し、キラキラと金色の光を反射させ、周囲の薄暗い空間を温かく照らしています。クリスタルボールの中には、「嫦娥奔月（かぐやの月への飛翔）」をテーマにした小さな立体世界が自然に表現されており、繊細で美しく夢のような3Dの風景が広がっています。登場人物や物体はすべて可愛らしいちび風のデザインで、精巧で美しく、互いに生き生きとした感情的な交流を持っています。全体の雰囲気は東アジアのファンタジー色に満ち、非常に豊かなディテールで、魔法のリアリズムのような不思議な質感を醸し出しています。シーン全体は詩的で夢のようであり、華麗でエレガント、温かく柔らかな光を放ち、まるで温かな光と影の中で命を吹き込まれたかのようです。
+prompt_note_ja: 中括弧 {} 内の文字をストーリーシーンの説明に置き換えることができます。四字熟語、物語、短い話など何でも可能です。

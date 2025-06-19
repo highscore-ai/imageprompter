@@ -1,6 +1,6 @@
 title: 柔和风格3D广告
 title_en: Pastel Power 3D ADS
-author: "@aziz4ai"
+author: '@aziz4ai'
 author_link: https://x.com/aziz4ai
 source_links:
   - url: https://x.com/aziz4ai/status/1925301120252924356
@@ -15,7 +15,11 @@ prompt_note: |
   可替换提示词中的 [品牌产品] 为具体的产品描述。
 prompt_note_en: |
   Replace [brand product] in the prompt with a specific product description.
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: ソフトな雰囲気の3D広告
+alt_text_ja: ソフトな雰囲気の3D広告
+prompt_ja: 柔らかな3Dカートゥーンスタイルの[ブランド製品]彫刻。滑らかな粘土のようなテクスチャーと鮮やかな柔らかい色彩で作られ、ミニマルなアイソメトリックシーンに配置されています。そのシーンは製品の特徴を引き立て、構図はシンプルで、光は柔らかく、影は繊細です。製品のロゴと3語のスローガンが下部に明確に表示されています。
+prompt_note_ja: 柔らかいスタイルの3D広告において、プロンプト内の [ブランド製品] を具体的な製品説明に置き換えることができます。

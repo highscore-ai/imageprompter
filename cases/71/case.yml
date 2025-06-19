@@ -1,6 +1,6 @@
 title: 迷你 Cyberpunk 傾斜移軸景觀
 title_en: Miniature Cyberpunk Tilt-Shift Landscape
-author: "terry623"
+author: terry623
 author_link: https://github.com/terry623
 source_links: []
 image: example_cyberpunk_tilt_shift_miniature.jpg
@@ -14,7 +14,11 @@ prompt_note: |
   可替換提示詞中的【Cyberpunk】為其他風格或場景，如「未來城市」、「蒸汽朋克」、「中世紀村莊」等。
 prompt_note_en: |
   You can replace [Cyberpunk] in the prompt with other styles or scenes, such as "Futuristic City", "Steampunk", "Medieval Village", etc.
-reference_note: ""
-reference_note_en: ""
+reference_note: ''
+reference_note_en: ''
 submitter: terry623
 submitter_link: https://github.com/terry623
+title_ja: ミニチュア サイバーパンク ティルトシフト風景
+alt_text_ja: 上から見下ろした超高詳細のミニチュアサイバーパンク風景、ティルトシフト効果を使用
+prompt_ja: 上から見下ろす超高詳細なミニチュア【サイバーパンク】風景、ティルトシフトレンズ効果を採用。おもちゃのような要素で満ちたシーン、すべて高解像度CGで表現。ドラマチックな照明が映画のような雰囲気を作り出し、鮮やかな色彩と強いコントラスト、被写界深度効果とリアルなマクロ視点を強調。見る人があたかもおもちゃの世界を見下ろしているような小さな現実感、画面には多くの視覚的ユーモアと何度も見返したくなるような細部のデザインが含まれています
+prompt_note_ja: 【Cyberpunk】の部分を他のスタイルやシーンに置き換えることができます。例えば「未来都市」、「スチームパンク」、「中世の村」など。

@@ -1,6 +1,6 @@
 title: 品牌化键盘键帽
 title_en: Branded Mechanical Keycaps
-author: "@egeberkina"
+author: '@egeberkina'
 author_link: https://x.com/egeberkina
 source_links:
   - url: https://x.com/egeberkina/status/1918291652210311278
@@ -15,7 +15,11 @@ prompt_note: |
   替换品牌名、标语、键帽颜色
 prompt_note_en: |
   Replace brand name, slogan, keycap colors
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: ブランド化されたキーボードのキーキャップ
+alt_text_ja: ブランド化されたキーボードのキーキャップ
+prompt_ja: 超リアルな3Dレンダリング画像で、4つのメカニカルキーボードのキーキャップが2x2の密集したグリッドに配置され、すべてのキーキャップが互いに接触しています。アイソメトリック角度から見ています。1つのキーキャップは透明で、赤色で「{just}」という文字が印刷されています。他の3つのキーキャップは{黒、紫、白}の色を使用しています。1つのキーキャップにはGithubのロゴが付いています。残りの2つのキーキャップには「{fork}」と「{it}」がそれぞれ書かれています。リアルなプラスチックのテクスチャ、丸みを帯びた彫刻されたキーキャップ、柔らかな影、清潔な薄いグレーの背景。
+prompt_note_ja: ブランド名、スローガン、キーキャップの色を変更する

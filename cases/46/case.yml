@@ -1,6 +1,6 @@
 title: 快乐胶囊制作
 title_en: Happy Capsule Creation
-author: "@ZHO_ZHO_ZHO"
+author: '@ZHO_ZHO_ZHO'
 author_link: https://x.com/ZHO_ZHO_ZHO
 source_links:
   - url: https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896
@@ -19,9 +19,16 @@ prompt_en: |
   Buy button: Same color as the capsule.
   Below the button, display the price: $9.
   Please follow medical advice and purchase as needed.
-prompt_note: ""
-prompt_note_en: ""
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+prompt_note: ''
+prompt_note_en: ''
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: ハッピーカプセル製作
+alt_text_ja: ハッピーカプセル
+prompt_ja: |-
+  タイトル（大文字）：即効幸せカプセル
+  スターバックスのグリーンと透明の二色からなる小さな錠剤、スターバックスのロゴが印刷されており、中にはたくさんのコーヒー豆が入っています
+  説明（小文字）：悲しい時や落ち込んだ時にお飲みください、1日3回、1回2錠
+  購入ボタン 錠剤と同じ色で、下に価格：$9、医師の指示に従ってご購入ください

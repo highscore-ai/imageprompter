@@ -10,9 +10,9 @@
   },
   "type": "module",
   "dependencies": {
+    "@aws-sdk/client-bedrock-runtime": "^3.830.0",
     "js-yaml": "^4.1.0"
   },
-  "devDependencies": {},
   "keywords": [
     "gpt-4o",
     "ai",
@@ -20,7 +20,7 @@
     "prompts",
     "openai"
   ],
-  "author": "jamez-bondos",
+  "author": "highscore.ai",
   "license": "CC-BY-4.0",
   "repository": {
     "type": "git",

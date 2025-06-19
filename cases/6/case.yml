@@ -1,6 +1,6 @@
 title: 角色穿越传送门
 title_en: Character Stepping Through Portal
-author: "@dotey"
+author: '@dotey'
 author_link: https://x.com/dotey
 source_links:
   - url: https://x.com/dotey/status/1908910838636765204
@@ -14,11 +14,15 @@ prompt_en: |
   Behind the portal is the viewer’s real-life environment: a typical programmer’s study with a desk, monitor, and laptop, rendered in realistic detail. Inside the portal lies the character’s 3D chibi world, inspired by the photo, with a cool blue color scheme that sharply contrasts with the real-world surroundings.
   The portal itself is a perfectly elliptical frame glowing with mysterious blue and purple light, positioned at the center of the image as a gateway between the two worlds.
   The scene is captured from a third-person perspective, clearly showing the viewer’s hand being pulled into the character’s world. Use a 2:3 aspect ratio.
-prompt_note: ""
-prompt_note_en: ""
+prompt_note: ''
+prompt_note_en: ''
 reference_note: |
   一张半身或者全身单人照片。
 reference_note_en: |
   A clear half-body or full-body single person photo.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: キャラクターがポータルを通過する
+alt_text_ja: キャラクターがポータルを通過する
+prompt_ja: 写真の中のキャラクターの3Dちび風フィギュアがポータルを通り抜け、視聴者の手を引きながら、前に引っ張りながら動的に振り返っています。ポータルの外側の背景は視聴者の現実世界で、典型的なプログラマーの書斎があり、机、モニター、ノートパソコンがあります。ポータルの内側はキャラクターが存在する3Dちび風の世界で、詳細は写真を参考にし、全体的に青い色調で現実世界と鮮明なコントラストを形成しています。ポータルは神秘的な青と紫の色調を放ち、二つの世界の間の完璧な楕円形のフレームとして画面の中央に位置しています。第三者視点のカメラアングルで、視聴者の手がキャラクターの世界に引き込まれていく様子が映し出されています。縦横比は2:3です。
+reference_note_ja: 半身または全身の一人写真。

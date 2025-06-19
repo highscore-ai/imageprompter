@@ -1,6 +1,6 @@
 title: Q版可爱俄罗斯套娃 (戴珍珠耳环的少女)
 title_en: Cute Chibi Matryoshka Dolls (Girl with a Pearl Earring)
-author: "@ZHO_ZHO_ZHO"
+author: '@ZHO_ZHO_ZHO'
 author_link: https://x.com/ZHO_ZHO_ZHO
 source_links:
   - url: https://x.com/ZHO_ZHO_ZHO/status/1911669883315818497
@@ -11,11 +11,15 @@ prompt: |
   把图片人物生成变成 Q 版可爱俄罗斯套娃🪆，大到小一共五个，放在精致的木桌上，横幅3:2比例
 prompt_en: |
   Transform the person in the image into a set of cute chibi-style Russian nesting dolls (🪆), with a total of five dolls arranged from largest to smallest. Place them on an elegant wooden table. Horizontal aspect ratio: 3:2.
-prompt_note: ""
-prompt_note_en: ""
+prompt_note: ''
+prompt_note_en: ''
 reference_note: |
   需要上传一张人物图片作为转换对象 (原文使用了[《戴珍珠耳环的少女》](https://commons.wikimedia.org/w/index.php?curid=55017931))。
 reference_note_en: |
   Requires uploading a person's image as the subject for transformation (The original post used ['Girl with a Pearl Earring'](https://commons.wikimedia.org/w/index.php?curid=55017931)).
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: ちび風かわいいマトリョーシカ（真珠の耳飾りの少女）
+alt_text_ja: ちび風かわいいロシアのマトリョーシカ
+prompt_ja: 画像の人物をQスタイルのかわいいロシアのマトリョーシカ人形🪆に変換してください。大きいものから小さいものまで合計5つの人形を、上品な木製テーブルの上に配置してください。横長の3:2比率で作成してください。
+reference_note_ja: 変換対象として人物画像をアップロードする必要があります（原文では[『真珠の耳飾りの少女』](https://commons.wikimedia.org/w/index.php?curid=55017931)が使用されています）。

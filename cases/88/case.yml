@@ -1,6 +1,6 @@
 title: 儿童涂色页插画（含彩色参考图）
 title_en: Children's Coloring Page Illustration (with Color Reference)
-author: "@dotey"
+author: '@dotey'
 author_link: https://x.com/dotey
 source_links:
   - url: https://x.com/dotey/status/1919522110395080838
@@ -23,7 +23,16 @@ prompt_note: |
   可替换提示词中的【】内容，例如适合人群和画面描述。
 prompt_note_en: |
   The content within the brackets [] in the prompt can be replaced, such as the target audience and scene description.
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: 子供用の塗り絵イラスト（カラー参考画像付き）
+alt_text_ja: 子供用の塗り絵イラスト（カラー参考画像付き）
+prompt_ja: |-
+  白黒の線画イラスト、標準サイズ（8.5x11インチ）の用紙に直接印刷できるもので、用紙の余白なし。全体的なイラストスタイルは清潔でシンプル、はっきりとした滑らかな黒い輪郭線を使用し、影やグレースケール、色の塗りつぶしはなく、背景は真っ白で、塗り絵に適しています。
+  【また、塗り絵が苦手なユーザーのために、右下隅に小さな完全カラーバージョンを参考用に配置してください】
+  対象年齢：【6〜9歳の子ども】
+  画面の説明：
+  【ユニコーンが森の草原を歩いている、太陽が明るく輝き、青空に白い雲が浮かんでいる】
+prompt_note_ja: 【】内の内容を置き換えることができます。例えば対象者や画面の説明など。

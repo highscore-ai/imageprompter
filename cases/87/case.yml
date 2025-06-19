@@ -1,6 +1,6 @@
 title: 字母与单词含义融合
 title_en: Integrating Word Meaning into Letters
-author: "@dotey"
+author: '@dotey'
 author_link: https://x.com/dotey
 source_links:
   - url: https://x.com/dotey/status/1918529055340576812
@@ -19,7 +19,14 @@ prompt_note: |
   替换单词{ beautify }为想要融合的单词
 prompt_note_en: |
   Replace the word { beautify } with the word you want to integrate
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: アルファベットと単語の意味の融合
+alt_text_ja: アルファベットと単語の意味の融合
+prompt_ja: |-
+  文字の中に単語の意味を融合させ、グラフィックと文字を巧みに組み合わせる。
+  単語：{ beautify }
+  下に単語の簡単な説明を追加する
+prompt_note_ja: 単語{ beautify }を融合させたい単語に置き換える

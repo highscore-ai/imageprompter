@@ -1,6 +1,6 @@
 title: 极简主义 3D 插画
 title_en: Minimalist 3D Illustration
-author: "@0xdlk"
+author: '@0xdlk'
 author_link: https://x.com/0xdlk
 source_links:
   - url: https://x.com/0xdlk/status/1906843247432929642
@@ -85,9 +85,51 @@ prompt_en: |
       "purpose": "To create clean, aesthetically pleasing visuals that emphasize simplicity, approachability, and modernity."
     }
   }
-prompt_note: "原提示词以 JSON 格式给出，JSON部分未翻译，请参考原文。"
-prompt_note_en: ""
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+prompt_note: 原提示词以 JSON 格式给出，JSON部分未翻译，请参考原文。
+prompt_note_en: ''
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: ミニマリスト3Dイラスト
+alt_text_ja: ミニマリスト3Dイラスト
+prompt_ja: |-
+  以下のJSONコンフィグファイルを使用してトイレを生成してください：
+  {
+    "art_style_profile": {
+      "style_name": "Minimalist 3D Illustration",
+      "visual_elements": {
+        "shape_language": "丸みを帯びたエッジ、滑らかで柔らかな形状と簡略化された幾何学",
+        "colors": {
+          "primary_palette": ["ソフトベージュ、ライトグレー、温かいオレンジ"],
+          "accent_colors": ["焦点となる要素に温かいオレンジ"],
+          "shading": "滑らかなグラデーションと自然な移行、強いシャドウやハイライトを避ける"
+        },
+        "lighting": {
+          "type": "柔らかく拡散した照明",
+          "source_direction": "上方からやや右側",
+          "shadow_style": "微妙で拡散した影、シャープまたは高コントラストの影はなし"
+        },
+        "materials": {
+          "surface_texture": "マット、微妙な陰影のある滑らかな表面",
+          "reflectivity": "低いまたはなし、光沢を避ける"
+        },
+        "composition": {
+          "object_presentation": "十分な余白を持つ、単一の中央に配置された孤立したオブジェクト",
+          "perspective": "わずかに角度をつけ、極端な奥行きなしに立体感を与える",
+          "background": "オブジェクトを引き立てる、控えめな単色"
+        },
+        "typography": {
+          "font_style": "ミニマリスティック、サンセリフ",
+          "text_placement": "左下隅に小さく控えめなテキスト",
+          "color": "背景に対して低コントラストのグレー"
+        },
+        "rendering_style": {
+          "technique": "簡略化されたローポリの美学を持つ3Dレンダリング",
+          "detail_level": "テクスチャや複雑さよりも形状と色に焦点を当てた中程度の詳細"
+        }
+      },
+      "purpose": "シンプルさ、親しみやすさ、モダンさを強調するクリーンで美的に魅力的なビジュアルを作成すること。"
+    }
+  }
+prompt_note_ja: 元のプロンプトはJSON形式で提供されており、JSON部分は翻訳されていません。原文を参照してください。

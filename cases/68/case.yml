@@ -1,6 +1,6 @@
 title: 未来主义 Logo 交易卡
 title_en: Futuristic Logo Trading Card
-author: "@hewarsaber"
+author: '@hewarsaber'
 author_link: https://x.com/hewarsaber
 source_links:
   - url: https://x.com/hewarsaber/status/1912933875166171515
@@ -65,5 +65,34 @@ reference_note: |
   （可选）上传自定义 Logo 图片。
 reference_note_en: |
   (Optional) Upload a custom logo image.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: 未来主義ロゴトレーディングカード
+alt_text_ja: 未来主義ロゴトレーディングカード
+prompt_ja: |-
+  {
+      "prompt": "ダークでムーディなネオン美学と柔らかなSFライティングを持つ未来的なトレーディングカード。カードは半透明の丸みを帯びた長方形で、やや抑えめに光る縁があり、ホログラフィックガラスで作られているように見えます。中央には{{logo}}の大きく光るロゴがあり、追加のテキストやラベルはなく、{{colors}}のスムーズなグラデーションで照らされていますが、過度に明るくはありません。カード表面の反射は控えめで、周囲の光を捉える軽い光沢仕上げです。背景はダークカーボンファイバーテクスチャまたは深いグラデーションで、柔らかな環境光が端に滲んでいます。上部から斜めに流れる微妙な光線を追加し、シーンに柔らかな映画的な輝きを与えます。エッジと反射にわずかなモーションブラーを適用し、高級テックアニメーションの一部のように、シーンに奥行きとエネルギー感を与えます。カードの下には、ネオンエッジとロゴを映す現実的な床の反射があり、接地感のある未来的な外観のためにやや拡散しています。テキスト要素は最小限で柔らかく照らされています：左上に「{{ticker}}」、右上にスタイリッシュなサイン、下部に「{{company_name}}」とシリアルナンバー「{{card_number}}」、「{{revenue}}」と表示された収益バッジ、そして「{{year}}」が表示されています。タイポグラフィは微かな光と軽いぼかしを持ち、すべての要素はプレミアム感、エレガントさ、そして柔らかく照らされた高級サイバーパンクコレクターカードのような雰囲気を持っています。",
+      "style": {
+          "lighting": "ネオングロー、柔らかな反射",
+          "font": "モダンなサンセリフ、クリーンでミニマル",
+          "layout": "中央寄せ、デジタルコレクターカードのような構造",
+          "materials": "ガラス、ホログラフィックプラスチック、光る金属エッジ"
+      },
+      "parameters": {
+          "logo": "テスラロゴ",
+          "ticker": "TSLA",
+          "company_name": "Tesla Inc.",
+          "card_number": "#0006",
+          "revenue": "$96.8B",
+          "year": "2025",
+          "colors": [
+              "赤",
+              "白",
+              "ダークグレー"
+          ]
+      },
+      "medium": "3Dレンダリング、高解像度デジタルアート",
+      "size": "1080px × 1080px"
+  }
+prompt_note_ja: プロンプトは JSON 風の構造でカード要素を記述しています。`parameters` オブジェクト内の値（logo、ticker、company_name、colorsなど）を変更してカードをカスタマイズできます。カスタムロゴの場合は、`parameters.logo` に指定し（例：「Framer logo (attached image)」）、画像をアップロードしてください。このプロンプトは構造化JSONなので、英語のまま保持してください。
+reference_note_ja: （任意）カスタムロゴ画像をアップロードしてください。

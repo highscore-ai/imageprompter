@@ -1,6 +1,6 @@
 title: 云彩艺术
 title_en: Cloud Art
-author: "@umesh_ai"
+author: '@umesh_ai'
 author_link: https://x.com/umesh_ai
 source_links:
   - url: https://x.com/umesh_ai/status/1913628737872027805
@@ -15,7 +15,11 @@ prompt_note: |
   可替换提示词中的 `[SUBJECT/OBJECT]`（云彩形状的主体）和 `[LOCATION]`（地点）。示例图的主体是中国龙，地点是长城。
 prompt_note_en: |
   The `[SUBJECT/OBJECT]` (shape formed by clouds) and `[LOCATION]` placeholders in the prompt can be replaced. The example image uses 'chinese dragon' as the subject and 'The Great Wall' as the location.
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: 雲のアート
+alt_text_ja: 雲のアート
+prompt_ja: 写真を生成してください：昼間の風景で、空に散らばる雲が[主体/物体]の形を作り出し、[場所]の上空に位置しています。
+prompt_note_ja: '[SUBJECT/OBJECT]」（雲の形の主体）と「[LOCATION]」（場所）をプロンプト内で置き換えることができます。サンプル画像では、主体は中国の龍、場所は万里の長城です。'

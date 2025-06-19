@@ -1,6 +1,6 @@
 title: 动漫贴纸集合
 title_en: Anime Sticker Collection
-author: "@richardchang"
+author: '@richardchang'
 author_link: https://x.com/richardchang
 source_links:
   - url: https://x.com/richardchang/status/1909086122959139312
@@ -11,9 +11,12 @@ prompt: |
   火影忍者贴纸
 prompt_en: |
   Naruto stickers
-prompt_note: ""
-prompt_note_en: ""
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+prompt_note: ''
+prompt_note_en: ''
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: アニメステッカーコレクション
+alt_text_ja: アニメステッカーコレクション
+prompt_ja: NARUTO（ナルト）ステッカー

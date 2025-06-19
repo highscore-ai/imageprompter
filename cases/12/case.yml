@@ -1,6 +1,6 @@
 title: 3D 情侣珠宝盒摆件
 title_en: 3D Couple Jewelry Box Figurine
-author: "@dotey"
+author: '@dotey'
 author_link: https://x.com/dotey
 source_links:
   - url: https://x.com/dotey/status/1909332895115714835
@@ -24,11 +24,22 @@ prompt_en: |
   The overall color scheme of both the display box and the characters is elegant and harmonious, creating a luxurious and dreamlike miniature keepsake.
 
   Aspect ratio: 9:16
-prompt_note: ""
-prompt_note_en: ""
+prompt_note: ''
+prompt_note_en: ''
 reference_note: |
   一张情侣照片。
 reference_note_en: |
   A couple's photo.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: 3D カップルジュエリーボックスのオブジェ
+alt_text_ja: 3D カップルジュエリーボックスのオブジェ
+prompt_ja: |-
+  写真の内容に基づいて、繊細で美しく、愛らしい3Dレンダリングのコレクションフィギュアを作成し、柔らかいパステルカラーの温かくロマンチックなディスプレイボックスに設置します。ディスプレイボックスは淡いクリーム色に柔らかなゴールドの装飾が施され、精巧な携帯用ジュエリーボックスのような形状です。蓋を開けると、温かくロマンチックなシーンが広がります：2人のちびキャラクターが甘く見つめ合っています。ボックスの上部には「FOREVER TOGETHER」（永遠に一緒に）という文字が刻まれ、周囲には小さな星とハートの模様が散りばめられています。
+
+  ボックスの中には写真の女性が立ち、小さな白い花束を手に持っています。彼女の隣には彼女のパートナーである写真の男性がいます。二人とも大きく輝く表情豊かな目と、柔らかく温かな笑顔を持ち、深い愛情と魅力的な雰囲気を醸し出しています。
+
+  二人の後ろには丸い窓があり、窓からは陽光あふれる中国古典的な小さな町のスカイラインと、ふわりと浮かぶ雲が見えます。ボックス内は温かく柔らかな光で照らされ、背景には雰囲気を演出する花びらが漂っています。ディスプレイボックスとキャラクター全体の色調は上品で調和がとれており、豪華で夢のようなミニチュアの記念品シーンを作り出しています。
+
+  サイズ：9:16
+reference_note_ja: カップルの写真。

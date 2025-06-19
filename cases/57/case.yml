@@ -1,6 +1,6 @@
 title: 8位像素图标
 title_en: 8-Bit Pixel Icon
-author: "@egeberkina"
+author: '@egeberkina'
 author_link: https://x.com/egeberkina
 source_links:
   - url: https://x.com/egeberkina/status/1913654508330058064
@@ -15,7 +15,11 @@ prompt_note: |
   可替换提示词中的 `[🍔]` 为其他 Emoji 或对象。提示词翻译自英文版本，请参考原文链接
 prompt_note_en: |
   The `[🍔]` emoji in the prompt can be replaced with other emojis or subjects.
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: 8ビットピクセルアイコン
+alt_text_ja: 8ビットピクセルアイコン
+prompt_ja: 極限までシンプルな8ビットピクセルアートスタイルの[🍔]ロゴを作成してください。純白の背景に中央配置で。限られたレトロカラーパレットを使用し、ピクセル化された細部、シャープなエッジ、クリーンなブロック状の形状を取り入れてください。ロゴはシンプルで象徴的であり、ピクセルアートスタイルで明確に認識できるものにしてください—クラシックなアーケードゲームの美学からインスピレーションを得たデザインで。
+prompt_note_ja: 提示文の中の `[🍔]` を他の絵文字やオブジェクトに置き換えることができます。この提示文は英語版から翻訳されたものです。原文リンクを参照してください。

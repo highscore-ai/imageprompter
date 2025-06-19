@@ -16,7 +16,14 @@ prompt_note: |
   可替换提示词中的电影名{The Lord of the Rings}为其他电影，某些电影可能会触发内容审核。参考的动漫风格也可以修改。
 prompt_note_en: |
   You can replace the movie title "{The Lord of the Rings}" in the prompt with others. Be aware that some movie titles may trigger content moderation. The referenced anime style can also be modified.
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: ノスタルジックなアニメ風映画ポスター
+alt_text_ja: ノスタルジックなアニメ風映画ポスター
+prompt_ja: |-
+  『ロード・オブ・ザ・リング』風のアニメ映画ポスター、アニメスタイルは『ハイスクールDXD』風。ポスターには明らかな折り目の跡が見られ、長期間繰り返し折りたたまれたことで、一部の領域にはしわによる物理的な損傷や擦り傷が生じ、色も場所によって褪せています。表面には不規則な折り目、折り返しの跡、引っかき傷が散らばっており、これらはすべて度重なる移動の過程で徐々に蓄積された微小な損耗であり、まるでエントロピー増大の不可逆な過程が絶えず広がっているかのようです。
+
+  しかし、私たちの心に残る美しい記憶は常に完全無欠のままです。この懐かしい雰囲気に満ちたポスターを見つめるとき、あなたが感じるのは、時間とともに積み重なり、かけがえのない価値を持つようになったコレクションが担う感情の本質なのです。
+prompt_note_ja: 提示語の中の映画名{The Lord of the Rings}を他の映画に置き換えることができます。一部の映画はコンテンツ審査に引っかかる可能性があります。参考にするアニメスタイルも変更可能です。

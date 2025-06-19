@@ -1,6 +1,6 @@
 title: Funko Pop 公仔制作
 title_en: Funko Pop Figure Creation
-author: "@dotey"
+author: '@dotey'
 author_link: https://x.com/dotey
 source_links:
   - url: https://x.com/dotey/status/1909047283485671924
@@ -14,11 +14,15 @@ prompt_en: |
   The packaging is labeled with the title “JAMES BOND.”
   Inside the box, display a chibi-style figure based on the person in the photo, along with their essential accessories: a pistol, a wristwatch, a suit, and other signature items.
   Next to the box, show a realistic rendering of the actual figure outside the packaging, with detailed textures and lighting to achieve a lifelike product display.
-prompt_note: ""
-prompt_note_en: ""
+prompt_note: ''
+prompt_note_en: ''
 reference_note: |
   一张半身或者全身清晰照片。
 reference_note_en: |
   A clear half-body or full-body photo.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: Funko Pop フィギュア制作
+alt_text_ja: Funko Popフィギュア制作
+prompt_ja: 写真の人物をFunko Popフィギュアの箱のスタイルに変換し、アイソメトリック視点で表示してください。箱には「JAMES BOND」というタイトルを表示してください。箱の中には写真の人物の姿が展示され、その隣には人物の必需品（銃、時計、スーツ、その他）が配置されています。また、箱の隣にはそのフィギュア本体の実物効果を、リアルで本物らしいレンダリングスタイルで表現してください。
+reference_note_ja: 半身または全身の鮮明な写真。

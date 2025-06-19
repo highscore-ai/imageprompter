@@ -1,6 +1,6 @@
 title: 《泰坦尼克号》模仿
 title_en: '"Titanic" Pose Parody'
-author: "@balconychy"
+author: '@balconychy'
 author_link: https://x.com/balconychy
 source_links:
   - url: https://x.com/balconychy/status/1909916265067557299
@@ -19,11 +19,20 @@ prompt_en: |
   The man stands behind the woman at the bow, holding her waist with both hands. The woman is wearing a dress, arms spread wide, facing the wind, with a joyful and liberated expression on her face—just like the iconic scene from Titanic.
   The sky is painted in warm sunset tones, and the vast ocean stretches beneath the ship.
   Only the characters should be in chibi 3D style; the rest of the environment should be realistic.
-prompt_note: ""
-prompt_note_en: ""
+prompt_note: ''
+prompt_note_en: ''
 reference_note: |
   一张情侣照片。
 reference_note_en: |
   A couple's photo.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: 『タイタニック』の模倣
+alt_text_ja: 『タイタニック』の模倣
+prompt_ja: |-
+  添付画像の人物をかわいいちび風3Dスタイルに変換してください
+  シーン：豪華客船の最先端の船首、船首は尖っています。
+  男性が女性を連れて「タイタニック号」の船首に立ち、男性は両手で女性の腰を抱き、女性はドレスを着て両腕を広げ、風に向かって、顔には自由と爽快感が溢れています。
+  この時、空は夕暮れの暖かい色調で、海が船の下に広がっています。
+  人物だけがちび風3Dスタイルで、他の環境はすべてリアルなものです。
+reference_note_ja: カップルの写真。

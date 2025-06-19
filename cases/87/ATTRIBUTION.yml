@@ -1,12 +1,13 @@
 title: 字母与单词含义融合
 title_en: Integrating Word Meaning into Letters
-prompt_author: "@dotey"
+prompt_author: '@dotey'
 prompt_author_link: https://x.com/dotey
-image_author: "@jamez-bondos"
+image_author: '@jamez-bondos'
 image_author_link: https://github.com/jamez-bondos
 source_links:
   - url: https://x.com/dotey/status/1918529055340576812
 license: CC-BY-4.0
 creation_tool: Sora
-date: 2025-05-24
+date: 2025-05-24T00:00:00.000Z
 notes: Prompt quoted verbatim; image fully regenerated via Sora.
+title_ja: 文字とその意味の融合

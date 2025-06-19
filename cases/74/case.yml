@@ -1,6 +1,6 @@
 title: Logo 形状创意书架
 title_en: Creative Logo Shaped Bookshelf
-author: "@umesh_ai"
+author: '@umesh_ai'
 author_link: https://x.com/umesh_ai
 source_links:
   - url: https://x.com/umesh_ai/status/1916517976414495161
@@ -15,7 +15,11 @@ prompt_note: |
   可替换提示词中的 `[LOGO]` 为具体品牌 Logo 描述（例如 "Apple logo", "McDonald's logo"）。
 prompt_note_en: |
   Replace the `[LOGO]` placeholder in the prompt with a specific brand logo description (e.g., "Apple logo", "McDonald's logo").
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: ロゴの形をした創造的な本棚
+alt_text_ja: ロゴの形をした創造的な本棚
+prompt_ja: モダンな本棚の写真を撮影します。そのデザインは[LOGO]の形状からインスピレーションを得ています。本棚は流れるような相互に接続された曲線で構成され、様々なサイズの区画を形成しています。全体の素材はスムーズなマットブラックメタルで、曲線の内側には木製の棚板が設置されています。柔らかい暖色系のLEDライトが内側の曲線の輪郭を照らしています。本棚はニュートラルカラーの壁に取り付けられ、カラフルな本、小さな観葉植物、ミニマルなアート作品が飾られています。全体の雰囲気は創造的でエレガント、そしてわずかに未来的な印象を与えています。
+prompt_note_ja: ヒントの中の `[LOGO]` を具体的なブランドロゴの説明（例えば「Apple logo」、「McDonald's logo」）に置き換えることができます。

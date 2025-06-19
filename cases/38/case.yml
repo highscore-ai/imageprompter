@@ -1,6 +1,6 @@
 title: 手绘信息图卡片
 title_en: Hand-drawn Infographic Card
-author: "@dotey"
+author: '@dotey'
 author_link: https://x.com/dotey
 source_links:
   - url: https://x.com/dotey/status/1907870919852179850
@@ -24,9 +24,20 @@ prompt_en: |
 
   “Building a personal brand (IP) is long-term compounding.
   Keep updating daily, and results will come — because 99% of people can’t keep it up!”
-prompt_note: ""
-prompt_note_en: ""
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+prompt_note: ''
+prompt_note_en: ''
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: 手描きのインフォグラフィックカード
+alt_text_ja: 手描きインフォグラフィックカード
+prompt_ja: |-
+  手描きスタイルの情報グラフィックカードを作成してください。比率は9:16の縦型です。カードのテーマは明確で、背景は紙の質感を持つベージュまたはオフホワイト色で、全体のデザインは素朴で親しみやすい手描きの美しさを表現しています。
+
+  カードの上部には、赤と黒が交互になった、コントラストの鮮やかな大きな筆文字の草書体で題名を目立たせ、視覚的な焦点を引きつけます。テキストはすべて中国語の草書体を使用し、全体のレイアウトは2〜4つの明確なセクションに分かれ、各セクションは簡潔で洗練された中国語のフレーズで核心ポイントを表現します。フォントは草書体の流れるようなリズム感を保ちながら、読みやすさと芸術性を兼ね備えています。周囲に適度な余白を残します。
+
+  カードには、人物や象徴的なシンボルなど、シンプルで面白い手描きのイラストやアイコンを散りばめ、視覚的な魅力を高め、読者の思考と共感を引き出します。全体のレイアウトは視覚的なバランスに注意し、十分な空白スペースを確保して、画面をシンプルで明確に、読みやすく理解しやすいものにします。
+
+  「IPづくりは長期的な複利効果
+  毎日の更新を続ければ、必ず結果が出ます。なぜなら99%の人は続けられないからです！

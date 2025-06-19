@@ -1,6 +1,6 @@
 title: 极简主义 3D 插画 (Markdown 格式)
 title_en: Minimalist 3D Illustration (Markdown Format)
-author: "@dotey"
+author: '@dotey'
 author_link: https://x.com/dotey
 source_links:
   - url: https://x.com/dotey/status/1907131027253772399
@@ -85,9 +85,51 @@ prompt_en: |
 
   ## 🎯 Style Goal
   > Create a clean and aesthetically pleasing visual that emphasizes simplicity, approachability, and modernity.
-prompt_note: ""
-prompt_note_en: ""
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+prompt_note: ''
+prompt_note_en: ''
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: ミニマリスト3Dイラスト（Markdown形式）
+alt_text_ja: ミニマリスト3Dイラスト
+prompt_ja: |-
+  トイレを描いてください：
+
+  ## アートスタイル概要：ミニマリスト3Dイラストレーション（Minimalist 3D Illustration）
+
+  ### 🎨 ビジュアル要素（Visual Elements）
+
+  #### 🟢 形状言語（Shape Language）
+  - 丸みを帯びたエッジ、滑らかで柔らかな外観、単純化された幾何学的形状を採用。
+
+  #### 🎨 色彩（Colors）
+  - **メインカラー：** 柔らかなベージュ、ライトグレー、温かみのあるオレンジ。
+  - **アクセントカラー：** 焦点となる要素には温かみのあるオレンジを使用。
+  - **明暗処理：** 柔らかなグラデーション、滑らかな移行、強い影や強調された光沢を避ける。
+
+  #### 💡 照明（Lighting）
+  - **タイプ：** 柔らかく、拡散した照明。
+  - **光源方向：** 上部からやや右寄り。
+  - **影のスタイル：** 微妙で拡散した影、鋭いまたは高コントラストの影は避ける。
+
+  #### 🧱 素材（Materials）
+  - **表面テクスチャ：** マット、滑らかな表面、微妙な明暗の変化を伴う。
+  - **反射性：** 低いまたはなし、明らかな光沢は避ける。
+
+  #### 🖼️ 構図（Composition）
+  - **オブジェクト表現：** 単一の中央に配置されたオブジェクト、周囲に多くのネガティブスペースを残す。
+  - **視点：** わずかに傾いた視点で、適度な立体感を表現するが、明らかな奥行き効果はない。
+  - **背景：** 単色、彩度の低い、主題と調和し視線を妨げない背景。
+
+  #### ✒️ タイポグラフィ（Typography）
+  - **フォントスタイル：** ミニマルなサンセリフフォント。
+  - **テキスト位置：** 左下、小さめのサイズで目立たない。
+  - **フォントカラー：** 背景と低コントラストを形成するグレー。
+
+  #### 🖥️ レンダリングスタイル（Rendering Style）
+  - **技術手法：** 3Dレンダリング、単純化された低ポリゴンスタイルを採用。
+  - **詳細度：** 中程度の詳細、形状と色彩を主体とし、複雑なテクスチャや細部は避ける。
+
+  ### 🎯 スタイルの目的（Purpose）
+  > クリーンで美しいビジュアル効果を作り出し、シンプルさ、親しみやすさ、モダンさを強調する。

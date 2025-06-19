@@ -1,6 +1,6 @@
 title: 日系双格漫画 (少女总统红温了)
 title_en: Japanese-style Two-Panel Manga (Angry Girl President)
-author: "@hellokaton"
+author: '@hellokaton'
 author_link: https://x.com/hellokaton
 source_links:
   - url: https://x.com/hellokaton/status/1910900979194646959
@@ -49,11 +49,35 @@ prompt_en: |
   - Keep the composition full and expressive, with adequate space for dialogue and intentional white space
   - Aspect ratio: 2:3
   - The overall visual tone should be colorful and energetic, with a distinctly cartoony style
-prompt_note: ""
-prompt_note_en: ""
+prompt_note: ''
+prompt_note_en: ''
 reference_note: |
   需要上传一张人物照片作为参考。
 reference_note_en: |
   A photo of a person is needed for reference.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: 日系2コマ漫画（少女大統領が赤面している）
+alt_text_ja: 日系二コマ漫画：少女大統領が電話に出られなかったことに怒って関税を上げる
+prompt_ja: |-
+  日系萌え系の二コマ漫画を作成してください。上下に配置し、テーマは「少女大統領の日常業務」です。
+
+  キャラクター設定: アップロードされた添付ファイルを日系萌え系カートゥンの女の子のスタイルに変換し、服装（スーツ）、髪型（明るい金髪）、顔の特徴など、元の画像のすべての詳細を保持してください。
+
+  1コマ目:
+  - 表情: 不満げで落ち込んだ表情、片手で頬杖をついている
+  - テキスト: 「どうしよう！彼が電話に出てくれないの！(；´д｀)」
+  - 背景: 暖色系のオフィス、背後にアメリカ国旗、机の上にはハンバーガーの山と赤いダイヤル式電話。キャラクターは画面左側、電話は右側に配置。
+
+  2コマ目:
+  - 表情: 歯ぎしりして激怒し、顔を赤らめている
+  - 動作: 机を強く叩き、ハンバーガーが跳ね上がる
+  - 吹き出し: 「ふん！関税を倍にしてやる！私を無視するなんて彼らの損よ！( `д´ )」
+  - 背景: 1コマ目と同じだが、散らかっている状態。
+
+  その他の指示:
+  - テキストはシンプルで可愛い手書き風フォントを使用し、全体的に可愛くて面白い雰囲気に。
+  - 構図は豊かで生き生きとしたものにし、テキスト表示のための十分なスペースを確保し、適切な余白を残してください。
+  - 画像比率は2:3。
+  - 全体的に鮮やかな色彩で、カートゥン風のスタイルを強調してください。
+reference_note_ja: 参考用に人物の写真をアップロードする必要があります。

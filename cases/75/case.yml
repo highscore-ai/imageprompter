@@ -1,6 +1,6 @@
 title: 社交媒体相框融合
 title_en: Social Media Frame Integration
-author: "@dotey"
+author: '@dotey'
 author_link: https://x.com/dotey
 source_links:
   - url: https://x.com/dotey/status/1917042797506662560
@@ -19,5 +19,10 @@ reference_note: |
   需要上传一张图片作为参考。
 reference_note_en: |
   Yes, needs an image to be uploaded as reference.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: ソーシャルメディアフレームの融合
+alt_text_ja: ソーシャルメディアフレームの融合
+prompt_ja: 添付された写真に基づいて、スタイライズされた3Dちび風キャラクターを作成してください。顔の特徴と服装の細部を正確に保持してください。キャラクターは左手でハートを作り（指の上に赤いハートの要素があります）、巨大なInstagramフレームの端に可愛らしく座り、両足をフレームの外に垂らしています。フレームの上部にはユーザー名「Beauty」が表示され、周囲にはソーシャルメディアのアイコン（いいね、コメント、シェア）が浮かんでいます。
+prompt_note_ja: ユーザー名「Beauty」とアイコンを置き換えることができます。元の画像はSoraによって生成されました。
+reference_note_ja: 参考として画像をアップロードする必要があります。

@@ -1,6 +1,6 @@
 title: Q版角色表情包
 title_en: Chibi Character Sticker Pack
-author: "@leon_yuan2001"
+author: '@leon_yuan2001'
 author_link: https://x.com/leon_yuan2001
 source_links:
   - url: https://x.com/leon_yuan2001/status/1923712069209293014
@@ -37,5 +37,20 @@ reference_note: |
   需要上传一张角色图片作为表情包创作的主要参考。
 reference_note_en: |
   A character image needs to be uploaded as the main reference for creating the sticker pack.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: ちび風キャラクターの表情スタンプ
+alt_text_ja: ちび風キャラクターの表情スタンプ
+prompt_ja: |-
+  [参考画像のキャラクター]を主役にしたちび風スタンプセットを9個作成してください。3x3のグリッドに配置します。
+  デザイン要件：
+  - 透明背景
+  - 1:1の正方形構図
+  - 統一されたちび風ジブリ風カートゥンスタイル、鮮やかな色彩
+  - 各スタンプの動作、表情、内容はそれぞれ異なり、「セクシー、ふざけた、かわいい、イライラ」など多様な感情を表現すること。例：目を白黒させる、地面を叩いて大笑い、魂が抜ける、その場で石化、お金をばらまく、食事中、社交不安発作など。サラリーマン要素やネットミーム要素を取り入れても可。
+  - 各スタンプのキャラクターは完全な姿で、欠けがないこと
+  - 各スタンプには統一された白い縁取りを付け、ステッカー効果を演出
+  - 画面に余分な要素や分離した要素がないこと
+  - 文字の使用は厳禁、または文字内容が正確であることを確認すること（文字なしが望ましい）
+prompt_note_ja: プロンプト内の「[参考画像のキャラクター]」を、キャラクターの特徴の具体的な説明に置き換えるか、参考画像を直接アップロードしてください。
+reference_note_ja: キャラクターの表情スタンプを作成するための主な参考として、キャラクター画像をアップロードする必要があります。

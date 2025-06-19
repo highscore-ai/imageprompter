@@ -1,6 +1,6 @@
 title: 代码风格名片
 title_en: Code Style Business Card
-author: "@umesh_ai"
+author: '@umesh_ai'
 author_link: https://x.com/umesh_ai
 source_links:
   - url: https://x.com/umesh_ai/status/1915696926596415492
@@ -31,7 +31,19 @@ prompt_note: |
   替换最后的JSON代码中的name、title、email和link数据。提示词由原文链接中简化而来。
 prompt_note_en: |
   Replace the values of name, title, email, and link in the final JSON code. The prompt is a simplified version derived from the original source link.
-reference_note: ""
-reference_note_en: ""
+reference_note: ''
+reference_note_en: ''
 submitter: Kong-F
 submitter_link: https://github.com/Kong-F
+title_ja: コード風スタイルの名刺
+alt_text_ja: コード風スタイルの名刺
+prompt_ja: |-
+  クローズアップショット：手が VS Code の JSON ファイルの外観にデザインされた名刺を持っています。名刺上のコードは実際の JSON 構文ハイライト形式で表示されています。ウィンドウインターフェースには典型的なツールバーアイコンとタイトルバーが含まれ、タイトルは「Business Card.json」と表示され、全体的なスタイルは VS Code インターフェースと完全に一致しています。背景はわずかにぼかされ、名刺の内容が強調されています。
+  名刺上の JSON コードは以下のように表示されています：
+  {
+    "name": "Jamez Bondos",
+    "title": "Your Title",
+    "email": "your@email.com",
+    "link": "yourwebsite"
+  }
+prompt_note_ja: 最後のJSONコードのname、title、email、linkデータを置き換えてください。プロンプトは元のリンクから簡略化されています。

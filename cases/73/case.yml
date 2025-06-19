@@ -1,6 +1,6 @@
 title: 定制Q版钥匙串
 title_en: Cute Chibi Keychain
-author: "@azed_ai"
+author: '@azed_ai'
 author_link: https://x.com/azed_ai
 source_links:
   - url: https://x.com/azed_ai/status/1916521742052503804
@@ -21,3 +21,8 @@ reference_note_en: |
   A photo of a person or object as the subject for the keychain design.
 submitter: Kong-F
 submitter_link: https://github.com/Kong-F
+title_ja: ちび風カスタムキーホルダー
+alt_text_ja: カスタムちび風キーホルダー
+prompt_ja: 人の手に握られたかわいいカラフルなキーホルダーのクローズアップ写真。キーホルダーは[参考画像]のちび風スタイルをしています。キーホルダーは柔らかいゴム素材で作られ、太い黒い輪郭線があり、小さな銀色のキーリングに取り付けられています。背景はニュートラルトーンです。
+prompt_note_ja: プロンプト内の「[参考画像]」の部分は、アップロードされた画像と組み合わせて使用する必要があります。
+reference_note_ja: 人物や物体の写真をキーホルダーのデザインの主体として1枚アップロードする必要があります。

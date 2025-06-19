@@ -1,6 +1,6 @@
 title: Emoji 充气感靠垫
 title_en: Emoji Inflatable Cushion
-author: "@gizakdag"
+author: '@gizakdag'
 author_link: https://x.com/gizakdag
 source_links:
   - url: https://x.com/gizakdag/status/1912858535643197927
@@ -15,7 +15,11 @@ prompt_note: |
   可将提示词中的 [🥹] 替换为其他 Emoji。
 prompt_note_en: |
   The [🥹] emoji in the prompt can be replaced with other emojis.
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: Emoji 膨らませたようなクッション
+alt_text_ja: Emoji 膨らませたようなクッション
+prompt_ja: 高解像度の3Dレンダリング画像を作成し、[🥹]を膨らませた、ふくらんだオブジェクトとしてデザインしてください。形状は柔らかく、丸みを帯び、空気で満たされている—ぬいぐるみ風の風船や膨らませたおもちゃのような感じです。滑らかなマット素材を使用し、微細な布の折り目や縫い目を入れて膨らみの効果を強調してください。全体の形状は少し不規則で柔らかく沈み込んでおり、柔らかな影と優しい照明で立体感とリアリティを際立たせてください。清潔でシンプルな背景（薄いグレーや薄いブルー）に配置し、全体的なスタイルは遊び心があり彫刻的な感じを保ってください。
+prompt_note_ja: 指示語の中の [🥹] を他の絵文字に置き換えることができます。

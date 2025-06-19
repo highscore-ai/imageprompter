@@ -1,6 +1,6 @@
 title: 乐高收藏品
 title_en: Lego Collectible Figure
-author: "@ZHO_ZHO_ZHO"
+author: '@ZHO_ZHO_ZHO'
 author_link: https://x.com/ZHO_ZHO_ZHO
 source_links:
   - url: https://x.com/ZHO_ZHO_ZHO/status/1910644499354968091
@@ -27,11 +27,24 @@ prompt_en: |
   The lower part of the base subtly incorporates finely etched biological classification details, similar to a natural history museum display.
   The overall composition should resemble a high-end collectible artwork: meticulously crafted, curated in style, and lit with refined lighting.
   Balance is key to the layout. The background should feature a smooth gradient transition from dark to light tones, selected to match the dominant color theme.
-prompt_note: ""
-prompt_note_en: ""
+prompt_note: ''
+prompt_note_en: ''
 reference_note: |
   一张半身或者全身单人照片。
 reference_note_en: |
   A half-body or full-body single person photo.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: レゴコレクション
+alt_text_ja: レゴコレクション
+prompt_ja: |-
+  アップロードした写真に基づいて、縦長比率の写真を生成してください。以下のプロンプトを使用してください：
+  クラシックなレゴミニフィギュアスタイルで、ミニチュアシーン — 動物が私の隣に立っています。この動物のカラーリングは私と調和しています。
+  私の印象に基づいてこの動物を創造してください（実在する動物でも、シュールな想像上の生き物でも、私の雰囲気に合うと思うものであれば何でも選んでください）。
+  全体のシーンは透明なガラスキューブの中に設置され、セットはミニマルです。
+  ミニチュアシーンの台座はマットブラックで、シルバーの装飾が施され、シンプルでスタイリッシュなデザインです。
+  台座には優雅に彫刻されたラベルプレートがあり、洗練されたセリフ体で動物の名前が記されています。
+  台座のデザインには、自然史博物館の展示のような生物学的分類情報も精巧なエッチングで巧みに組み込まれています。
+  全体の構図は高級コレクターズアイテムのよう：丁寧に作り込まれ、キュレーションされたような展示で、照明も細部まで配慮されています。
+  バランスの取れた構図。背景はグラデーションで、濃い色から薄い色へと変化します（メインカラーに基づいて色を選択）。
+reference_note_ja: レゴコレクションの背景に、半身または全身の一人の写真。

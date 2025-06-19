@@ -1,6 +1,6 @@
 title: 蒸汽朋克机械鱼
 title_en: Steampunk Mechanical Fish
-author: "@f-is-h"
+author: '@f-is-h'
 author_link: https://github.com/f-is-h
 source_links:
   - url: https://github.com/f-is-h/f-is-h/blob/main/images/streampank-fish-4.png
@@ -27,7 +27,18 @@ prompt_note: |
   此图片展示了蒸汽朋克风格与金属材质的精美结合，呈现出精致的机械感和复古未来主义风格。
 prompt_note_en: |
   This image showcases an excellent combination of steampunk style and metallic textures, presenting intricate mechanical details and a retro-futuristic aesthetic.
-reference_note: ""
-reference_note_en: ""
+reference_note: ''
+reference_note_en: ''
 submitter: f-is-h
 submitter_link: https://github.com/f-is-h
+title_ja: スチームパンク機械魚
+alt_text_ja: スチームパンク風の機械仕掛けの魚
+prompt_ja: |-
+  スチームパンクスタイルの機械魚で、真鍮風の胴体を持ち、動く際の歯車構造がはっきりと見えます。
+  機械式の歯が少し見え、整然と閉じられており、上下の歯が見えます。各歯は三角形で、ダイヤモンド素材でできています。
+  尾びれは金属ワイヤーの編み込み構造で、他のヒレは半透明の琥珀色ガラスで、その中にわずかな気泡があります。
+  目は多面体のルビーで、反射する輝きがはっきりと見えます。
+  魚の体には「f-is-h」という文字がはっきりと見え、すべて小文字で、横線の位置に注意してください。
+  画像は正方形で、魚の全身が画面中央に見え、頭は右向きで、余白があり窮屈ではありません。左右により多くのスペースがあります。背景には薄いスチームパンク風の歯車模様があります。
+  魚全体が非常にクールに見えます。これは高解像度の画像で、細部が非常に豊かで、独特の質感と美しさがあります。画像は暗すぎないようにしてください。
+prompt_note_ja: この画像は、スチームパンクスタイルと金属素材の美しい組み合わせを示し、精巧な機械的感覚とレトロフューチャリスティックなスタイルを表現しています。

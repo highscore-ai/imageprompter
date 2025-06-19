@@ -1,6 +1,6 @@
 title: 极简未来主义海报
 title_en: Minimalist Futurist Poster
-author: "@ZHO_ZHO_ZHO"
+author: '@ZHO_ZHO_ZHO'
 author_link: https://x.com/ZHO_ZHO_ZHO
 source_links:
   - url: https://x.com/ZHO_ZHO_ZHO/status/1921906728763105394
@@ -38,7 +38,24 @@ prompt_note: |
   提示词中的【立体可口可乐经典汽水瓶】可以替换为其他物品的描述，以生成不同主题的海报。
 prompt_note_en: |
   The [Classic 3D Coca-Cola Bottle] in the prompt can be replaced with descriptions of other items to generate posters with different themes.
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: ミニマリスト未来主義ポスター
+alt_text_ja: ミニマリスト未来主義ポスター
+prompt_ja: |-
+  縦向き（3:4）4K解像度のミニマリスト未来主義展示ポスター、背景は超薄いクールグレー #f4f4f4。
+
+  ポスターの中央に流体3D metaballがあり、形状は【立体的なコカ・コーラのクラシックボトル】、マットガラス素材で繊細な粒子ノイズを含む。流体グラデーション：コカ・コーラレッド #E41C23 → パールホワイト #FFFFFF、滑らかなガラス質感を表現。
+
+  上部からのsoftboxソフトライティングで、長く柔らかいカラーシャドウと淡い光輪を投影。
+
+  流体はテキストの上に重なり、隠れた文字はマットガラスを通して軽いガウスぼかしで表示される。
+
+  ・メインタイトル「Coca-Cola」のクラシックな赤色ロゴは中央に位置し、流体部分に一部隠れている；隠れた文字はマットガラスを通して軽いガウスぼかしで表示。
+
+  ・サブタイトル、モダンなサンセリフ太字の全て大文字の純黒フォント：「TASTE THE FEELING」はメインタイトルの下に位置し、同様に流体に部分的に覆われてぼかされ、残りの部分はシャープ。
+
+  全体的に余白が清潔で、構図がバランス良く、焦点がシャープで、HDR高ダイナミックレンジ。
+prompt_note_ja: 指示文の【立体的なコカ・コーラのクラシックボトル】は、他のアイテムの説明に置き換えることで、異なるテーマのポスターを生成できます。

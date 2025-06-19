@@ -1,6 +1,6 @@
 title: 黑白肖像艺术
 title_en: Black and White Portrait Art
-author: "@ZHO_ZHO_ZHO"
+author: '@ZHO_ZHO_ZHO'
 author_link: https://x.com/ZHO_ZHO_ZHO
 source_links:
   - url: https://x.com/ZHO_ZHO_ZHO/status/1922150692145283299
@@ -23,9 +23,19 @@ prompt_en: |
   A gentle, directional light, softly diffused, caresses the curve of his cheek or glints in his eye—this is the emotional core of the image. The rest of the composition is dominated by ample negative space, intentionally kept simple, allowing the image to breathe. There are no texts, no logos in the image—only an interplay of light, shadow, and emotion.
 
   The overall atmosphere is abstract yet deeply human, like a fleeting glance or a half-remembered dream: intimate, timeless, and poignantly beautiful.
-prompt_note: ""
-prompt_note_en: ""
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+prompt_note: ''
+prompt_note_en: ''
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: モノクロポートレートアート
+alt_text_ja: モノクロポートレートアート
+prompt_ja: |-
+  高解像度の白黒ポートレートアート作品で、エディトリアルとアート写真のスタイルを採用しています。背景は柔らかなグラデーションで、ミディアムグレーからほぼ純白へと移行し、奥行きと静寂の雰囲気を作り出しています。繊細なフィルムグレインのテクスチャが、触れることができるようなアナログ写真のような柔らかな質感を画像に加え、クラシックな白黒写真を思わせます。
+
+  画面の右側に、ぼんやりとしながらも魅惑的なハリーポッターの顔が影から浮かび上がっています。それは従来のポーズを取った写真ではなく、思考や呼吸の間の瞬間を捉えたかのようです。彼の顔の一部だけが見えています：おそらく片目、頬骨の一部、そして唇の輪郭が、神秘性、親密さ、優雅さを呼び起こします。彼の表情は繊細で深く、憂いと詩的な美しさを放ちながらも、わざとらしさはありません。
+
+  優しい指向性のある光が柔らかく拡散し、彼の頬のラインを優しく撫で、または目に光の点を作り出します—これが画像の感情的な中心です。残りの部分は大きな余白で占められ、意図的にシンプルに保たれ、画像が「呼吸する」余地を与えています。画像には文字もロゴもなく—光と影、そして感情だけが織り交ざっています。
+
+  全体の雰囲気は抽象的でありながら深く人間的で、一瞬の視線や、半分夢と半分覚醒の間の記憶のようです：親密で、永遠で、切なく美しいものです。

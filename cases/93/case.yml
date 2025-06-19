@@ -1,6 +1,6 @@
 title: 玻璃质感重塑
 title_en: Glass Retexturing
-author: "@egeberkina"
+author: '@egeberkina'
 author_link: https://x.com/egeberkina
 source_links:
   - url: https://x.com/egeberkina/status/1920448389960909085
@@ -83,5 +83,44 @@ reference_note: |
   需要上传一张图像作为重新纹理化的基础。
 reference_note_en: |
   An image needs to be uploaded as the base for retexturing.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: ガラス質感の再構築
+alt_text_ja: ガラス質感のリモデリング
+prompt_ja: |-
+  参考画像を以下のJSONで定義された美的定義に基づいて再テクスチャ化してください
+
+  {
+    "style": "フォトリアリスティックな3Dレンダリング",
+    "material": "透明で虹色効果のあるガラス",
+    "surface_texture": "滑らかで磨かれた表面、微妙な反射と屈折効果あり",
+    "lighting": {
+      "type": "スタジオHDRI",
+      "intensity": "高",
+      "direction": "左上からの角度付きキーライトと環境光フィル",
+      "accent_colors": ["青", "緑", "紫"],
+      "reflections": true,
+      "refractions": true,
+      "dispersion_effects": true,
+      "bloom": true
+    },
+    "color_scheme": {
+      "primary": "青、緑、紫の虹色の色合いを持つ透明素材",
+      "secondary": "クリスタルクリアで微妙な色彩変化あり",
+      "highlights": "虹のような効果を反射する柔らかく光る強調部分",
+      "rim_light": "エッジ周りの柔らかい反射光"
+    },
+    "background": {
+      "color": "黒",
+      "vignette": true,
+      "texture": "なし"
+    },
+    "post_processing": {
+      "chromatic_aberration": true,
+      "glow": true,
+      "high_contrast": true,
+      "sharp_details": true
+    }
+  }
+prompt_note_ja: このプロンプトはGPT-4oで画像生成してください。Soraでは正しいスタイルを生成できない可能性があります。
+reference_note_ja: 再テクスチャ化のベースとして画像をアップロードする必要があります。

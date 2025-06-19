@@ -1,6 +1,6 @@
 title: 皮克斯3D风格
 title_en: Pixar 3D Style
-author: "AnimeAI"
+author: AnimeAI
 author_link: https://animeai.online
 source_links:
   - url: https://animeai.online/#demo-gallery
@@ -11,11 +11,15 @@ prompt: |
   以皮克斯 3D 风格重绘这张照片
 prompt_en: |
   Redraw this photo in Pixar 3D style
-prompt_note: ""
-prompt_note_en: ""
+prompt_note: ''
+prompt_note_en: ''
 reference_note: |
   一张人物或者其他照片。
 reference_note_en: |
   A photo of a person or other subject.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: ピクサー3Dスタイル
+alt_text_ja: ピクサー3Dスタイルの『ゴッドファーザー』
+prompt_ja: ピクサー3Dスタイルでこの写真を再描画
+reference_note_ja: 人物または他の写真1枚。

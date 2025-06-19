@@ -1,6 +1,6 @@
 title: 体素风格 3D 图标转换
 title_en: Voxel Style 3D Icon Conversion
-author: "@BrettFromDJ"
+author: '@BrettFromDJ'
 author_link: https://x.com/BrettFromDJ
 source_links:
   - url: https://x.com/BrettFromDJ/status/1910387413404234076
@@ -23,5 +23,14 @@ reference_note: |
   体素风格图标的参考图从原文链接1获取；以及一张要转换的原始图标。
 reference_note_en: |
   The reference image for voxel style icons is obtained from the original link 1; and an original icon to be transformed.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: ボクセルスタイルの3Dアイコン変換
+alt_text_ja: ボクセルスタイルの3Dアイコン
+prompt_ja: |-
+  三つのステップ
+  1. 参考画像をアップロード
+  2. 変換したい写真をアップロード
+  3. プロンプト：画像/説明/絵文字を参考画像のようなボクセル3Dアイコンに変換、Octaneレンダリング、8k
+prompt_note_ja: 中国語プロンプト by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)
+reference_note_ja: ボクセルスタイルのアイコン参考図は元の記事のリンク1から取得されています。また、変換する元のアイコン画像も含まれています。

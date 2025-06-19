@@ -1,6 +1,6 @@
 title: “极其平凡”的iPhone自拍
 title_en: Extremely Ordinary iPhone Selfie
-author: "@jiamimaodashu"
+author: '@jiamimaodashu'
 author_link: https://x.com/jiamimaodashu
 source_links:
   - url: https://x.com/jiamimaodashu/status/1912653073190879410
@@ -16,7 +16,11 @@ prompt_note: |
   这个提示词旨在生成一张看起来非常随意、甚至有点“失败”的快照风格照片。
 prompt_note_en: |
   This prompt aims to generate a photo that looks very casual, even slightly like an accidental snapshot.
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: 極めて平凡な"iPhoneの自撮り
+alt_text_ja: 極めて平凡な"iPhoneの自撮り
+prompt_ja: 非常に平凡なiPhoneの自撮り写真を描いてください。明確な被写体や構図感がなく、何気なく撮ったスナップショットのようなものです。写真は少し手ブレがあり、日光や店内の不均一な照明により若干露出オーバーになっています。角度は不自然で構図も乱雑、全体的に意図的な凡庸さを醸し出しています - まるでポケットからスマホを取り出す際に誤って撮ってしまった自撮りのようです。主役は陳奕迅（エディソン・チャン）と謝霆鋒（ニコラス・ツェー）で、夜の香港コンベンション＆エキシビションセンター付近、香港のビクトリアハーバー沿いにいます。
+prompt_note_ja: この指示は、非常にカジュアルで、ある意味「失敗した」ようなスナップショット風の写真を生成することを目的としています。

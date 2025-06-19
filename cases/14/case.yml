@@ -1,6 +1,6 @@
 title: 《海贼王》主题手办制作
 title_en: One Piece Themed Figure Creation
-author: "@dotey"
+author: '@dotey'
 author_link: https://x.com/dotey
 source_links:
   - url: https://x.com/dotey/status/1909047547563213145
@@ -21,5 +21,10 @@ reference_note: |
   一张半身或者全身照片。
 reference_note_en: |
   A half-body or full-body photo.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: 『ワンピース』テーマのフィギュア制作
+alt_text_ja: ワンピース」テーマのフィギュア制作
+prompt_ja: 写真の人物を「ワンピース」（One Piece）アニメテーマのフィギュア包装箱のスタイルに変換し、アイソメトリック視点で表現してください。箱の中には写真の人物をベースにしたワンピース風アニメスタイルのキャラクターが展示され、その隣には日常必需品（拳銃、腕時計、スーツ、革靴）が配置されています。また、パッケージの横にはそのフィギュア本体の実物効果も表示され、リアルで本物らしいレンダリングスタイルで描かれています。
+prompt_note_ja: 日常必需品をここで少し修正します。原文を参照してください。
+reference_note_ja: ワンピースをテーマにしたフィギュア制作のための半身または全身写真。

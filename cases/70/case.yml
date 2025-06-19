@@ -1,6 +1,6 @@
 title: 原创宝可梦生成
 title_en: Original Pokemon Creation
-author: "@Anima_Labs"
+author: '@Anima_Labs'
 author_link: https://x.com/Anima_Labs
 source_links:
   - url: https://x.com/Anima_Labs/status/1915044265895379166
@@ -25,5 +25,16 @@ reference_note: |
   需要上传一张物体、食物等的照片作为灵感来源。
 reference_note_en: |
   Needs a photo of an object, food, etc., as inspiration.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: オリジナルポケモン生成
+alt_text_ja: オリジナルポケモン生成
+prompt_ja: |-
+  この物体（提供された写真）に基づいてオリジナルの生物を創作してください。その生物はファンタジーモンスター捕獲ユニバースに属しているように見え、レトロな日本風RPGモンスターアートの影響を受けたかわいいまたはクールなデザインを持つべきです。画像には以下を含める必要があります：
+    – 物体の形状、素材、または用途からインスピレーションを得た生物の全身ビュー
+    – 足元に小さな球体またはカプセル（モンスターボールのような）があり、そのデザインパターンと色は物体の外観に合わせたもの——標準的なモンスターボールではなく、カスタムデザイン
+    – 生物のために発明された名前が、その横または下に表示されている
+    – その元素タイプ（例：火、水、金属、自然、電気など）、物体の本質的な特性に基づいたもの
+  イラストはファンタジー生物図鑑からのものように見え、クリアな線、柔らかい影、表現力豊かでキャラクター主導のデザインを持つべきです。
+prompt_note_ja: 最初のプロンプトが効かない場合は、新しい会話を始めるか、問題を回避するよう依頼してみてください。
+reference_note_ja: 物体や食べ物などの写真をインスピレーションの源として1枚アップロードする必要があります。

@@ -1,6 +1,6 @@
 title: 小红书封面
 title_en: Xiaohongshu Cover Image
-author: "@balconychy"
+author: '@balconychy'
 author_link: https://x.com/balconychy
 source_links:
   - url: https://x.com/balconychy/status/1905507936526627078
@@ -47,9 +47,30 @@ prompt_en: |
   Try it now!
 
   Image aspect ratio: 9:16
-prompt_note: ""
-prompt_note_en: ""
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+prompt_note: ''
+prompt_note_en: ''
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: 小紅書（シャオホンシュー）の表紙
+alt_text_ja: 小紅書（シャオホンシュー）の表紙
+prompt_ja: |-
+  画像：小紅書（RED）のカバーを描いてください。
+  要件：
+  ユーザーをクリックさせるための十分な魅力があること；
+  フォントは目立つもので、個性的なフォントを選ぶこと；
+  文字サイズは重要度によって段階的に分け、文章の論理構造を表現すること；
+  タイトルは通常の文字の少なくとも2倍のサイズにすること；
+  テキストの段落間に余白を設けること。
+  強調したい文字だけに目立つ色を使ってユーザーの注意を引くこと；
+  背景には目を引くパターンを使用すること（紙、ノート、WeChatチャットウィンドウなど、いずれか一つを選択）
+  適切なアイコンや画像を使って視覚的な階層を増やすが、干渉を減らすこと。
+
+  コピー文：重大発表！ChatGPTがさらにパワーアップ！
+  マルチタスク処理能力が向上✨
+  プログラミング能力が強化💪
+  創造性が爆発的🎨
+  今すぐ試してみて！
+
+  画像比率は9:16

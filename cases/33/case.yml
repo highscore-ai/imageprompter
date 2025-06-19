@@ -1,6 +1,6 @@
 title: 全家福婚纱照
 title_en: Family Wedding Photo (Q-version)
-author: "@balconychy"
+author: '@balconychy'
 author_link: https://x.com/balconychy
 source_links:
   - url: https://x.com/balconychy/status/1909426314643222595
@@ -15,11 +15,15 @@ prompt_en: |
   The background features a colorful floral arch.
   The characters are in 3D chibi style, while the environment is photorealistic.
   The entire scene is placed inside a photo frame.
-prompt_note: ""
-prompt_note_en: ""
+prompt_note: ''
+prompt_note_en: ''
 reference_note: |
   一张家庭照片。
 reference_note_en: |
   A family photo.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: 家族のウェディングフォト
+alt_text_ja: 家族の結婚写真
+prompt_ja: 写真の人物をちび風3Dキャラクターに変換してください。両親はウェディング衣装を着ており、子どもは美しい花童です。父親はタキシード、母親はウェディングドレスを着ています。子どもは花束を手に持っています。背景はカラフルな花で作られたアーチです。キャラクターはちび風3Dですが、環境は写実的に描かれています。全体がフォトフレームに入っています。
+reference_note_ja: 家族写真。

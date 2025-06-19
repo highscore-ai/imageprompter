@@ -1,6 +1,6 @@
 title: 金色吊坠项链
 title_en: Gold Pendant Necklace
-author: "@azed_ai"
+author: '@azed_ai'
 author_link: https://x.com/azed_ai
 source_links:
   - url: https://x.com/azed_ai/status/1915770501705925106
@@ -19,5 +19,10 @@ reference_note: |
   （可选）可上传图片作为浮雕图案。
 reference_note_en: |
   (Optional) An image can be uploaded to be used as the bas-relief pattern.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: ゴールドのペンダントネックレス
+alt_text_ja: ゴールドのペンダントネックレス
+prompt_ja: 写真のようにリアルな接写画像で、女性の手が持つ金色のペンダントネックレスを表現しています。ペンダントには[画像/絵文字]の浮き彫り模様が刻まれ、磨き上げられたゴールドチェーンに吊るされています。背景はソフトにぼかされたニュートラルなベージュトーンで、自然光を使用し、肌の色は自然で、スタイルはプロダクト写真、アスペクト比は16:9です。
+prompt_note_ja: '[image /emoji]」の部分を具体的な画像の説明や絵文字に置き換えることができます。'
+reference_note_ja: （任意）浮き彫り模様として画像をアップロードできます。

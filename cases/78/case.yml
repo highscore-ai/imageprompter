@@ -1,6 +1,6 @@
 title: 玻璃材质重塑
 title_en: Glass Retexturing
-author: "@egeberkina"
+author: '@egeberkina'
 author_link: https://x.com/egeberkina
 source_links:
   - url: https://x.com/egeberkina/status/1917631056980721743
@@ -51,5 +51,27 @@ reference_note: |
   需要上传一张要进行材质重塑的物体图片。
 reference_note_en: |
   Yes, needs an image of the object to be retextured.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: ガラス素材のリモデリング
+alt_text_ja: ガラス素材の再構築
+prompt_ja: |-
+  添付された画像を以下のJSONに基づいて再テクスチャ化してください:
+
+  {
+    "style": "photorealistic",
+    "material": "glass",
+    "background": "plain white",
+    "object_position": "centered",
+    "lighting": "soft, diffused studio lighting",
+    "camera_angle": "eye-level, straight-on",
+    "resolution": "high",
+    "aspect_ratio": "2:3",
+    "details": {
+      "reflections": true,
+      "shadows": false,
+      "transparency": true
+    }
+  }
+prompt_note_ja: この指示はJSON構造を通じて出力スタイルを正確に制御し、アップロードされた画像を指定された材質に再構成します。
+reference_note_ja: 材質を再構築したいオブジェクトの画像をアップロードする必要があります。

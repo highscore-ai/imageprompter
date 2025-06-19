@@ -1,6 +1,6 @@
 title: 创意绿植花盆
 title_en: Cute Plant Planter
-author: "@azed_ai"
+author: '@azed_ai'
 author_link: https://x.com/azed_ai
 source_links:
   - url: https://x.com/azed_ai/status/1923739813414568075
@@ -15,7 +15,11 @@ prompt_note: |
   可替换提示词中的 [物体/动物] 为具体的物体、动物名称或表情符号。
 prompt_note_en: |
   Replace [object/animal] in the prompt with a specific object, animal name, or emoji.
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: クリエイティブな観葉植物の鉢
+alt_text_ja: クリエイティブな観葉植物の鉢
+prompt_ja: 高品質な写真で、かわいい陶器製の[物体/動物]型の植木鉢を展示しています。表面は滑らかで、中には生き生きとした多肉植物や緑の植物が満ちています。とげのある十二の巻き、ロゼット状の石蓮花（センペルビウム）、繊細な白い小花などが含まれています。植木鉢には親しみやすい表情があり、柔らかな中性的な背景に置かれています。自然な拡散光で照らされ、繊細な質感と色のコントラストが表現されており、構図はシンプルでミニマルなスタイルになっています。
+prompt_note_ja: 提示文の中の [物体/動物] を具体的な物体、動物の名前、または絵文字に置き換えることができます。

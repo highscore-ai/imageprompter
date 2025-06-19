@@ -1,6 +1,6 @@
 title: 键盘ESC 键帽微型立体模型
 title_en: ESC Keycap Miniature Diorama
-author: "@egeberkina"
+author: '@egeberkina'
 author_link: https://x.com/egeberkina
 source_links:
   - url: https://x.com/egeberkina/status/1911368319212408926
@@ -17,8 +17,21 @@ prompt_en: |
   A hyper-realistic isometric 3D render of a miniature computer setup inside a translucent mechanical keyboard keycap, specifically placed on the ESC key of a real matte-finished mechanical keyboard. Inside the keycap, a tiny figure sits in a modern ergonomic chair, wearing a cozy textured hoodie, working at a glowing ultra-realistic computer screen. The environment is packed with lifelike miniature tech accessories: real-material desk lamps, monitors with reflections, tiny speaker grills, tangled cables, and ceramic mugs. The base of the scene is made of soil, rocks, and moss, with photorealistic textures and imperfections. The lighting inside the cap mimics natural morning sun, casting soft shadows and warm tones, while the outside has cold ambient reflections from the surrounding keyboard. The word “ESC” is subtly etched onto the top of the translucent keycap with a faint frosted glass effect — just barely visible depending on the angle. The surrounding keyboard keys like F1, Q, Shift, and CTRL are crisp, textured, and photorealistically lit. Shot as if taken with a high-end mobile phone camera, with shallow depth of field, perfect white balance, and cinematic detail.
 prompt_note: |
   中文版本提示词由英文版本翻译而来，原提示词请查看英文版本
-prompt_note_en: ""
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+prompt_note_en: ''
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: キーボードのESCキーキャップのミニチュア立体模型
+alt_text_ja: キーボードのESCキーキャップ内の小さな立体的なコンピューター作業スペースモデル
+prompt_ja: |-
+  超リアルなアイソメトリック3Dレンダリングで、半透明の機械式キーボードのキーキャップ内に設置された小さなコンピューターワークスペースを表現しています。このキーキャップは、マットな質感を持つ実物の機械式キーボードのESCキーに特別に配置されています。
+
+  キーキャップの内部では、質感のあるフード付きパーカーを着た小さな人物が、人間工学に基づいた現代的な椅子に座り、光る超リアルなコンピューター画面に向かって集中して作業しています。空間全体には、リアルな質感のデスクランプ、反射効果のあるモニター、微小なスピーカーグリル、絡み合うケーブル、セラミックカップなど、リアルな小型テクノロジーアクセサリーが配置されています。
+
+  シーンの底部は土、岩、苔で構成され、写真レベルの質感と自然な不完全さを持っています。キーキャップ内の照明は朝の自然光をシミュレートし、柔らかな影と温かい光のトーンを投げかけています。一方、キーキャップの外側は周囲のキーボード環境からの寒色系の反射の影響を受けています。
+
+  「ESC」の文字は半透明キーキャップの上部に、かすかなフロストガラス効果でエッチングされており、視点によってはかろうじて見えるだけです。
+
+  周囲のF1、Q、Shift、CTRLなどのキーも鮮明に見え、リアルな質感と照明効果を持っています。全体的な画像は、高級スマートフォンのカメラで撮影したかのような浅い被写界深度、完璧なホワイトバランス、映画のような細部を備えています。
+prompt_note_ja: 中国語版のプロンプトは英語版から翻訳されています。元のプロンプトは英語版をご確認ください。

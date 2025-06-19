@@ -1,6 +1,6 @@
 title: 讽刺漫画生成
 title_en: Satirical Cartoon Generation
-author: "@dotey"
+author: '@dotey'
 author_link: https://x.com/dotey
 source_links:
   - url: https://x.com/dotey/status/1910514811756065159
@@ -13,9 +13,12 @@ prompt_en: |
   An illustration in satirical comic style, rendered in a vintage American comic aesthetic. The background features a multi-tiered shelf stocked entirely with identical red baseball caps. The caps have a bold slogan on the front: “MAKE AMERICA GREAT AGAIN,” while a white side tag on each reads “MADE IN CHINA.” The composition uses a close-up perspective focusing on one specific red cap.
   At the bottom of the image, a price label is shown: the original price “$50.00” is crossed out with a thick black X and replaced with “$77.00.” The overall color palette uses nostalgic ochre and deep red tones, with shading that mimics the textured print style of 1990s retro comics.
   The composition is exaggerated and satirical, carrying a strong critique of political consumerism.
-prompt_note: ""
-prompt_note_en: ""
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+prompt_note: ''
+prompt_note_en: ''
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: 風刺漫画の生成
+alt_text_ja: 風刺漫画の生成
+prompt_ja: 風刺漫画スタイルのイラスト、レトロなアメリカン・コミックスタイルで、背景は多層式の棚。棚には同じ赤い野球帽が並び、帽子の正面には「MAKE AMERICA GREAT AGAIN」の大きな文字が印刷され、側面には「MADE IN CHINA」と書かれた白いラベルが貼られています。アップのアングルで赤い野球帽の一つにフォーカス。画面下部には価格タグがあり、元の価格「$50.00」が太い黒線でX印を付けられ、「$77.00」に変更されています。色調は懐かしい土色がかった黄色と暗い赤色で、影の処理は90年代のレトロな印刷感を持っています。全体の構図は誇張された風刺的なスタイルで、政治的消費主義を皮肉る意味合いを持っています。

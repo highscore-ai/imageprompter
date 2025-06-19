@@ -1,6 +1,6 @@
 title: RPG 风格角色卡片制作
 title_en: RPG-Style Character Card Creation
-author: "@berryxia_ai"
+author: '@berryxia_ai'
 author_link: https://x.com/berryxia_ai
 source_links:
   - url: https://x.com/berryxia_ai/status/1911334046724165905
@@ -33,5 +33,18 @@ reference_note: |
   可选。可根据职业或角色描述生成，或上传照片作为参考。
 reference_note_en: |
   Optional. Can be generated based on profession/role description or use an uploaded photo as reference.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: RPG風キャラクターカード制作
+alt_text_ja: RPG スタイルのキャラクターカード作成
+prompt_ja: |-
+  RPGコレクションスタイルのデジタルキャラクターカードを作成します。
+  キャラクター設定は「{Programmer}」で、自信に満ちた立ち姿で、その職業に関連したツールやシンボルを持っています。
+  3Dカートゥーンスタイルで表現し、柔らかな照明を使用して、鮮明な個性を表現します。
+  スキルバーや属性値を追加してください。例えば[スキル1 +x]、[スキル2 +x]など、Creativity +10、UI/UX +8のように。
+  カードの上部にタイトルバナーを追加し、下部にキャラクター名プレートを配置します。
+  カードの枠線はクリーンで、実際のコレクションフィギュアのパッケージのようにしてください。
+  背景は職業のテーマに合わせてください。
+  配色は暖かいハイライトと職業の特徴に合った色調を使用してください。
+prompt_note_ja: 括弧内の職業を{Programmer}からDesigner、Doctorなどに置き換え可能
+reference_note_ja: オプション。職業や役割の説明に基づいて生成することも、参考として写真をアップロードすることもできます。

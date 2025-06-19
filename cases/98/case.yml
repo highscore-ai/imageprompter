@@ -1,6 +1,6 @@
 title: 磨砂玻璃后的虚实对比剪影
 title_en: Blurred Silhouette Behind Frosted Glass
-author: "@umesh_ai"
+author: '@umesh_ai'
 author_link: https://x.com/umesh_ai
 source_links:
   - url: https://x.com/umesh_ai/status/1921487841634156999
@@ -17,7 +17,13 @@ prompt_note: |
 prompt_note_en: |
   Replace [SUBJECT] and [PART] with vivid, visually striking details that emphasize the “blurred subject + sharply defined part” contrast.
   For example, set [SUBJECT] to “a Sith Lord wielding a red lightsaber in one hand” and [PART] to “the other hand channeling the dark side of the Force.”
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: すりガラス越しの虚実対比シルエット
+alt_text_ja: すりガラス越しの虚実対比シルエット
+prompt_ja: 一枚の白黒写真、すりガラスや半透明の表面の後ろに[主体]のぼやけたシルエットが映し出されています。その[部分]の輪郭がはっきりと表面に密着し、残りの朧げでぼやけたシルエットと鮮やかな対比を成しています。背景は柔らかなグレーのグラデーションで、神秘的で芸術的な雰囲気を高めています。
+prompt_note_ja: |-
+  [主体]と[部分]に具体的で視覚的な描写を入れて、「ぼやけた主体 + 鮮明な部分」のコントラスト効果を強調してください。
+  例えば：[主体]は「赤いライトセーバーを持つシスの暗黒卿」、[部分]は「もう一方のダークフォースを集める手」などと書けます。

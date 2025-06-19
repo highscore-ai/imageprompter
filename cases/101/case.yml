@@ -1,6 +1,6 @@
 title: 泡泡食物
 title_en: Edible Pop
-author: "@aziz4ai"
+author: '@aziz4ai'
 author_link: https://x.com/aziz4ai/
 source_links:
   - url: https://x.com/aziz4ai/status/1934986353848017349
@@ -11,11 +11,13 @@ prompt: |
   一张超逼真的DSLR相机拍摄照片，展示出\[品牌/产品]——多汁、酥脆、令人垂涎。由一只可爱的Q版卡通小手拿着，正准备咬上一口。背景为平面2D插画，采用柔和的马卡龙色调，看起来像能吃的一样，灵感来自其视觉识别风格——带有超现实、可爱风格的矢量元素，如糖屑、星星、柔和渐变和俏皮图形。加入一个醒目的口号，仅用**一个有力的单词**来形容口味（如“酥”、“化”、“赞”）。在食物上或口号旁边清晰展示品牌Logo。构图为居中、1:1方形比例，电影感柔光，真实食物与扁平插画背景形成强烈对比，4K分辨率。
 prompt_en: |
   A hyper-realistic DSLR photo of the [brand/product] — juicy, crispy, mouth-watering. Held by a cute cartoon chibi hand about to take a bite. The background is a flat 2D illustration with pastel, edible-looking colors inspired by its visual identity — surreal, kawaii-style vector elements like sprinkles, stars, soft gradients, and playful shapes. Add a bold slogan using ONE powerful word that describes the flavor (like CRUNCH, MELT, WOW). Include the logo clearly on the food or next to the slogan. Composition: centered, 1:1 square, cinematic soft lighting, strong contrast between real food and flat illustrated background, 4K resolution.
-prompt_note: ""
-prompt_note_en: ""
-reference_note: |
- 
+prompt_note: ''
+prompt_note_en: ''
+reference_note: ''
 reference_note_en: |
   A brand/product photo.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: バブルフード
+alt_text_ja: バブルフード
+prompt_ja: 超リアルなDSLR写真で、[ブランド/製品]のジューシーでサクサク、よだれが出るような姿を捉えています。かわいいちび風の漫画の手がそれを持ち、今にも一口かじろうとしています。背景はフラットな2Dイラストで、柔らかなマカロンカラーを使用し、まるで食べられるかのように見えます。そのビジュアルアイデンティティからインスピレーションを得た、シュールでかわいいベクター要素（砂糖の粒、星、柔らかなグラデーション、遊び心のあるグラフィック）が特徴です。目を引くキャッチフレーズとして、味を表現する**強いインパクトのある一語**（「サク」「トロ」「絶品」など）を添えています。食べ物の上またはキャッチフレーズの横にブランドロゴがはっきりと表示されています。構図は中央寄せの1:1スクエア比率、映画のような柔らかな光で、リアルな食べ物とフラットなイラスト背景のコントラストが際立つ4K解像度です。

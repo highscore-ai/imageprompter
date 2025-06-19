@@ -1,6 +1,6 @@
 title: 创意丝绸宇宙
 title_en: Creative Silk Universe
-author: "@ZHO_ZHO_ZHO"
+author: '@ZHO_ZHO_ZHO'
 author_link: https://x.com/ZHO_ZHO_ZHO
 source_links:
   - url: https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175
@@ -15,7 +15,11 @@ prompt_note: |
   可替换提示词中的 {❄️} 替换为你的目标值。
 prompt_note_en: |
   You can replace the {❄️} in the prompt words with your target value
-reference_note: ""
-reference_note_en: ""
+reference_note: ''
+reference_note_en: ''
 submitter: wowmarcomei
 submitter_link: https://github.com/wowmarcomei
+title_ja: クリエイティブなシルクの宇宙
+alt_text_ja: クリエイティブなシルクの宇宙
+prompt_ja: '{❄️}を柔らかい3Dシルク質感のオブジェクトに変換してください。オブジェクト全体が滑らかに流れるシルク生地で包まれ、超現実的なしわの細部、柔らかなハイライトと影を持っています。このオブジェクトはクリーンなライトグレーの背景の中央に軽く浮かび、軽やかで優雅な雰囲気を作り出しています。全体的なスタイルは超現実的で、触感豊かでモダン、快適さと洗練された面白さを伝えています。スタジオライティング、高解像度レンダリング。'
+prompt_note_ja: プロンプト内の {❄️} をあなたの目標値に置き換えることができます。

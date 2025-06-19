@@ -1,6 +1,6 @@
 title: 微型立体场景 (孙悟空三打白骨精)
 title_en: Miniature Three-dimensional Scene Presentation
-author: "@dotey"
+author: '@dotey'
 author_link: https://x.com/dotey
 source_links:
   - url: https://x.com/dotey/status/1911609122547449886
@@ -15,7 +15,11 @@ prompt_note: |
   提示词中括号内的【孙悟空三打白骨精】可以替换为其他中文场景，如“孙悟空大闹天宫”、“哪吒闹海”、“武松打虎”、“黛玉葬花”、“孙悟空三打白骨精”、“关云长过五关斩六将”等。
 prompt_note_en: |
   The content in brackets can be replaced with Western scenes such as “Hercules Slaying the Hydra” or “King Arthur Pulls the Sword from the Stone.”
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: ミニチュア立体シーン（孫悟空、三度白骨精を倒す）
+alt_text_ja: ちび風孫悟空が白骨精と三度戦うミニチュアジオラマ、ティルトシフト撮影スタイル
+prompt_ja: ミニチュアジオラマ表現、ティルトシフト撮影技法を用いて、ちび風の「孫悟空、白骨精を三度打ち破る」シーンを表現
+prompt_note_ja: プロンプト内の【孫悟空三打白骨精】は他の中国の場面に置き換えることができます。例えば「孫悟空大闹天宫」、「哪吒闹海」、「武松打虎」、「黛玉葬花」、「孫悟空三打白骨精」、「関羽五関六将を斬る」などです。

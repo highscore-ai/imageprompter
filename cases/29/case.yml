@@ -1,6 +1,6 @@
 title: 名画人物 OOTD
 title_en: Famous Painting Character OOTD
-author: "@ZHO_ZHO_ZHO"
+author: '@ZHO_ZHO_ZHO'
 author_link: https://x.com/ZHO_ZHO_ZHO
 source_links:
   - url: https://x.com/ZHO_ZHO_ZHO/status/1909892294217781714
@@ -27,11 +27,21 @@ prompt_en: |
   Top text: “OOTD”
   Left side: the full-body chibi character wearing the complete outfit
   Right side: individual clothing items and accessories laid out separately, as if in a style breakdown
-prompt_note: ""
-prompt_note_en: ""
+prompt_note: ''
+prompt_note_en: ''
 reference_note: |
   [《戴珍珠耳环的少女》图片](https://commons.wikimedia.org/w/index.php?curid=55017931)。
 reference_note_en: |
   [Image of 'Girl with a Pearl Earring'](https://commons.wikimedia.org/w/index.php?curid=55017931).
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: 名画の人物 OOTD
+alt_text_ja: 名画の人物 OOTD
+prompt_ja: |-
+  画像の人物に異なる職業風のOOTDを生成し、ファッションコーディネートとアクセサリー、人物の色調に合わせた単色背景、ちび風3D、C4Dレンダリング、顔の特徴を維持し、ポーズは一貫して同じに、人物のプロポーションは脚が長めに
+
+  構図：9:16
+  上部テキスト：OOTD、左側に人物のOOTDちび風イメージ、右側にコーディネートの各アイテム展示
+
+  最初の職業：ファッションデザイナー
+reference_note_ja: 『真珠の耳飾りの少女』の画像

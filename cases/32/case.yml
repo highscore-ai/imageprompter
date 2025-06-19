@@ -1,6 +1,6 @@
 title: 折叠式纸雕立体绘本
 title_en: 3D Papercraft Pop-up Book
-author: "@dotey"
+author: '@dotey'
 author_link: https://x.com/dotey
 source_links:
   - url: https://x.com/dotey/status/1923264349050675329
@@ -15,7 +15,11 @@ prompt_note: |
   请酌情修改中括号【】内的场景描述，也可以增加更多细节。
 prompt_note_en: |
   Please modify the scene description within the square brackets 【】 as appropriate, and you can also add more details.
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: 折り畳み式ペーパークラフト立体絵本
+alt_text_ja: 折り畳み式ペーパークラフト立体絵本
+prompt_ja: 多層折り畳み式ペーパークラフト立体絵本が机の上に置かれています。背景はシンプルで主題を引き立てています。絵本は立体的なページめくり式の様式で、3:2の横長比率です。開かれたページには【チビ風の哪吒と敖丙の戦い】のシーンが展開されています。すべての要素は精巧に折り畳まれ組み合わされており、リアルで繊細な紙の折り目の質感を表現しています。構図は正面からの視点で統一され、全体的な視覚スタイルは夢幻的で美しく、色彩豊かで鮮やかであり、ファンタジックで生き生きとしたストーリーの雰囲気に満ちています。
+prompt_note_ja: 必要に応じて角括弧【】内の場景描写を修正してください。より詳細な内容を追加することもできます。

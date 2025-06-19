@@ -1,6 +1,6 @@
 title: 名画人物麦片广告
 title_en: Famous Painting Character Cereal Ad
-author: "@ZHO_ZHO_ZHO"
+author: '@ZHO_ZHO_ZHO'
 author_link: https://x.com/ZHO_ZHO_ZHO
 source_links:
   - url: https://x.com/ZHO_ZHO_ZHO/status/1909542765857587310
@@ -25,11 +25,15 @@ prompt_en: |
   – Final image with mascot figure, packaging, and styled scene composition
 
   All visuals should be balanced, modern, and appealing, reflecting a premium and fun oat brand identity.
-prompt_note: ""
-prompt_note_en: ""
+prompt_note: ''
+prompt_note_en: ''
 reference_note: |
   [《戴珍珠耳环的少女》图片](https://commons.wikimedia.org/w/index.php?curid=55017931)。
 reference_note_en: |
   [Image of 'Girl with a Pearl Earring'](https://commons.wikimedia.org/w/index.php?curid=55017931).
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: 名画の人物によるシリアル広告
+alt_text_ja: 名画の人物によるシリアル広告
+prompt_ja: 『マスターオーツ』：アップロードされた写真の人物特徴に基づいて、その人の特性に合ったオートミールの組み合わせ（野菜、フルーツ、ヨーグルト、全粒穀物など）とパッケージデザインを生成します。そして、その人物をオートミールの箱のカバーモデルとして、対応するオートミール組み合わせの広告カバーを作成します。人物の特徴を維持しながら、かわいいちび風3D、C4Dレンダリングスタイルで表現します。オートミールが置かれる場所のスタイルも設定に合わせて、キッチンやスーパーマーケット、ミニマリストデザインのテーブルなどに配置します。まず設定をしっかり決めてから、画像を生成します。
+reference_note_ja: 『真珠の耳飾りの少女』の画像](https://commons.wikimedia.org/w/index.php?curid=55017931)。

@@ -1,6 +1,6 @@
 title: 透视3D出屏效果
 title_en: Perspective 3D Pop-Out Effect
-author: "@ZHO_ZHO_ZHO"
+author: '@ZHO_ZHO_ZHO'
 author_link: https://x.com/ZHO_ZHO_ZHO
 source_links:
   - url: https://x.com/ZHO_ZHO_ZHO/status/1920355982703509588
@@ -19,5 +19,10 @@ reference_note: |
   可使用一张人物照片作为参考图片。本示例的参考图片是[《戴珍珠耳环的少女》](https://commons.wikimedia.org/w/index.php?curid=55017931)。
 reference_note_en: |
   You can use a photo of a person as a reference image. This example image uses ["Girl with a Pearl Earring"](https://commons.wikimedia.org/w/index.php?curid=55017931) as a reference image.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: 遠近法を用いた3D飛び出し効果
+alt_text_ja: 遠近法を用いた3D飛び出し効果
+prompt_ja: 超写実、上から見下ろす俯瞰アングルで撮影された、美しいインスタグラムモデル【アン・ハサウェイ / 参考画像参照】。洗練された美しいメイクとファッショナブルなスタイリングで、誰かに持ち上げられたスマートフォンの画面の上に立っています。画面は強い遠近錯覚を生み出しています。少女がスマホから飛び出してくる3D効果を強調しています。彼女は黒縁メガネをかけ、ハイストリートファッションを着こなし、かわいいポーズを愛らしく取っています。スマホの画面は暗い床のように処理され、小さなステージのようになっています。手のひら、スマホ、少女の間の比率の違いを表現するために、強制遠近法（forced perspective）を使用しています。背景はクリーンなグレーで、柔らかい室内光と浅い被写界深度を使用し、全体的なスタイルは超現実的なリアルな合成です。遠近感が特に強調されています。
+prompt_note_ja: プロンプト内の【アン・ハサウェイ】を他のキャラクター名に置き換えることができます。または、キャラクターの写真を参考画像として使用することもできます。
+reference_note_ja: 人物の写真を参考画像として使用できます。この例では、[『真珠の耳飾りの少女』](https://commons.wikimedia.org/w/index.php?curid=55017931)を参考画像としています。

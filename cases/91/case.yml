@@ -1,6 +1,6 @@
 title: 谷歌地图变身古代藏宝图
 title_en: Google Maps to Ancient Treasure Map
-author: "@umesh_ai"
+author: '@umesh_ai'
 author_link: https://x.com/umesh_ai
 source_links:
   - url: https://x.com/umesh_ai/status/1919701229363466328
@@ -11,11 +11,15 @@ prompt: |
   将图像转换为绘制在古老羊皮纸上的古代藏宝图。地图包含详细的元素，如海洋上的帆船、海岸线上的古老港口或城堡、通向标记宝藏地点的大“X”的虚线路径、山脉、棕榈树和装饰性的罗盘玫瑰。整体风格让人联想到旧时的海盗冒险电影。
 prompt_en: |
   Transform the image to an ancient treasure map drawn on aged parchment. The map includes detailed elements like sailing ships on the ocean, old ports or castles on the coastline, a dotted path leading to a large 'X' marking the treasure spot, mountains, palm trees, and a decorative compass rose. The overall style is reminiscent of old pirate adventure films.
-prompt_note: ""
-prompt_note_en: ""
+prompt_note: ''
+prompt_note_en: ''
 reference_note: |
   需要上传一张谷歌地图截图或其他地图图片作为转换的基础。
 reference_note_en: |
   A Google Maps screenshot or other map image needs to be uploaded as the basis for the transformation.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: Googleマップが古代の宝の地図に変身
+alt_text_ja: Googleマップが古代の宝の地図に変身
+prompt_ja: 画像を古代の羊皮紙に描かれた古代の宝の地図に変換してください。地図には、海に浮かぶ帆船、海岸線に沿った古い港や城、宝の場所を示す大きな「X」へと続く点線の道筋、山々、ヤシの木、装飾的なコンパスローズなどの詳細な要素が含まれています。全体的なスタイルは、昔の海賊冒険映画を思わせるものです。
+reference_note_ja: Googleマップのスクリーンショットや他の地図画像を変換の基礎として1枚アップロードする必要があります。

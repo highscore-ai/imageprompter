@@ -1,6 +1,6 @@
 title: 动物硅胶腕托
 title_en: Animal Silicone Wrist Rest
-author: "@ZHO_ZHO_ZHO"
+author: '@ZHO_ZHO_ZHO'
 author_link: https://x.com/ZHO_ZHO_ZHO
 source_links:
   - url: https://x.com/ZHO_ZHO_ZHO/status/1918525296577327574
@@ -15,7 +15,11 @@ prompt_note: |
   可替换提示词中的【🐼】为其他动物 Emoji。
 prompt_note_en: |
   Replace the {🐼} emoji in the prompt with other animal emojis.
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: 動物シリコンリストレスト
+alt_text_ja: 動物シリコンリストレスト
+prompt_ja: 画像を作成 かわいいちび風のシリコン製リストレスト、【🐼】の絵文字をベースにしたデザイン、食品グレードの柔らかいシリコン素材を使用、表面は肌触りの良いマット仕上げ、内部はメモリーフォーム入り、擬人化されたカートゥーンスタイル、表情が生き生きとしていて、両手を広げてデスクに置かれ、手首を抱きしめるようなポーズ、全体的に丸みを帯びた柔らかく可愛らしいフォルム、【🐼】のカラーリング、癒し系で可愛いスタイル、オフィス用途に適した、白い背景、柔らかな照明、製品写真スタイル、正面または45度俯瞰アングル、高解像度で細部まで表現、シリコンの質感と快適な機能性を強調
+prompt_note_ja: 【🐼】を他の動物の絵文字に置き換えることができます。

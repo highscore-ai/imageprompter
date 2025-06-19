@@ -1,6 +1,6 @@
 title: 发光线条解剖图
 title_en: Glowing Lines Anatomy Diagram
-author: "@umesh_ai"
+author: '@umesh_ai'
 author_link: https://x.com/umesh_ai
 source_links:
   - url: https://x.com/umesh_ai/status/1914644426334314545
@@ -15,7 +15,11 @@ prompt_note: |
   可替换提示词中的 `[SUBJECT]` (主体) 和 `[PART]` (部位)。
 prompt_note_en: |
   Replace `[SUBJECT]` and `[PART]` in the prompt.
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: 発光ラインによる解剖図
+alt_text_ja: 発光ラインによる解剖図
+prompt_ja: デジタルイラストで、[SUBJECT]を描いたもの。その構造は発光する、クリーンで純粋な青い線で描かれています。深い色の背景の上に配置され、[SUBJECT]の形状と特徴が強調されています。[PART]のような特定の部分は、赤い光のオーラで強調され、その領域の重要性や特別な意味を表しています。全体的なスタイルは教育的で視覚的に魅力的であり、デザイン的には先進的なイメージング技術のようです。
+prompt_note_ja: '[SUBJECT]」（主体）と「[PART]」（部位）をプロンプト内で置き換えることができます。'

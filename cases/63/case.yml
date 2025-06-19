@@ -1,6 +1,6 @@
 title: Emoji 奶油雪糕
 title_en: Emoji Cream Popsicle
-author: "@ZHO_ZHO_ZHO"
+author: '@ZHO_ZHO_ZHO'
 author_link: https://x.com/ZHO_ZHO_ZHO
 source_links:
   - url: https://x.com/ZHO_ZHO_ZHO/status/1914574278911000967
@@ -15,7 +15,11 @@ prompt_note: |
   可替换提示词中的【🍓】为其他 Emoji。
 prompt_note_en: |
   The 【🍓】 emoji in the prompt can be replaced with other emojis.
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: エモジ クリームアイスクリーム
+alt_text_ja: エモジ クリームアイスクリーム
+prompt_ja: 画像生成：【🍓】をクリームアイスクリームに変えて、クリームがアイスクリームの上で曲線を描いて流れるように見え、美味しそうに見えるもの。45度の角度で空中に浮かんでいる、ちび風3Dの可愛いスタイル、統一された単色の背景で。
+prompt_note_ja: 【🍓】を他の絵文字に置き換えることができます。

@@ -1,6 +1,6 @@
 title: 二次元风格徽章
 title_en: Anime-style Badge
-author: "@Alittlefatwhale"
+author: '@Alittlefatwhale'
 author_link: https://x.com/Alittlefatwhale
 source_links:
   - url: https://x.com/Alittlefatwhale/status/1922512847030124905
@@ -17,11 +17,19 @@ prompt_en: |
   Material: Tassel
   Shape: Circular
   Main subject: A hand holding the badge
-prompt_note: ""
-prompt_note_en: ""
+prompt_note: ''
+prompt_note_en: ''
 reference_note: |
   需要上传一张人物照片作为徽章图案的参考。
 reference_note_en: |
   A photo of a person needs to be uploaded as a reference for the badge design.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: アニメ風バッジ
+alt_text_ja: アニメ風バッジ
+prompt_ja: |-
+  添付の人物に基づいて、二次元風のバッジの写真を生成してください。要件：
+  素材：タッセル
+  形状：円形
+  画面の主体：バッジを手に持つ手
+reference_note_ja: 徽章のデザイン参考として人物の写真をアップロードする必要があります。

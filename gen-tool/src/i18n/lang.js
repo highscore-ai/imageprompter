@@ -21,6 +21,17 @@ const langs = {
     'submitter_caption': 'Submitter:',
     'return_to_cases_toc_caption': 'Back to Cases Directory',
   },
+  'ja': {
+    'colon': '：',
+    'case_caption': 'ケース',
+    'case_toc_caption': 'ケース一覧',
+    'prompt_caption': 'プロンプト',
+    'source_link_caption': 'ソースリンク',
+    'prompt_note_caption': '注意：',
+    'reference_note_caption': '参考画像が必要：',
+    'submitter_caption': '提出者：',
+    'return_to_cases_toc_caption': 'ケース一覧に戻る',
+  },
 };
 
 export default langs;

@@ -1,6 +1,6 @@
 title: 35mm 胶片风格飞岛
 title_en: 35mm Film Style Flying Island
-author: "@dotey"
+author: '@dotey'
 author_link: https://x.com/dotey
 source_links:
   - url: https://x.com/dotey/status/1905020833451348283
@@ -11,9 +11,12 @@ prompt: |
   35 毫米胶片风格的照片：莫斯科漂浮在天空中的飞行岛屿上。
 prompt_en: |
   35 mm photo of Moscow floating in the sky on a flying islands.
-prompt_note: ""
-prompt_note_en: ""
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+prompt_note: ''
+prompt_note_en: ''
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: 35mmフィルム風の浮遊島
+alt_text_ja: 35mm フィルム風の浮遊島
+prompt_ja: 35ミリフィルム風の写真：モスクワの空に浮かぶ空飛ぶ島。

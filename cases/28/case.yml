@@ -1,6 +1,6 @@
 title: 扁平贴纸设计
 title_en: Flat Sticker Design
-author: "@ZHO_ZHO_ZHO"
+author: '@ZHO_ZHO_ZHO'
 author_link: https://x.com/ZHO_ZHO_ZHO
 source_links:
   - url: https://x.com/ZHO_ZHO_ZHO/status/1908044836953108490
@@ -18,11 +18,15 @@ prompt_en: |
   – The circular base should be a solid flat color (no 3D or gradients)
   – Background should be transparent
   The overall style should be clean, modern, and visually appealing for use as a fun Q-version sticker.
-prompt_note: ""
-prompt_note_en: ""
+prompt_note: ''
+prompt_note_en: ''
 reference_note: |
   一张清晰头像照片。
 reference_note_en: |
   A clear profile photo.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: フラットステッカーデザイン
+alt_text_ja: フラットステッカーデザイン
+prompt_ja: この写真を極めてシンプルなフラットイラスト風のちびキャラステッカーにデザインしてください。太い白い縁取りで、人物の特徴を保ちつつ、可愛らしい雰囲気にしてください。キャラクターは円形の領域からはみ出すようにし、円形部分は単色で3D感のない平面的なデザインに。背景は透明にしてください。
+reference_note_ja: 一枚の鮮明なプロフィール写真。

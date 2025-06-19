@@ -1,6 +1,6 @@
 title: 实物与手绘涂鸦创意广告
 title_en: Creative Ad with Real Object and Hand-Drawn Doodle
-author: "@azed_ai"
+author: '@azed_ai'
 author_link: https://x.com/azed_ai
 source_links:
   - url: https://x.com/azed_ai/status/1923016036120658122
@@ -27,7 +27,19 @@ prompt_note_en: |
   [Doodle Concept]: The giant coffee bean becomes a space planet, with a small astronaut planting a flag on its surface
   [Ad Copy]: "Explore Bold Flavor"
   [Brand Logo]: Starbucks logo
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: 実物と手描き落書きのクリエイティブ広告
+alt_text_ja: 実物と手描き落書きのクリエイティブ広告
+prompt_ja: |-
+  シンプルで創造的な広告、真っ白な背景の上に配置されています。
+  実物の[リアルなオブジェクト]と手描きの黒インクの落書きが組み合わされ、線はゆるくて遊び心があります。落書きは[落書きのコンセプトと相互作用：巧みで想像力豊かな方法でオブジェクトと相互作用する]を描いています。上部または中央に太字の黒い[広告コピー]テキストを入れます。下部には[ブランドロゴ]をはっきりと配置します。視覚効果はシンプルで、楽しく、コントラストが高く、巧みに構成されているべきです。
+prompt_note_ja: |-
+  プロンプトの中の[実物]、[落書きのコンセプトとインタラクション]、[広告コピー]、[ブランドロゴ]を具体的な内容に置き換えてください。
+  例：
+  [実物]：コーヒー豆
+  [落書きのコンセプトとインタラクション]：巨大なコーヒー豆が宇宙の惑星になり、小さな宇宙飛行士がその表面に立って旗を立てている
+  [広告コピー]："Explore Bold Flavor"
+  [ブランドロゴ]：スターバックスのロゴ

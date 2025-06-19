@@ -1,6 +1,6 @@
 title: 讽刺海报生成
 title_en: Satirical Poster Generation
-author: "@ZHO_ZHO_ZHO"
+author: '@ZHO_ZHO_ZHO'
 author_link: https://x.com/ZHO_ZHO_ZHO
 source_links:
   - url: https://x.com/ZHO_ZHO_ZHO/status/1905287637084274742
@@ -14,9 +14,12 @@ prompt_en: |
   GPT-4o is taking over.
   Forget working in image AI
   maybe it’s time to deliver takeout instead.
-prompt_note: ""
-prompt_note_en: ""
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+prompt_note: ''
+prompt_note_en: ''
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: 風刺ポスター生成
+alt_text_ja: 風刺ポスター生成
+prompt_ja: 風刺ポスターを生成してください：GPT-4oが席巻中、もう画像AIはやめて、フードデリバリーの仕事をしよう

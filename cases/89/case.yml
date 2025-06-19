@@ -1,6 +1,6 @@
 title: 镀铬emoji徽章
 title_en: Chrome Emoji Pin
-author: "@egeberkina"
+author: '@egeberkina'
 author_link: https://x.com/egeberkina
 source_links:
   - url: https://x.com/egeberkina/status/1919398870867440124
@@ -15,7 +15,11 @@ prompt_note: |
   替换 {👍} emoji 图标；替换标题和标语。
 prompt_note_en: |
   Replace {👍} emoji with your emoji icon; Replace title and tagline.
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: クロムメッキされた絵文字バッジ
+alt_text_ja: クロムメッキされた絵文字バッジ
+prompt_ja: 高精度の3Dレンダリング画像、絵文字アイコン{👍}に基づいた金属質感のバッジを表示し、垂直な商品カードに固定されています。超滑らかなクロームメッキの質感と丸みを帯びた3Dアイコンデザインで、様式化された未来的なデザインとなっており、柔らかな反射とクリーンなシャドウが特徴です。紙製カードの上部中央にはヨーロッパ風の打ち抜き穴があり、バッジの上には目立つタイトル「{Awesome}」、下には面白いスローガン「{Smash that ⭐ if you like it!}」が配置されています。背景は柔らかなグレーで、ソフトボックス照明を使用し、全体的にミニマルなスタイルです。
+prompt_note_ja: 👍 の絵文字アイコンを置き換えてください。タイトルとスローガンも置き換えてください。

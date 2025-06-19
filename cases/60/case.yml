@@ -1,6 +1,6 @@
 title: Emoji 簇绒地毯
 title_en: Emoji Tufted Rug
-author: "@gizakdag"
+author: '@gizakdag'
 author_link: https://x.com/gizakdag
 source_links:
   - url: https://x.com/gizakdag/status/1913925062568144924
@@ -15,7 +15,11 @@ prompt_note: |
   可替换提示词中的 🦖 为其他 Emoji。
 prompt_note_en: |
   The 🦖 emoji in the prompt can be replaced with other emojis.
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: Emoji タフテッドカーペット
+alt_text_ja: Emoji タフテッドカーペット
+prompt_ja: カラフルな手作りのタフト地毯を作成してください。形は🦖の絵文字の形で、シンプルな床の背景に敷かれています。大胆で遊び心のあるデザインで、ふわふわとした質感と太い線のディテールが特徴です。上から見下ろした構図で、自然光を使用し、全体的にはちょっと変わったDIY感のあるスタイルです。色鮮やかで、輪郭は漫画的で、素材は触感があり、温かみのある快適さを持つ—手作りのタフトアート・ラグのような仕上がりです。
+prompt_note_ja: 提示文の中の 🦖 を他の絵文字に置き換えることができます。

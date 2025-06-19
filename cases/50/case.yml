@@ -1,6 +1,6 @@
 title: 物理破坏效果卡片 (劳拉)
 title_en: Physical Destruction Effect Card (Lara Croft)
-author: "@op7418"
+author: '@op7418'
 author_link: https://x.com/op7418
 source_links:
   - url: https://x.com/op7418/status/1912782048160542886
@@ -20,7 +20,11 @@ prompt_note: |
   原推文提到核心词是 dimensional break effects 和 motion depth。
 prompt_note_en: |
   The original tweet mentioned key terms are "dimensional break effects" and "motion depth". The prompt above is a reconstruction based on the description.
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: 物理破壊エフェクトカード（ララ）
+alt_text_ja: 物理破壊エフェクトカード（ララ）
+prompt_ja: 超写実的で映画のような挿絵で、ローラ・クロフトがダイナミックに「考古学的冒険」トレーディングカードのフレームを突き破っている様子を描いています。彼女はジャンプ中またはロープでスイングしており、象徴的な冒険装備を身につけ、おそらく両手の銃を発射しています。銃口の炎がカードの古代石彫りのフレームを粉砕し、破れ目の周りに次元の亀裂効果（エネルギークラックや空間の歪み）を生み出し、埃や破片を四方に飛び散らせています。彼女の体は活力に満ち前方に突き出し、明らかな動きの奥行きを持ってカードの平面を突破しています。カード内部（背景）には、鬱蒼としたジャングルの遺跡や罠だらけの古代墓の内部が描かれています。カードの破片は崩れ落ちる石、舞い上がる蔓、古代コインの破片、使用済みの薬莢と混ざり合っています。「考古学的冒険」のタイトルと「ローラ・クロフト」の名前（様式化された遺物アイコン付き）がカードの残りの、ひび割れて風化した部分に見えます。冒険感あふれるダイナミックな照明が、彼女の運動能力と危険な環境を強調しています。
+prompt_note_ja: 元の投稿では、キーワードは「dimensional break effects」と「motion depth」だと言及されています。

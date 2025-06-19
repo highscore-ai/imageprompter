@@ -1,6 +1,6 @@
 title: 护照入境印章
 title_en: Passport Entry Stamp
-author: "@M_w14_"
+author: '@M_w14_'
 author_link: https://x.com/M_w14_
 source_links:
   - url: https://x.com/M_w14_/status/1912146666410459618
@@ -16,7 +16,11 @@ prompt_note: |
   可替换提示词中括号内的城市、国家、地标和日期。示例图使用罗马、意大利、罗马斗兽场、日期2025年4月16日。中文提示词 by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)
 prompt_note_en: |
   You can replace the city, country, landmark, and date placeholders. The example image uses "Rome", "Italy", "Colosseum", and "13 APR 2025" (date differs slightly from the base prompt structure). Prompt by [@M_w14_](https://x.com/M_w14_)
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: パスポートの入国スタンプ
+alt_text_ja: パスポートの入国スタンプ
+prompt_ja: リアルなパスポートページを作成し、[北京、中国]の入国スタンプを押してください。スタンプには太字の英語で「欢迎来到北京（北京へようこそ）」と書かれ、円形または楕円形でデコラティブな縁取りがあるデザインにしてください。スタンプには「ARRIVAL」の文字と「2025年4月16日」などの架空の日付を含めてください。背景の細部として{故宫（紫禁城）}のシルエットを微妙に入れてください。濃い青または赤インクを使用し、少しにじませて本物らしさを高めてください。スタンプは手押しのように少し傾けて押されているようにしてください。パスポートページには紙の質感とセキュリティパターンがはっきりと見えるようにしてください。
+prompt_note_ja: 括弧内の都市、国、ランドマーク、日付を置き換えることができます。サンプル画像ではローマ、イタリア、コロッセオ、日付は2025年4月16日を使用しています。中国語プロンプト by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)

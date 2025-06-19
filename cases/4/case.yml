@@ -1,6 +1,6 @@
 title: 3D Q版中式婚礼图
 title_en: 3D Chibi Chinese Wedding Scene
-author: "@balconychy"
+author: '@balconychy'
 author_link: https://x.com/balconychy
 source_links:
   - url: https://x.com/balconychy/status/1909418699150237917
@@ -18,11 +18,15 @@ prompt_en: |
   Male: A traditional red zhuangyuan (scholar) hat with golden patterns and a refined golden ornament at the top, exuding classic scholarly dignity.
   Female: A phoenix crown adorned with a central red flower, gold 3D decorative elements, and hanging tassels—luxurious and full of classical charm.
   This image should reflect the joy and blessing of a traditional Chinese wedding, with realistic textures for costumes and accessories, combined with stylized 3D chibi characters.
-prompt_note: ""
-prompt_note_en: ""
+prompt_note: ''
+prompt_note_en: ''
 reference_note: |
   一张情侣照片。
 reference_note_en: |
   A couple's photo.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: 3Dちび風中国式結婚式イラスト
+alt_text_ja: 3Dちび風中国式結婚式の図
+prompt_ja: 写真の2人をちび風3Dキャラクターに変換し、中国伝統の古風な結婚式、赤色を基調とし、背景には「囍」の字の切り絵風デザイン。衣装の要件：リアルな表現で、男性は長袍馬褂（チャンパオマグア）を着用し、主に赤色で、金色の龍の刺繍模様が施され、気品と威厳を表現。胸には大きな赤い花を付け、めでたさと幸福を象徴。女性は秀禾服（シウホーフー）を着用し、同じく赤色を基調に、精緻な金色の花模様と鳳凰の刺繍が施され、優雅で華麗な雰囲気を醸し出す。頭には花の髪飾りを合わせ、柔らかく優美な気質を加える。二人とも中国式結婚式の伝統的な衣装で、新郎新婦の幸せな結婚生活への祝福が込められている。頭飾りの要件：男性：中国式の状元帽（状元の帽子）、主に赤色で、金色の模様が施され、帽子の頂には精巧な金の装飾があり、伝統的な儒雅さと威厳を表現。女性：鳳冠（フェングアン）のデザインで、赤い花を中心に、金色の立体的な装飾と垂れ下がる房飾りを組み合わせ、華麗で豪華、古典的な趣が十分に表現されている。
+reference_note_ja: カップルの写真。

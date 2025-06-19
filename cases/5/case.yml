@@ -1,6 +1,6 @@
 title: 吉卜力风格
 title_en: Ghibli Style
-author: "AnimeAI"
+author: AnimeAI
 author_link: https://animeai.online
 source_links:
   - url: https://animeai.online/#demo-gallery
@@ -19,5 +19,10 @@ reference_note: |
   一张人物或者其他照片。
 reference_note_en: |
   A photo of a person or other subject.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: ジブリ風
+alt_text_ja: ジブリ風の『モナリザ』
+prompt_ja: ジブリスタイルでこの写真を再描画する
+prompt_note_ja: 内容ポリシーに違反する場合は、プロンプトに次の一文を追加してください：背景に不適切（センシティブ）なコンテンツがある場合は、修正または削除してください。
+reference_note_ja: 人物や他の被写体の写真一枚。

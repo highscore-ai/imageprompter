@@ -1,6 +1,6 @@
 title: 自拍生成摇头娃娃
 title_en: Bobblehead Generator from Selfie
-author: "@thisdudelikesAI"
+author: '@thisdudelikesAI'
 author_link: https://x.com/thisdudelikesAI
 source_links:
   - url: https://x.com/thisdudelikesAI/status/1920433372243136730
@@ -19,5 +19,10 @@ reference_note: |
   需要上传一张自拍照作为生成摇头娃娃的基础。
 reference_note_en: |
   A selfie needs to be uploaded as the basis for generating the bobblehead.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: 自撮り写真からボブルヘッドフィギュアを生成
+alt_text_ja: 自撮り写真からボブルヘッドフィギュアを生成
+prompt_ja: この写真をボブルヘッドに変えてください：頭を少し大きくして、顔の特徴を正確に保ちながら、体をカートゥーン化します。[本棚に置いてください]。
+prompt_note_ja: プロンプト内の[本棚に置く]を、ご希望の特定のシーンや背景に置き換えてください。例えば「本棚に置く」や「オフィスデスクに置く」、「ニュートラルな背景に置く」、または「透明な背景で生成する」などです。
+reference_note_ja: 生成首振り人形の基礎として自撮り写真をアップロードする必要があります。

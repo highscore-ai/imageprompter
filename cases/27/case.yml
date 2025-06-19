@@ -1,6 +1,6 @@
 title: Q 版表情包制作
 title_en: Q-version Emoji Sticker Pack Creation
-author: "@dotey"
+author: '@dotey'
 author_link: https://x.com/dotey
 source_links:
   - url: https://x.com/dotey/status/1909800530739679488
@@ -17,26 +17,27 @@ prompt: |
   6. 手势飞吻，周围飘散出爱心表情。
   保留 chibi 美学风格：夸张有神的大眼睛、柔和的面部线条、活泼俏皮的短款黑色发型、配以大胆领口设计的白色服饰，背景使用充满活力的红色，并搭配星星或彩色纸屑元素进行装饰。周边适当留白。
   Aspect ratio: 9:16
-prompt_en: |
-  Create a brand-new set of chibi-style stickers featuring the user as the main character, with six unique poses:
-    1.	Making a playful peace sign with both hands and winking.
-    2.	Tearful eyes and slightly trembling lips, showing a cute crying expression.
-    3.	Arms wide open in a warm, enthusiastic hug pose.
-    4.	Lying on their side asleep, resting on a tiny pillow with a sweet smile.
-    5.	Pointing forward with confidence, surrounded by shining visual effects.
-    6.	Blowing a kiss, with heart symbols floating around.
-  Maintain the chibi aesthetic:
-  – Exaggerated, expressive big eyes
-  – Soft facial lines
-  – Playful, short black hairstyle
-  – A white outfit with a bold neckline design
-  Background: Vibrant red with star or colorful confetti elements for decoration. Leave some clean white space around each sticker.
-  Aspect ratio: 9:16
-prompt_note: ""
-prompt_note_en: ""
+prompt_en: "Create a brand-new set of chibi-style stickers featuring the user as the main character, with six unique poses:\n  1.\tMaking a playful peace sign with both hands and winking.\n  2.\tTearful eyes and slightly trembling lips, showing a cute crying expression.\n  3.\tArms wide open in a warm, enthusiastic hug pose.\n  4.\tLying on their side asleep, resting on a tiny pillow with a sweet smile.\n  5.\tPointing forward with confidence, surrounded by shining visual effects.\n  6.\tBlowing a kiss, with heart symbols floating around.\nMaintain the chibi aesthetic:\n– Exaggerated, expressive big eyes\n– Soft facial lines\n– Playful, short black hairstyle\n– A white outfit with a bold neckline design\nBackground: Vibrant red with star or colorful confetti elements for decoration. Leave some clean white space around each sticker.\nAspect ratio: 9:16\n"
+prompt_note: ''
+prompt_note_en: ''
 reference_note: |
   一张清晰头像照片。
 reference_note_en: |
   A clear profile photo.
-submitter: ""
-submitter_link: ""
+submitter: ''
+submitter_link: ''
+title_ja: ちび風スタンプ制作
+alt_text_ja: ちび風スタンプ制作
+prompt_ja: |-
+  新しいchibiステッカーセットを作成してください。ユーザーの姿をメインキャラクターとした6つの異なるポーズで：
+  1. 両手でピースサインをして、かわいくウインクしている
+  2. 涙目で唇が少し震えている、かわいい泣き顔
+  3. 両腕を広げて、熱心な大きなハグのポーズ
+  4. 横向きに寝ていて、ミニ枕に寄りかかり、甘い笑顔を浮かべている
+  5. 自信に満ちた様子で前方に指を指し、周りには輝くエフェクト
+  6. 手で投げキスをしていて、周りにはハートマークが舞っている
+
+  chibiの美学スタイルを維持：大きくて表情豊かな目、柔らかな顔のライン、活発でかわいい短い黒髪、大胆な襟元デザインの白い服装。背景は活気ある赤色を使用し、星や色とりどりの紙吹雪の要素で装飾。周囲に適度な余白を残す。
+
+  Aspect ratio: 9:16
+reference_note_ja: 一枚の鮮明なプロフィール写真。

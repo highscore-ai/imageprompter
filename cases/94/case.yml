@@ -1,6 +1,6 @@
 title: 三只动物与地标自拍
 title_en: Three Animals Selfie at Landmark
-author: "@berryxia_ai"
+author: '@berryxia_ai'
 author_link: https://x.com/berryxia_ai
 source_links:
   - url: https://x.com/berryxia_ai/status/1920795648946782583
@@ -15,7 +15,11 @@ prompt_note: |
   可替换提示词中的 [动物类型] 和 [地标] 为具体描述。
 prompt_note_en: |
   Replace [animal type] and [landmark] in the prompt with specific descriptions.
-reference_note: ""
-reference_note_en: ""
-submitter: ""
-submitter_link: ""
+reference_note: ''
+reference_note_en: ''
+submitter: ''
+submitter_link: ''
+title_ja: 三匹の動物とランドマークでの自撮り
+alt_text_ja: 三匹の動物とランドマークでの自撮り
+prompt_ja: 3匹の[動物タイプ]が象徴的な[ランドマーク]の前で自撮りする接写写真。それぞれ異なる表情をしており、ゴールデンアワーに撮影され、映画のような照明が施されています。動物たちはカメラに近づき、頭と頭を寄せ合い、自撮りのポーズをとりながら、喜び、驚き、穏やかさの表情を見せています。背景には[ランドマーク]の建築の詳細が完全に映し出され、柔らかな光と温かい雰囲気が漂っています。写真のような写実的なカートゥーンスタイルで撮影され、高細部、1:1のアスペクト比です。
+prompt_note_ja: '[動物の種類]と[ランドマーク]を具体的な説明に置き換えることができます。'
