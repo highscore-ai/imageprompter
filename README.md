@@ -103,19 +103,15 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 *   [Case 49: Fashion Magazine Cover Style (by @dotey)](#cases-49)
 *   [Case 48: Voxel Style 3D Icon Conversion (by @BrettFromDJ)](#cases-48)
 *   [Case 47: ESC Keycap Miniature Diorama (by @egeberkina)](#cases-47)
-*   [Case 46: Happy Capsule Creation (by @ZHO_ZHO_ZHO)](#cases-46)
 *   [Case 45: 3D Chibi-style University Anthropomorphic Mascot (by @dotey)](#cases-45)
 *   [Case 44: RPG-Style Character Card Creation (by @berryxia_ai)](#cases-44)
 *   [Case 43: Cute Chibi Matryoshka Dolls (Girl with a Pearl Earring) (by @ZHO_ZHO_ZHO)](#cases-43)
 *   [Case 42: 3D Q-version Couple Snow Globe (by @balconychy)](#cases-42)
 *   [Case 41: Miniature Three-dimensional Scene Presentation (by @dotey)](#cases-41)
-*   [Case 40: Japanese-style Two-Panel Manga (Angry Girl President) (by @hellokaton)](#cases-40)
 *   [Case 39: Fantasy Cartoon Illustration (by @dotey)](#cases-39)
-*   [Case 38: Hand-drawn Infographic Card (by @dotey)](#cases-38)
 *   [Case 37: Pastel Power 3D ADS (by @aziz4ai)](#cases-37)
 *   [Case 36: Minimalist 3D Illustration (Markdown Format) (by @dotey)](#cases-36)
 *   [Case 35: Fluffy Jack-o'-lantern (by gizakdag)](#cases-35)
-*   [Case 34: Hand-drawn Infographic Card (Cognition) (by @dotey)](#cases-34)
 *   [Case 33: Family Wedding Photo (Q-version) (by @balconychy)](#cases-33)
 *   [Case 32: 3D Papercraft Pop-up Book (by @dotey)](#cases-32)
 *   [Case 31: Anime Sticker Collection (by @richardchang)](#cases-31)
@@ -127,14 +123,12 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 *   [Case 25: Minimalist 3D Illustration (by @0xdlk)](#cases-25)
 *   [Case 24: Funko Pop Figure Creation (by @dotey)](#cases-24)
 *   [Case 23: "Titanic" Pose Parody (by @balconychy)](#cases-23)
-*   [Case 22: Xiaohongshu Cover Image (by @balconychy)](#cases-22)
 *   [Case 21: Chibi Character Sticker Pack (by @leon_yuan2001)](#cases-21)
 *   [Case 20: Action Figure and Real Person in the Same Frame (by @dotey)](#cases-20)
 *   [Case 19: Country Diorama in a Toy Box (by @TheRelianceAI)](#cases-19)
 *   [Case 18: Pixar 3D Style (by AnimeAI)](#cases-18)
 *   [Case 17: Retro CRT Computer Boot Screen (by @Gdgtify)](#cases-17)
 *   [Case 16: Anime-style Badge (by @Alittlefatwhale)](#cases-16)
-*   [Case 15: Satirical Poster Generation (by @ZHO_ZHO_ZHO)](#cases-15)
 *   [Case 14: One Piece Themed Figure Creation (by @dotey)](#cases-14)
 *   [Case 13: Photo to 3D Q-version Style (by @dotey)](#cases-13)
 *   [Case 12: 3D Couple Jewelry Box Figurine (by @dotey)](#cases-12)
@@ -146,7 +140,6 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 *   [Case 6: Character Stepping Through Portal (by @dotey)](#cases-6)
 *   [Case 5: Ghibli Style (by AnimeAI)](#cases-5)
 *   [Case 4: 3D Chibi Chinese Wedding Scene (by @balconychy)](#cases-4)
-*   [Case 3: Retro Style Promotional Poster (by @dotey)](#cases-3)
 *   [Case 2: 3D Polaroid Breakout Effect (by @dotey)](#cases-2)
 *   [Case 1: 3D Chibi Proposal Scene (by @balconychy)](#cases-1)
 
@@ -1496,32 +1489,6 @@ A hyper-realistic isometric 3D render of a miniature computer setup inside a tra
 
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-46"></a>
-### Case 46: Happy Capsule Creation (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
-
-[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
-
-<img src="cases/46/example_happy_capsule.png" width="300" alt="Happy Capsule"><br>
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
-
-**Prompt**
-
-```
-Title (large text): Fast-Acting Happiness Capsule
-A capsule pill with a green top in Starbucks green and a transparent bottom, printed with the Starbucks logo. Inside the capsule are numerous coffee beans.
-Description (small text): Take when feeling sad or down. Three times a day, two capsules per dose.
-Buy button: Same color as the capsule.
-Below the button, display the price: $9.
-Please follow medical advice and purchase as needed.
-```
-
-
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-45"></a>
 ### Case 45: 3D Chibi-style University Anthropomorphic Mascot (by [@dotey](https://x.com/dotey))
 
@@ -1642,48 +1609,6 @@ Miniature three-dimensional scene presentation using tilt-shift photography tech
 
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-40"></a>
-### Case 40: Japanese-style Two-Panel Manga (Angry Girl President) (by [@hellokaton](https://x.com/hellokaton))
-
-[Source Link](https://x.com/hellokaton/status/1910900979194646959)
-
-<img src="cases/40/example_two_panel_manga_president.png" width="300" alt="Two-panel Cute Japanese Manga"><br>
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/hellokaton">@hellokaton</a></sub>
-
-**Prompt**
-
-```
-Create a two-panel vertical manga in a cute Japanese anime style, theme: “The Daily Work Life of a Girl President.”
-
-Character Design:
-Transform the person in the uploaded image into a cute, moe-style anime girl while preserving all key details from the photo — including the outfit (a suit), hairstyle (bright golden-yellow), and facial features.
-
-Panel 1:
-- Expression: Pouting, disappointed, resting her cheek on one hand
-- Text box: “What do I dooo?! He won’t take my call! (；´д｀)”
-- Scene: Warm-toned office, with the U.S. flag in the background. On the desk: a pile of hamburgers and a vintage red rotary phone. The character is on the left side of the frame, the phone on the right.
-
-Panel 2:
-- Expression: Furious, face red with anger, gritting teeth
-- Action: Slams the desk hard, making the hamburgers jump
-- Speech bubble: “Hmph! Double the tariffs! Ignoring me is their loss! ( `д´ )”
-- Scene: Same office, now a complete mess
-
-Additional Notes:
-- Use a cute, casual handwritten font for all text
-- Keep the composition full and expressive, with adequate space for dialogue and intentional white space
-- Aspect ratio: 2:3
-- The overall visual tone should be colorful and energetic, with a distinctly cartoony style
-```
-
-
-**Reference Image Required:** A photo of a person is needed for reference.
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-39"></a>
 ### Case 39: Fantasy Cartoon Illustration (by [@dotey](https://x.com/dotey))
 
@@ -1696,34 +1621,6 @@ Additional Notes:
 
 ```
 A cartoon-style character with a smiling computer monitor as its head, wearing gloves and boots, happily jumping through a glowing, blue, circular portal in a lush, fantasy forest landscape. The forest is detailed with large trees, mushrooms, flowers, a serene river, floating islands, and an atmospheric starry night sky with multiple moons. Bright, vibrant colors with soft lighting, fantasy illustration style.
-```
-
-
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-38"></a>
-### Case 38: Hand-drawn Infographic Card (by [@dotey](https://x.com/dotey))
-
-[Source Link](https://x.com/dotey/status/1907870919852179850)
-
-<img src="cases/38/example_hand_drawn_infographic.png" width="300" alt="Hand-drawn Infographic Card"><br>
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
-
-**Prompt**
-
-```
-Create a hand-drawn style infographic card in a 9:16 vertical format. The card should have a clear theme, with a beige or off-white paper-textured background. The overall design should reflect a simple, warm, and handmade aesthetic.
-
-At the top of the card, use large, eye-catching brush-style Chinese cursive calligraphy in red and black for the title, creating strong visual contrast. All text should be in Chinese cursive script. The layout should be divided into 2 to 4 clear sections, each conveying a core idea through concise and refined Chinese phrases. The calligraphy should maintain a fluid, rhythmic style that is both legible and artistically expressive. Leave appropriate blank space around the text.
-
-The card should be accented with simple and fun hand-drawn illustrations or icons — such as figures or symbolic elements — to enhance visual appeal and spark thought or emotional resonance. The overall layout should emphasize visual balance and include ample whitespace, ensuring the design is clean, clear, and easy to read.
-
-“Building a personal brand (IP) is long-term compounding.
-Keep updating daily, and results will come — because 99% of people can’t keep it up!”
 ```
 
 
@@ -1827,37 +1724,6 @@ Transform a simple flat vector icon of [🎃] into a soft, 3D fluffy object. The
 ```
 
 *Note: 中文提示词 by @dotey*
-
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-34"></a>
-### Case 34: Hand-drawn Infographic Card (Cognition) (by [@dotey](https://x.com/dotey))
-
-[Source Link](https://x.com/dotey/status/1907903480678985784)
-
-<img src="cases/34/example_hand_drawn_infographic_cognition.png" width="300" alt="Hand-drawn Infographic Card"><br>
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
-
-**Prompt**
-
-```
-Create a hand-drawn style infographic card in vertical 9:16 ratio. The card should have a clear theme, with a beige or off-white paper-textured background. The overall design should convey a rustic, friendly, and handmade aesthetic.
-
-At the top of the card, feature a bold, eye-catching title in large Chinese cursive brush calligraphy using contrasting red and black colors. All text content should be in Chinese cursive script, and the layout should be divided into 2 to 4 clear sections. Each section expresses a core idea with brief and concise Chinese phrases. The cursive font should retain a smooth, rhythmic flow, remaining legible while carrying artistic appeal.
-
-The card should include simple, playful hand-drawn illustrations or icons, such as figures or symbolic elements, to enhance visual interest and spark reader reflection or emotional resonance.
-
-The overall layout should maintain visual balance, with ample white space reserved to ensure clarity, simplicity, and ease of reading and understanding.
-<h1><span style="color:red">“Cognition”</span> defines your ceiling  
-<span style="color:red">“Circle”</span> defines your opportunities</h1>  
-– You can’t earn money beyond your level of cognition,  
-– Nor encounter opportunities beyond your social circle.
-```
-
 
 
 
@@ -2198,46 +2064,6 @@ Only the characters should be in chibi 3D style; the rest of the environment sho
 
 [⬆️ Back to Cases Directory](#cases-toc)
 
-<a id="cases-22"></a>
-### Case 22: Xiaohongshu Cover Image (by [@balconychy](https://x.com/balconychy))
-
-[Source Link](https://x.com/balconychy/status/1905507936526627078)
-
-<img src="cases/22/example_notebook_promo.png" width="300" alt="Xiaohongshu Cover Image"><br>
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
-
-**Prompt**
-
-```
-Draw an image: Create a cover for a Xiaohongshu (RED) post.
-
-Requirements:
-– It must be visually compelling enough to attract user clicks.
-– Use bold, characterful fonts.
-– Vary font sizes to reflect the hierarchy of information; emphasize the structure of the copy.
-– The main title should be at least twice the size of regular text.
-– Leave white space between text sections.
-– Only use bright accent colors to highlight key words and draw attention.
-– The background should feature an eye-catching pattern (such as paper texture, notebook, or a WeChat chat window—choose one).
-– Add appropriate icons or illustrations to enhance visual layers, but avoid visual clutter.
-
-Copy text:
-BREAKING: ChatGPT just got even better!
-– Superior multitasking ✨
-– Stronger coding ability 💪
-– Creativity off the charts 🎨
-Try it now!
-
-Image aspect ratio: 9:16
-```
-
-
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-21"></a>
 ### Case 21: Chibi Character Sticker Pack (by [@leon_yuan2001](https://x.com/leon_yuan2001))
 
@@ -2377,30 +2203,6 @@ Main subject: A hand holding the badge
 
 
 **Reference Image Required:** A photo of a person needs to be uploaded as a reference for the badge design.
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-15"></a>
-### Case 15: Satirical Poster Generation (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
-
-[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1905287637084274742)
-
-<img src="cases/15/example_gpt_involution_poster.png" width="300" alt="Satirical Poster Generation"><br>
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
-
-**Prompt**
-
-```
-Satirical Poster Text (English):
-GPT-4o is taking over.
-Forget working in image AI
-maybe it’s time to deliver takeout instead.
-```
-
-
 
 
 ---
@@ -2686,27 +2488,6 @@ This image should reflect the joy and blessing of a traditional Chinese wedding,
 
 
 **Reference Image Required:** A couple's photo.
-
-
----
-
-[⬆️ Back to Cases Directory](#cases-toc)
-
-<a id="cases-3"></a>
-### Case 3: Retro Style Promotional Poster (by [@dotey](https://x.com/dotey))
-
-[Source Link](https://x.com/dotey/status/1905251524248248650)
-
-<img src="cases/3/example_vintage_poster.png" width="300" alt="Retro Style Promotional Poster"><br>
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
-
-**Prompt**
-
-```
-A retro-style promotional poster emphasizing bold Chinese text. The background features a red-and-yellow radial burst pattern. In the center of the composition is a beautiful young woman illustrated in a refined vintage art style—she smiles warmly with a graceful, approachable presence. The poster advertises GPT’s latest AI image generation service with key slogans in Chinese, such as: “Shocking price: 9.9 per image”, “Supports all scenes, image blending, partial redrawing”, “3 revisions per image”, and “Direct AI output with no need for manual edits”. At the bottom, prominently display the call-to-action: “If you’re interested, click ‘I want this’ in the bottom-right corner”. Illustrate a hand pressing a button in the bottom-right, and place the OpenAI logo in the bottom-left.
-```
-
-
 
 
 ---

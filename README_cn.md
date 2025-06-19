@@ -104,19 +104,15 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 *   [案例 49：时尚杂志封面风格 (by @dotey)](#cases-49)
 *   [案例 48：体素风格 3D 图标转换 (by @BrettFromDJ)](#cases-48)
 *   [案例 47：键盘ESC 键帽微型立体模型 (by @egeberkina)](#cases-47)
-*   [案例 46：快乐胶囊制作 (by @ZHO_ZHO_ZHO)](#cases-46)
 *   [案例 45：3D Q版大学拟人化形象 (by @dotey)](#cases-45)
 *   [案例 44：RPG 风格角色卡片制作 (by @berryxia_ai)](#cases-44)
 *   [案例 43：Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (by @ZHO_ZHO_ZHO)](#cases-43)
 *   [案例 42：3D Q版情侣水晶球 (by @balconychy)](#cases-42)
 *   [案例 41：微型立体场景 (孙悟空三打白骨精) (by @dotey)](#cases-41)
-*   [案例 40：日系双格漫画 (少女总统红温了) (by @hellokaton)](#cases-40)
 *   [案例 39：奇幻卡通插画 (by @dotey)](#cases-39)
-*   [案例 38：手绘信息图卡片 (by @dotey)](#cases-38)
 *   [案例 37：柔和风格3D广告 (by @aziz4ai)](#cases-37)
 *   [案例 36：极简主义 3D 插画 (Markdown 格式) (by @dotey)](#cases-36)
 *   [案例 35：毛茸茸南瓜灯 (by gizakdag)](#cases-35)
-*   [案例 34：手绘信息图卡片 (by @dotey)](#cases-34)
 *   [案例 33：全家福婚纱照 (by @balconychy)](#cases-33)
 *   [案例 32：折叠式纸雕立体绘本 (by @dotey)](#cases-32)
 *   [案例 31：动漫贴纸集合 (by @richardchang)](#cases-31)
@@ -128,14 +124,12 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 *   [案例 25：极简主义 3D 插画 (by @0xdlk)](#cases-25)
 *   [案例 24：Funko Pop 公仔制作 (by @dotey)](#cases-24)
 *   [案例 23：《泰坦尼克号》模仿 (by @balconychy)](#cases-23)
-*   [案例 22：小红书封面 (by @balconychy)](#cases-22)
 *   [案例 21：Q版角色表情包 (by @leon_yuan2001)](#cases-21)
 *   [案例 20：手办与真人同框 (by @dotey)](#cases-20)
 *   [案例 19：玩具盒中的国家立体模型 (by @TheRelianceAI)](#cases-19)
 *   [案例 18：皮克斯3D风格 (by AnimeAI)](#cases-18)
 *   [案例 17：复古CRT电脑启动屏幕 (by @Gdgtify)](#cases-17)
 *   [案例 16：二次元风格徽章 (by @Alittlefatwhale)](#cases-16)
-*   [案例 15：讽刺海报生成 (by @ZHO_ZHO_ZHO)](#cases-15)
 *   [案例 14：《海贼王》主题手办制作 (by @dotey)](#cases-14)
 *   [案例 13：3D Q版风格 (by @dotey)](#cases-13)
 *   [案例 12：3D 情侣珠宝盒摆件 (by @dotey)](#cases-12)
@@ -147,7 +141,6 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 *   [案例 6：角色穿越传送门 (by @dotey)](#cases-6)
 *   [案例 5：吉卜力风格 (by AnimeAI)](#cases-5)
 *   [案例 4：3D Q版中式婚礼图 (by @balconychy)](#cases-4)
-*   [案例 3：复古宣传海报 (by @dotey)](#cases-3)
 *   [案例 2：3D Q版人物立体相框 (by @dotey)](#cases-2)
 *   [案例 1：Q版求婚场景 (by @balconychy)](#cases-1)
 
@@ -1498,30 +1491,6 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 
-<a id="cases-46"></a>
-### 案例 46：快乐胶囊制作 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
-
-[原文链接](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
-
-<img src="cases/46/example_happy_capsule.png" width="300" alt="快乐胶囊"><br>
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
-
-**提示词**
-
-```
-标题（大字）：速效快乐胶囊
-一颗上为星巴克绿下为透明的小药丸，上面印有星巴克logo，里面有很多咖啡豆
-说明（小字）：请在悲伤难过时服用，一日三次，一次两粒
-购买按钮 和 药丸颜色一致，下面价格：$9，请遵循医嘱酌情购买
-```
-
-
-
-
----
-
-[⬆️ 返回案例目录](#cases-toc)
-
 <a id="cases-45"></a>
 ### 案例 45：3D Q版大学拟人化形象 (by [@dotey](https://x.com/dotey))
 
@@ -1640,46 +1609,6 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 
-<a id="cases-40"></a>
-### 案例 40：日系双格漫画 (少女总统红温了) (by [@hellokaton](https://x.com/hellokaton))
-
-[原文链接](https://x.com/hellokaton/status/1910900979194646959)
-
-<img src="cases/40/example_two_panel_manga_president.png" width="300" alt="日系双格漫画：少女总统因电话未接通而生气加关税"><br>
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/hellokaton">@hellokaton</a></sub>
-
-**提示词**
-
-```
-创建一张日系萌系双格漫画，上下排列，主题：少女总统的工作日常。
-
-角色形象: 将上传的附件转换为日系萌系卡通女生形象的风格，保留原图所有细节，如服饰（西装）、发型（明亮的金黄色）、五官等。 
-
-第一格: 
-- 表情: 委屈巴巴，沮丧的表情，单手托腮 
-- 文字框: “肿么办嘛！他不跟我通话！(；´д｀)” 
-- 场景: 暖色调办公室，背后美国国旗，桌上放着一堆汉堡，一个复古红色转盘电话，人物在画面左边，电话在右边。  
-
-第二格:  
-- 表情: 咬牙切齿，暴怒，脸涨红 
-- 动作: 猛拍桌子，汉堡震得跳起来 
-- 文字泡: “哼！关税加倍！不理我是他们的损失！( `д´ )” - 场景: 和第一格相同，但一片狼藉。  
-
-其他说明:  
-- 文字采用简洁可爱的手写体，整体风格可爱而有趣。 
-- 构图饱满生动，请保留足够空间用于文字显示，适当留白。 
-- 图片比例 2:3。 
-- 画面整体色彩鲜艳，突出卡通风格。
-```
-
-
-**需上传参考图片：** 需要上传一张人物照片作为参考。
-
-
----
-
-[⬆️ 返回案例目录](#cases-toc)
-
 <a id="cases-39"></a>
 ### 案例 39：奇幻卡通插画 (by [@dotey](https://x.com/dotey))
 
@@ -1692,33 +1621,6 @@ retexture the image attached based on the json below:
 
 ```
 一个卡通风格的角色，头部是一个带笑脸的电脑显示器，穿着手套和靴子，正开心地跳跃穿过一个发光的蓝色圆形传送门，背景是一片郁郁葱葱的奇幻森林景观。森林中细节丰富，有高大的树木、蘑菇、鲜花、宁静的河流、漂浮的岛屿，以及一个充满氛围的星夜天空，天空中有多个月亮。整体采用明亮鲜艳的色彩搭配柔和光效，风格为奇幻插画风。
-```
-
-
-
-
----
-
-[⬆️ 返回案例目录](#cases-toc)
-
-<a id="cases-38"></a>
-### 案例 38：手绘信息图卡片 (by [@dotey](https://x.com/dotey))
-
-[原文链接](https://x.com/dotey/status/1907870919852179850)
-
-<img src="cases/38/example_hand_drawn_infographic.png" width="300" alt="手绘信息图卡片"><br>
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
-
-**提示词**
-
-```
-创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。
-
-卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦点。文字内容均采用中文草书，整体布局分为2至4个清晰的小节，每节以简短、精炼的中文短语表达核心要点。字体保持草书流畅的韵律感，既清晰可读又富有艺术气息。周边适当留白。
-
-卡片中点缀简单、有趣的手绘插画或图标，例如人物或象征符号，以增强视觉吸引力，引发读者思考与共鸣。整体布局注意视觉平衡，预留足够的空白空间，确保画面简洁明了，易于阅读和理解。
-“做 IP 是长期复利
-坚持每日更新，肯定会有结果，因为 99% 都坚持不了的！”
 ```
 
 
@@ -1824,37 +1726,6 @@ retexture the image attached based on the json below:
 ```
 
 *注意： 中文提示词 by @dotey*
-
-
-
----
-
-[⬆️ 返回案例目录](#cases-toc)
-
-<a id="cases-34"></a>
-### 案例 34：手绘信息图卡片 (by [@dotey](https://x.com/dotey))
-
-[原文链接](https://x.com/dotey/status/1907903480678985784)
-
-<img src="cases/34/example_hand_drawn_infographic_cognition.png" width="300" alt="手绘信息图卡片"><br>
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
-
-**提示词**
-
-```
-创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。
-
-卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦点。文字内容均采用中文草书，整体布局分为2至4个清晰的小节，每节以简短、精炼的中文短语表达核心要点。字体保持草书流畅的韵律感，既清晰可读又富有艺术气息。
-
-卡片中点缀简单、有趣的手绘插画或图标，例如人物或象征符号，以增强视觉吸引力，引发读者思考与共鸣。
-整体布局注意视觉平衡，预留足够的空白空间，确保画面简洁明了，易于阅读和理解。
-
-<h1><span style="color:red">「认知」</span>决定上限
-<span style="color:red">「圈子」</span>决定机会</h1>
-- 你赚不到「认知」以外的钱，
-- 也遇不到「圈子」以外的机会。
-```
-
 
 
 
@@ -2156,44 +2027,6 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 
-<a id="cases-22"></a>
-### 案例 22：小红书封面 (by [@balconychy](https://x.com/balconychy))
-
-[原文链接](https://x.com/balconychy/status/1905507936526627078)
-
-<img src="cases/22/example_notebook_promo.png" width="300" alt="小红书封面"><br>
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
-
-**提示词**
-
-```
-画图：画一个小红书封面。
-要求：
-有足够的吸引力吸引用户点击；
-字体醒目，选择有个性的字体；
-文字大小按重要度分级，体现文案的逻辑结构；
-标题是普通文字的至少2倍；
-文字段落之间留白。
-只对要强调的文字用醒目色吸引用户注意；
-背景使用吸引眼球的图案（包括不限于纸张，记事本，微信聊天窗口，选择一种）
-使用合适的图标或图片增加视觉层次，但要减少干扰。
-
-文案：重磅！ChatGPT又变强了！
-多任务处理更牛✨
-编程能力更强💪
-创造力爆表🎨
-快来试试！
-
-图像9:16比例
-```
-
-
-
-
----
-
-[⬆️ 返回案例目录](#cases-toc)
-
 <a id="cases-21"></a>
 ### 案例 21：Q版角色表情包 (by [@leon_yuan2001](https://x.com/leon_yuan2001))
 
@@ -2333,27 +2166,6 @@ Aspect ratio: 9:16
 
 
 **需上传参考图片：** 需要上传一张人物照片作为徽章图案的参考。
-
-
----
-
-[⬆️ 返回案例目录](#cases-toc)
-
-<a id="cases-15"></a>
-### 案例 15：讽刺海报生成 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
-
-[原文链接](https://x.com/ZHO_ZHO_ZHO/status/1905287637084274742)
-
-<img src="cases/15/example_gpt_involution_poster.png" width="300" alt="讽刺海报生成"><br>
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
-
-**提示词**
-
-```
-为我生成讽刺海报：GPT 4o 狂卷，都别干图像AI了 还是送外卖吧
-```
-
-
 
 
 ---
@@ -2619,27 +2431,6 @@ Aspect ratio: 9:16
 
 
 **需上传参考图片：** 一张情侣照片。
-
-
----
-
-[⬆️ 返回案例目录](#cases-toc)
-
-<a id="cases-3"></a>
-### 案例 3：复古宣传海报 (by [@dotey](https://x.com/dotey))
-
-[原文链接](https://x.com/dotey/status/1905251524248248650)
-
-<img src="cases/3/example_vintage_poster.png" width="300" alt="复古宣传海报"><br>
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
-
-**提示词**
-
-```
-复古宣传海报风格，突出中文文字，背景为红黄放射状图案。画面中心位置有一位美丽的年轻女性，以精致复古风格绘制，面带微笑，气质优雅，具有亲和力。主题是GPT最新AI绘画服务的广告促销，强调‘惊爆价9.9/张’、‘适用各种场景、图像融合、局部重绘’、‘每张提交3次修改’、‘AI直出效果，无需修改’，底部醒目标注‘有意向点右下“我想要”’，右下角绘制一个手指点击按钮动作，左下角展示OpenAI标志。
-```
-
-
 
 
 ---
