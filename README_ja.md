@@ -47,6 +47,7 @@ GPT‑4oは、テキストプロンプトから高品質な画像を生成する
 <a id="cases-toc"></a>
 ## 📖 ケース一覧
 
+*   [ケース 102：マッチボックス Superfast コレクション版 (by @TraffAlex)](#cases-102)
 *   [ケース 101：バブルフード (by @aziz4ai)](#cases-101)
 *   [ケース 100：実物と手描き落書きのクリエイティブ広告 (by @azed_ai)](#cases-100)
 *   [ケース 99：モノクロポートレートアート (by @ZHO_ZHO_ZHO)](#cases-99)
@@ -146,6 +147,27 @@ GPT‑4oは、テキストプロンプトから高品質な画像を生成する
 
 <a id="cases"></a>
 ## 🧩 ケース
+
+<a id="cases-102"></a>
+### ケース 102：マッチボックス Superfast コレクション版 (by [@TraffAlex](https://x.com/TraffAlex))
+
+[ソースリンク](https://x.com/TraffAlex/status/1935451423803851187)
+
+<img src="cases/102/matchbox_car.png" width="300" alt="マッチボックス Superfast コレクション版"><br>
+<sub>Image © 2025 <a href="https://github.com/highscore-ai">@highscore-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/TraffAlex">@TraffAlex</a></sub>
+
+**プロンプト**
+
+```
+プロダクト写真、2024年テスラ モデルY パフォーマンスのダイキャストカー、1970年代風のマッチボックス「Superfast」ブリスターパックに収められたもの。光沢のある黒い塗装、ブラックパフォーマンスホイール、赤いブレーキキャリパー。レトロな山道とスピードラインを描いたパッケージカードアート。スタジオ照明、白背景、ノスタルジックなコレクター向けの雰囲気。
+```
+
+
+
+
+---
+
+[⬆️ ケース一覧に戻る](#cases-toc)
 
 <a id="cases-101"></a>
 ### ケース 101：バブルフード (by [@aziz4ai](https://x.com/aziz4ai/))

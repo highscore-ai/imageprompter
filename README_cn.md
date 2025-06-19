@@ -49,6 +49,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 <a id="cases-toc"></a>
 ## 📖 案例目录
 
+*   [案例 102：火柴盒Superfast收藏版 (by @TraffAlex)](#cases-102)
 *   [案例 101：泡泡食物 (by @aziz4ai)](#cases-101)
 *   [案例 100：实物与手绘涂鸦创意广告 (by @azed_ai)](#cases-100)
 *   [案例 99：黑白肖像艺术 (by @ZHO_ZHO_ZHO)](#cases-99)
@@ -148,6 +149,27 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 <a id="cases"></a>
 ## 🧩 案例
+
+<a id="cases-102"></a>
+### 案例 102：火柴盒Superfast收藏版 (by [@TraffAlex](https://x.com/TraffAlex))
+
+[原文链接](https://x.com/TraffAlex/status/1935451423803851187)
+
+<img src="cases/102/matchbox_car.png" width="300" alt="火柴盒Superfast收藏版"><br>
+<sub>Image © 2025 <a href="https://github.com/highscore-ai">@highscore-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/TraffAlex">@TraffAlex</a></sub>
+
+**提示词**
+
+```
+产品摄影，2024款特斯拉Model Y高性能版合金车模，复古1970年代风格火柴盒Superfast吸塑包装。亮黑色车漆，黑色性能轮毂，红色刹车卡钳，包装卡片采用复古插画风格，描绘山路与速度线条。工作室灯光，白色背景，充满怀旧收藏氛围。
+```
+
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
 
 <a id="cases-101"></a>
 ### 案例 101：泡泡食物 (by [@aziz4ai](https://x.com/aziz4ai/))

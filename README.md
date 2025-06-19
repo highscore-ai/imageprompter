@@ -48,6 +48,7 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
+*   [Case 102: Matchbox Superfast Collector Edition (by @TraffAlex)](#cases-102)
 *   [Case 101: Edible Pop (by @aziz4ai)](#cases-101)
 *   [Case 100: Creative Ad with Real Object and Hand-Drawn Doodle (by @azed_ai)](#cases-100)
 *   [Case 99: Black and White Portrait Art (by @ZHO_ZHO_ZHO)](#cases-99)
@@ -147,6 +148,27 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 
 <a id="cases"></a>
 ## 🧩 Case
+
+<a id="cases-102"></a>
+### Case 102: Matchbox Superfast Collector Edition (by [@TraffAlex](https://x.com/TraffAlex))
+
+[Source Link](https://x.com/TraffAlex/status/1935451423803851187)
+
+<img src="cases/102/matchbox_car.png" width="300" alt="Matchbox Superfast Collector Edition"><br>
+<sub>Image © 2025 <a href="https://github.com/highscore-ai">@highscore-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/TraffAlex">@TraffAlex</a></sub>
+
+**Prompt**
+
+```
+Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970s Matchbox-style Superfast blister pack. Pearl white paint, black performance wheels, red brake calipers, original-style blister packaging with vibrant retro card art featuring mountain roads and speed lines. Studio lighting, white background, nostalgic collector vibe.
+```
+
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-101"></a>
 ### Case 101: Edible Pop (by [@aziz4ai](https://x.com/aziz4ai/))
