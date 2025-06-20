@@ -50,120 +50,141 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 <a id="cases-toc"></a>
 ## 📖 案例目录
 
-*   [案例 103：Matchbox Superfast Collector Edition (by )](#cases-103)
-*   [案例 102：火柴盒Superfast收藏版 (by )](#cases-102)
-*   [案例 101：泡泡食物 (by )](#cases-101)
-*   [案例 100：实物与手绘涂鸦创意广告 (by )](#cases-100)
-*   [案例 99：黑白肖像艺术 (by )](#cases-99)
-*   [案例 98：磨砂玻璃后的虚实对比剪影 (by )](#cases-98)
-*   [案例 97：可爱温馨针织玩偶 (by )](#cases-97)
-*   [案例 96：定制动漫手办 (by )](#cases-96)
-*   [案例 95：自拍生成摇头娃娃 (by )](#cases-95)
-*   [案例 94：三只动物与地标自拍 (by )](#cases-94)
-*   [案例 93：玻璃质感重塑 (by )](#cases-93)
-*   [案例 92：透视3D出屏效果 (by )](#cases-92)
-*   [案例 91：谷歌地图变身古代藏宝图 (by )](#cases-91)
-*   [案例 90：品牌化键盘键帽 (by )](#cases-90)
-*   [案例 89：镀铬emoji徽章 (by )](#cases-89)
-*   [案例 88：儿童涂色页插画（含彩色参考图） (by )](#cases-88)
-*   [案例 87：字母与单词含义融合 (by )](#cases-87)
-*   [案例 86：双重曝光 (by )](#cases-86)
-*   [案例 85：超现实交互场景 (by )](#cases-85)
-*   [案例 84：动物硅胶腕托 (by )](#cases-84)
-*   [案例 83：发光线条解剖图 (by )](#cases-83)
-*   [案例 82：特色城市天气预报 (by )](#cases-82)
-*   [案例 81：半透明玻璃质感变换 (by )](#cases-81)
-*   [案例 80：代码风格名片 (by )](#cases-80)
-*   [案例 79：乐高城市景观 (by )](#cases-79)
-*   [案例 78：玻璃材质重塑 (by )](#cases-78)
-*   [案例 77：水晶球故事场景 (by )](#cases-77)
-*   [案例 76：怀旧动漫风格电影海报 (by )](#cases-76)
-*   [案例 75：社交媒体相框融合 (by )](#cases-75)
-*   [案例 74：Logo 形状创意书架 (by )](#cases-74)
-*   [案例 73：定制Q版钥匙串 (by )](#cases-73)
-*   [案例 72：金色吊坠项链 (by )](#cases-72)
-*   [案例 71：迷你 Cyberpunk 傾斜移軸景觀 (by )](#cases-71)
-*   [案例 70：原创宝可梦生成 (by )](#cases-70)
-*   [案例 69：剪影艺术 (by )](#cases-69)
-*   [案例 68：未来主义 Logo 交易卡 (by )](#cases-68)
-*   [案例 67：超写实3D游戏 (by )](#cases-67)
-*   [案例 66：创意丝绸宇宙 (by )](#cases-66)
-*   [案例 65：奇幻水下场景冰棒 (by )](#cases-65)
-*   [案例 64：蒸汽朋克机械鱼 (by )](#cases-64)
-*   [案例 63：Emoji 奶油雪糕 (by )](#cases-63)
-*   [案例 62：可爱珐琅别针 (by )](#cases-62)
-*   [案例 61：虚构推文截图 (爱因斯坦) (by )](#cases-61)
-*   [案例 60：Emoji 簇绒地毯 (by )](#cases-60)
-*   [案例 59：彩色矢量艺术海报 (by )](#cases-59)
-*   [案例 58：云彩艺术 (by )](#cases-58)
-*   [案例 57：8位像素图标 (by )](#cases-57)
-*   [案例 56：迷你 3D 建筑 (by )](#cases-56)
-*   [案例 55：创意绿植花盆 (by )](#cases-55)
-*   [案例 54：“极其平凡”的iPhone自拍 (by )](#cases-54)
-*   [案例 53：Emoji 充气感靠垫 (by )](#cases-53)
-*   [案例 52：纸艺风格 Emoji 图标 (by )](#cases-52)
-*   [案例 51：护照入境印章 (by )](#cases-51)
-*   [案例 50：物理破坏效果卡片 (劳拉) (by )](#cases-50)
-*   [案例 49：时尚杂志封面风格 (by )](#cases-49)
-*   [案例 48：体素风格 3D 图标转换 (by )](#cases-48)
-*   [案例 47：键盘ESC 键帽微型立体模型 (by )](#cases-47)
-*   [案例 45：3D Q版大学拟人化形象 (by )](#cases-45)
-*   [案例 44：RPG 风格角色卡片制作 (by )](#cases-44)
-*   [案例 43：Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (by )](#cases-43)
-*   [案例 42：3D Q版情侣水晶球 (by )](#cases-42)
-*   [案例 41：微型立体场景 (孙悟空三打白骨精) (by )](#cases-41)
-*   [案例 39：奇幻卡通插画 (by )](#cases-39)
-*   [案例 37：柔和风格3D广告 (by )](#cases-37)
-*   [案例 36：极简主义 3D 插画 (Markdown 格式) (by )](#cases-36)
-*   [案例 35：毛茸茸南瓜灯 (by )](#cases-35)
-*   [案例 33：全家福婚纱照 (by )](#cases-33)
-*   [案例 32：折叠式纸雕立体绘本 (by )](#cases-32)
-*   [案例 31：动漫贴纸集合 (by )](#cases-31)
-*   [案例 30：35mm 胶片风格飞岛 (by )](#cases-30)
-*   [案例 29：名画人物 OOTD (by )](#cases-29)
-*   [案例 28：扁平贴纸设计 (by )](#cases-28)
-*   [案例 27：Q 版表情包制作 (by )](#cases-27)
-*   [案例 26：名画人物麦片广告 (by )](#cases-26)
-*   [案例 25：极简主义 3D 插画 (by )](#cases-25)
-*   [案例 24：Funko Pop 公仔制作 (by )](#cases-24)
-*   [案例 23：《泰坦尼克号》模仿 (by )](#cases-23)
-*   [案例 21：Q版角色表情包 (by )](#cases-21)
-*   [案例 20：手办与真人同框 (by )](#cases-20)
-*   [案例 19：玩具盒中的国家立体模型 (by )](#cases-19)
-*   [案例 18：皮克斯3D风格 (by )](#cases-18)
-*   [案例 17：复古CRT电脑启动屏幕 (by )](#cases-17)
-*   [案例 16：二次元风格徽章 (by )](#cases-16)
-*   [案例 14：《海贼王》主题手办制作 (by )](#cases-14)
-*   [案例 13：3D Q版风格 (by )](#cases-13)
-*   [案例 12：3D 情侣珠宝盒摆件 (by )](#cases-12)
-*   [案例 11：PS2 游戏封面 (GTA x Shrek) (by )](#cases-11)
-*   [案例 10：讽刺漫画生成 (by )](#cases-10)
-*   [案例 9：极简未来主义海报 (by )](#cases-9)
-*   [案例 8：乐高收藏品 (by )](#cases-8)
-*   [案例 7：个性化房间设计 (by )](#cases-7)
-*   [案例 6：角色穿越传送门 (by )](#cases-6)
-*   [案例 5：吉卜力风格 (by )](#cases-5)
-*   [案例 4：3D Q版中式婚礼图 (by )](#cases-4)
-*   [案例 2：3D Q版人物立体相框 (by )](#cases-2)
-*   [案例 1：Q版求婚场景 (by )](#cases-1)
+*   [案例 104：Museum Glass Cube Display](#cases-104)
+*   [案例 103：Glossy Gadget Unfolded A Fashion Editorial Explosion](#cases-103)
+*   [案例 102：火柴盒Superfast收藏版](#cases-102)
+*   [案例 101：泡泡食物](#cases-101)
+*   [案例 100：实物与手绘涂鸦创意广告](#cases-100)
+*   [案例 99：黑白肖像艺术](#cases-99)
+*   [案例 98：磨砂玻璃后的虚实对比剪影](#cases-98)
+*   [案例 97：可爱温馨针织玩偶](#cases-97)
+*   [案例 96：定制动漫手办](#cases-96)
+*   [案例 95：自拍生成摇头娃娃](#cases-95)
+*   [案例 94：三只动物与地标自拍](#cases-94)
+*   [案例 93：玻璃质感重塑](#cases-93)
+*   [案例 92：透视3D出屏效果](#cases-92)
+*   [案例 91：谷歌地图变身古代藏宝图](#cases-91)
+*   [案例 90：品牌化键盘键帽](#cases-90)
+*   [案例 89：镀铬emoji徽章](#cases-89)
+*   [案例 88：儿童涂色页插画（含彩色参考图）](#cases-88)
+*   [案例 87：字母与单词含义融合](#cases-87)
+*   [案例 86：双重曝光](#cases-86)
+*   [案例 85：超现实交互场景](#cases-85)
+*   [案例 84：动物硅胶腕托](#cases-84)
+*   [案例 83：发光线条解剖图](#cases-83)
+*   [案例 82：特色城市天气预报](#cases-82)
+*   [案例 81：半透明玻璃质感变换](#cases-81)
+*   [案例 80：代码风格名片](#cases-80)
+*   [案例 79：乐高城市景观](#cases-79)
+*   [案例 78：玻璃材质重塑](#cases-78)
+*   [案例 77：水晶球故事场景](#cases-77)
+*   [案例 76：怀旧动漫风格电影海报](#cases-76)
+*   [案例 75：社交媒体相框融合](#cases-75)
+*   [案例 74：Logo 形状创意书架](#cases-74)
+*   [案例 73：定制Q版钥匙串](#cases-73)
+*   [案例 72：金色吊坠项链](#cases-72)
+*   [案例 71：迷你 Cyberpunk 傾斜移軸景觀](#cases-71)
+*   [案例 70：原创宝可梦生成](#cases-70)
+*   [案例 69：剪影艺术](#cases-69)
+*   [案例 68：未来主义 Logo 交易卡](#cases-68)
+*   [案例 67：超写实3D游戏](#cases-67)
+*   [案例 66：创意丝绸宇宙](#cases-66)
+*   [案例 65：奇幻水下场景冰棒](#cases-65)
+*   [案例 64：蒸汽朋克机械鱼](#cases-64)
+*   [案例 63：Emoji 奶油雪糕](#cases-63)
+*   [案例 62：可爱珐琅别针](#cases-62)
+*   [案例 61：虚构推文截图 (爱因斯坦)](#cases-61)
+*   [案例 60：Emoji 簇绒地毯](#cases-60)
+*   [案例 59：彩色矢量艺术海报](#cases-59)
+*   [案例 58：云彩艺术](#cases-58)
+*   [案例 57：8位像素图标](#cases-57)
+*   [案例 56：迷你 3D 建筑](#cases-56)
+*   [案例 55：创意绿植花盆](#cases-55)
+*   [案例 54：“极其平凡”的iPhone自拍](#cases-54)
+*   [案例 53：Emoji 充气感靠垫](#cases-53)
+*   [案例 52：纸艺风格 Emoji 图标](#cases-52)
+*   [案例 51：护照入境印章](#cases-51)
+*   [案例 50：物理破坏效果卡片 (劳拉)](#cases-50)
+*   [案例 49：时尚杂志封面风格](#cases-49)
+*   [案例 48：体素风格 3D 图标转换](#cases-48)
+*   [案例 47：键盘ESC 键帽微型立体模型](#cases-47)
+*   [案例 45：3D Q版大学拟人化形象](#cases-45)
+*   [案例 44：RPG 风格角色卡片制作](#cases-44)
+*   [案例 43：Q版可爱俄罗斯套娃 (戴珍珠耳环的少女)](#cases-43)
+*   [案例 42：3D Q版情侣水晶球](#cases-42)
+*   [案例 41：微型立体场景 (孙悟空三打白骨精)](#cases-41)
+*   [案例 39：奇幻卡通插画](#cases-39)
+*   [案例 37：柔和风格3D广告](#cases-37)
+*   [案例 36：极简主义 3D 插画 (Markdown 格式)](#cases-36)
+*   [案例 35：毛茸茸南瓜灯](#cases-35)
+*   [案例 33：全家福婚纱照](#cases-33)
+*   [案例 32：折叠式纸雕立体绘本](#cases-32)
+*   [案例 31：动漫贴纸集合](#cases-31)
+*   [案例 30：35mm 胶片风格飞岛](#cases-30)
+*   [案例 29：名画人物 OOTD](#cases-29)
+*   [案例 28：扁平贴纸设计](#cases-28)
+*   [案例 27：Q 版表情包制作](#cases-27)
+*   [案例 26：名画人物麦片广告](#cases-26)
+*   [案例 25：极简主义 3D 插画](#cases-25)
+*   [案例 24：Funko Pop 公仔制作](#cases-24)
+*   [案例 23：《泰坦尼克号》模仿](#cases-23)
+*   [案例 21：Q版角色表情包](#cases-21)
+*   [案例 20：手办与真人同框](#cases-20)
+*   [案例 19：玩具盒中的国家立体模型](#cases-19)
+*   [案例 18：皮克斯3D风格](#cases-18)
+*   [案例 17：复古CRT电脑启动屏幕](#cases-17)
+*   [案例 16：二次元风格徽章](#cases-16)
+*   [案例 14：《海贼王》主题手办制作](#cases-14)
+*   [案例 13：3D Q版风格](#cases-13)
+*   [案例 12：3D 情侣珠宝盒摆件](#cases-12)
+*   [案例 11：PS2 游戏封面 (GTA x Shrek)](#cases-11)
+*   [案例 10：讽刺漫画生成](#cases-10)
+*   [案例 9：极简未来主义海报](#cases-9)
+*   [案例 8：乐高收藏品](#cases-8)
+*   [案例 7：个性化房间设计](#cases-7)
+*   [案例 6：角色穿越传送门](#cases-6)
+*   [案例 5：吉卜力风格](#cases-5)
+*   [案例 4：3D Q版中式婚礼图](#cases-4)
+*   [案例 2：3D Q版人物立体相框](#cases-2)
+*   [案例 1：Q版求婚场景](#cases-1)
 
 ---
 
 <a id="cases"></a>
 ## 🧩 案例
 
-<a id="cases-103"></a>
-### 案例 103：Matchbox Superfast Collector Edition (by []())
+<a id="cases-104"></a>
+### 案例 104：Museum Glass Cube Display 
 
-[原文链接](https://x.com/TraffAlex/status/1935451423803851187)
+[原文链接](https://x.com/Kerroudjm/status/1935772501264543779)
 
-<img src="cases/103/matchbox_car.png" width="300" alt=""><br>
-<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="#">Unknown</a></sub>
+<img src="cases/104/museum_glass.png" width="300" alt=""><br>
+<sub>Image © 2025 <a href="https://github.com/highscore-ai">@highscore-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/Kerroudjm">@Kerroudjm</a></sub>
 
 **提示词**
 
 ```
-Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970s Matchbox-style Superfast blister pack. Pearl white paint, black performance wheels, red brake calipers, original-style blister packaging with vibrant retro card art featuring mountain roads and speed lines. Studio lighting, white background, nostalgic collector vibe.
+A 1:1 ultra-realistic photo of a calm museum room with classical paintings on the walls. At the center, a transparent glass cube on a dark pedestal contains a miniature scene of [INSERT SUBJECT HERE], sculpted in photorealistic detail and lit from above. The contents push against the cube's edges as if frozen in motion. Three visitors observe: a woman on the right seen from behind (beige sweater, jeans, shoulder bag), a man on the left in 3/4 profile (dark denim shirt), and a third person blurred in the center background. Warm lighting, wooden floors, and soft focus complete the atmosphere.
+```
+
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+<a id="cases-103"></a>
+### 案例 103：Glossy Gadget Unfolded A Fashion Editorial Explosion 
+
+[原文链接](https://x.com/Gdgtify/status/1936014835025613059)
+
+<img src="cases/103/magazine_car.png" width="300" alt=""><br>
+<sub>Image © 2025 <a href="https://github.com/highscore-ai">@highscore-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/Gdgtify">@Gdgtify</a></sub>
+
+**提示词**
+
+```
+A flattened diagram of a [Gadget] laid out like a fashion magazine editorial: glossy paper aesthetic, styled poses of the product in exploded view, annotated with clever, cheeky captions in a modern font. Pastel background, bold composition, don't repeat text.
 ```
 
 
@@ -173,7 +194,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-102"></a>
-### 案例 102：火柴盒Superfast收藏版 (by [@TraffAlex](https://x.com/TraffAlex))
+### 案例 102：火柴盒Superfast收藏版 
 
 [原文链接](https://x.com/TraffAlex/status/1935451423803851187)
 
@@ -193,7 +214,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-101"></a>
-### 案例 101：泡泡食物 (by [@aziz4ai](https://x.com/aziz4ai/))
+### 案例 101：泡泡食物 
 
 [原文链接](https://x.com/aziz4ai/status/1934986353848017349)
 
@@ -214,7 +235,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-100"></a>
-### 案例 100：实物与手绘涂鸦创意广告 (by [@azed_ai](https://x.com/azed_ai))
+### 案例 100：实物与手绘涂鸦创意广告 
 
 [原文链接](https://x.com/azed_ai/status/1923016036120658122)
 
@@ -241,7 +262,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-99"></a>
-### 案例 99：黑白肖像艺术 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### 案例 99：黑白肖像艺术 
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1922150692145283299)
 
@@ -267,7 +288,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-98"></a>
-### 案例 98：磨砂玻璃后的虚实对比剪影 (by [@umesh_ai](https://x.com/umesh_ai))
+### 案例 98：磨砂玻璃后的虚实对比剪影 
 
 [原文链接](https://x.com/umesh_ai/status/1921487841634156999)
 
@@ -289,7 +310,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-97"></a>
-### 案例 97：可爱温馨针织玩偶 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### 案例 97：可爱温馨针织玩偶 
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1921148024861938077)
 
@@ -310,7 +331,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-96"></a>
-### 案例 96：定制动漫手办 (by [@dotey](https://x.com/dotey))
+### 案例 96：定制动漫手办 
 
 [原文链接](https://x.com/dotey/status/1920851135516082246)
 
@@ -331,7 +352,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-95"></a>
-### 案例 95：自拍生成摇头娃娃 (by [@thisdudelikesAI](https://x.com/thisdudelikesAI))
+### 案例 95：自拍生成摇头娃娃 
 
 [原文链接](https://x.com/thisdudelikesAI/status/1920433372243136730)
 
@@ -353,7 +374,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-94"></a>
-### 案例 94：三只动物与地标自拍 (by [@berryxia_ai](https://x.com/berryxia_ai))
+### 案例 94：三只动物与地标自拍 
 
 [原文链接](https://x.com/berryxia_ai/status/1920795648946782583)
 
@@ -374,7 +395,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-93"></a>
-### 案例 93：玻璃质感重塑 (by [@egeberkina](https://x.com/egeberkina))
+### 案例 93：玻璃质感重塑 
 
 [原文链接](https://x.com/egeberkina/status/1920448389960909085)
 
@@ -428,7 +449,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-92"></a>
-### 案例 92：透视3D出屏效果 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### 案例 92：透视3D出屏效果 
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1920355982703509588)
 
@@ -450,7 +471,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-91"></a>
-### 案例 91：谷歌地图变身古代藏宝图 (by [@umesh_ai](https://x.com/umesh_ai))
+### 案例 91：谷歌地图变身古代藏宝图 
 
 [原文链接](https://x.com/umesh_ai/status/1919701229363466328)
 
@@ -471,7 +492,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-90"></a>
-### 案例 90：品牌化键盘键帽 (by [@egeberkina](https://x.com/egeberkina))
+### 案例 90：品牌化键盘键帽 
 
 [原文链接](https://x.com/egeberkina/status/1918291652210311278)
 
@@ -492,7 +513,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-89"></a>
-### 案例 89：镀铬emoji徽章 (by [@egeberkina](https://x.com/egeberkina))
+### 案例 89：镀铬emoji徽章 
 
 [原文链接](https://x.com/egeberkina/status/1919398870867440124)
 
@@ -513,7 +534,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-88"></a>
-### 案例 88：儿童涂色页插画（含彩色参考图） (by [@dotey](https://x.com/dotey))
+### 案例 88：儿童涂色页插画（含彩色参考图） 
 
 [原文链接](https://x.com/dotey/status/1919522110395080838)
 
@@ -538,7 +559,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-87"></a>
-### 案例 87：字母与单词含义融合 (by [@dotey](https://x.com/dotey))
+### 案例 87：字母与单词含义融合 
 
 [原文链接](https://x.com/dotey/status/1918529055340576812)
 
@@ -561,7 +582,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-86"></a>
-### 案例 86：双重曝光 (by [rezzycheck (Sora)](https://sora.com/explore?user=rezzycheck))
+### 案例 86：双重曝光 
 
 [原文链接](https://sora.com/g/gen_01jtc9btfzef080z31v8w9rtbw)
 
@@ -582,7 +603,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-85"></a>
-### 案例 85：超现实交互场景 (by [@umesh_ai](https://x.com/umesh_ai))
+### 案例 85：超现实交互场景 
 
 [原文链接](https://x.com/umesh_ai/status/1917444534239191544)
 
@@ -603,7 +624,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-84"></a>
-### 案例 84：动物硅胶腕托 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### 案例 84：动物硅胶腕托 
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1918525296577327574)
 
@@ -624,7 +645,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-83"></a>
-### 案例 83：发光线条解剖图 (by [@umesh_ai](https://x.com/umesh_ai))
+### 案例 83：发光线条解剖图 
 
 [原文链接](https://x.com/umesh_ai/status/1914644426334314545)
 
@@ -645,7 +666,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-82"></a>
-### 案例 82：特色城市天气预报 (by [@dotey](https://x.com/dotey))
+### 案例 82：特色城市天气预报 
 
 [原文链接](https://x.com/dotey/status/1917988595228438771)
 
@@ -667,7 +688,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-81"></a>
-### 案例 81：半透明玻璃质感变换 (by [@azed_ai](https://x.com/azed_ai))
+### 案例 81：半透明玻璃质感变换 
 
 [原文链接](https://x.com/azed_ai/status/1917948899098243407)
 
@@ -689,7 +710,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-80"></a>
-### 案例 80：代码风格名片 (by [@umesh_ai](https://x.com/umesh_ai))
+### 案例 80：代码风格名片 
 
 [原文链接1](https://x.com/umesh_ai/status/1915696926596415492) | [原文链接2](https://x.com/fr0gger_/status/1916743281339498760) | [原文链接3](https://x.com/dotey/status/1917412535130563006)
 
@@ -718,7 +739,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-79"></a>
-### 案例 79：乐高城市景观 (by [@dotey](https://x.com/dotey))
+### 案例 79：乐高城市景观 
 
 [原文链接](https://x.com/dotey/status/1917713810346872902)
 
@@ -739,7 +760,7 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-78"></a>
-### 案例 78：玻璃材质重塑 (by [@egeberkina](https://x.com/egeberkina))
+### 案例 78：玻璃材质重塑 
 
 [原文链接](https://x.com/egeberkina/status/1917631056980721743)
 
@@ -777,7 +798,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-77"></a>
-### 案例 77：水晶球故事场景 (by [@dotey](https://x.com/dotey))
+### 案例 77：水晶球故事场景 
 
 [原文链接](https://x.com/dotey/status/1916530529324699858)
 
@@ -798,7 +819,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-76"></a>
-### 案例 76：怀旧动漫风格电影海报 (by [photis (Sora)](https://sora.com/explore?user=user-sydD5ZkXZsDaL0BriQa010dQ))
+### 案例 76：怀旧动漫风格电影海报 
 
 [原文链接](https://sora.com/g/gen_01jsfxrdpjfpebnyed8yaz42nf)
 
@@ -820,7 +841,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-75"></a>
-### 案例 75：社交媒体相框融合 (by [@dotey](https://x.com/dotey))
+### 案例 75：社交媒体相框融合 
 
 [原文链接](https://x.com/dotey/status/1917042797506662560)
 
@@ -842,7 +863,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-74"></a>
-### 案例 74：Logo 形状创意书架 (by [@umesh_ai](https://x.com/umesh_ai))
+### 案例 74：Logo 形状创意书架 
 
 [原文链接](https://x.com/umesh_ai/status/1916517976414495161)
 
@@ -863,7 +884,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-73"></a>
-### 案例 73：定制Q版钥匙串 (by [@azed_ai](https://x.com/azed_ai))
+### 案例 73：定制Q版钥匙串 
 
 [原文链接](https://x.com/azed_ai/status/1916521742052503804)
 
@@ -886,7 +907,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-72"></a>
-### 案例 72：金色吊坠项链 (by [@azed_ai](https://x.com/azed_ai))
+### 案例 72：金色吊坠项链 
 
 [原文链接](https://x.com/azed_ai/status/1915770501705925106)
 
@@ -908,7 +929,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-71"></a>
-### 案例 71：迷你 Cyberpunk 傾斜移軸景觀 (by [terry623](https://github.com/terry623))
+### 案例 71：迷你 Cyberpunk 傾斜移軸景觀 
 
 
 
@@ -930,7 +951,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-70"></a>
-### 案例 70：原创宝可梦生成 (by [@Anima_Labs](https://x.com/Anima_Labs))
+### 案例 70：原创宝可梦生成 
 
 [原文链接](https://x.com/Anima_Labs/status/1915044265895379166)
 
@@ -955,7 +976,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-69"></a>
-### 案例 69：剪影艺术 (by [@umesh_ai](https://x.com/umesh_ai))
+### 案例 69：剪影艺术 
 
 [原文链接](https://x.com/umesh_ai/status/1915417277953962048)
 
@@ -976,7 +997,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-68"></a>
-### 案例 68：未来主义 Logo 交易卡 (by [@hewarsaber](https://x.com/hewarsaber))
+### 案例 68：未来主义 Logo 交易卡 
 
 [原文链接](https://x.com/hewarsaber/status/1912933875166171515)
 
@@ -1021,7 +1042,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-67"></a>
-### 案例 67：超写实3D游戏 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### 案例 67：超写实3D游戏 
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1913648013144137840)
 
@@ -1046,7 +1067,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-66"></a>
-### 案例 66：创意丝绸宇宙 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### 案例 66：创意丝绸宇宙 
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175)
 
@@ -1068,7 +1089,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-65"></a>
-### 案例 65：奇幻水下场景冰棒 (by [@madpencil_](https://x.com/madpencil_))
+### 案例 65：奇幻水下场景冰棒 
 
 [原文链接](https://x.com/madpencil_/status/1920037538372128998)
 
@@ -1088,7 +1109,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-64"></a>
-### 案例 64：蒸汽朋克机械鱼 (by [@f-is-h](https://github.com/f-is-h))
+### 案例 64：蒸汽朋克机械鱼 
 
 [原文链接](https://github.com/f-is-h/f-is-h/blob/main/images/streampank-fish-4.png)
 
@@ -1116,7 +1137,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-63"></a>
-### 案例 63：Emoji 奶油雪糕 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### 案例 63：Emoji 奶油雪糕 
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1914574278911000967)
 
@@ -1137,7 +1158,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-62"></a>
-### 案例 62：可爱珐琅别针 (by [@gnrlyxyz](https://x.com/gnrlyxyz))
+### 案例 62：可爱珐琅别针 
 
 [原文链接](https://x.com/gnrlyxyz/status/1914303110853583302)
 
@@ -1159,7 +1180,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-61"></a>
-### 案例 61：虚构推文截图 (爱因斯坦) (by [@egeberkina](https://x.com/egeberkina))
+### 案例 61：虚构推文截图 (爱因斯坦) 
 
 [原文链接](https://x.com/egeberkina/status/1914299716394778713)
 
@@ -1179,7 +1200,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-60"></a>
-### 案例 60：Emoji 簇绒地毯 (by [@gizakdag](https://x.com/gizakdag))
+### 案例 60：Emoji 簇绒地毯 
 
 [原文链接](https://x.com/gizakdag/status/1913925062568144924)
 
@@ -1200,7 +1221,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-59"></a>
-### 案例 59：彩色矢量艺术海报 (by [@michaelrabone](https://x.com/michaelrabone))
+### 案例 59：彩色矢量艺术海报 
 
 [原文链接](https://x.com/michaelrabone/status/1913865394139316291)
 
@@ -1221,7 +1242,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-58"></a>
-### 案例 58：云彩艺术 (by [@umesh_ai](https://x.com/umesh_ai))
+### 案例 58：云彩艺术 
 
 [原文链接](https://x.com/umesh_ai/status/1913628737872027805)
 
@@ -1242,7 +1263,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-57"></a>
-### 案例 57：8位像素图标 (by [@egeberkina](https://x.com/egeberkina))
+### 案例 57：8位像素图标 
 
 [原文链接](https://x.com/egeberkina/status/1913654508330058064)
 
@@ -1263,7 +1284,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-56"></a>
-### 案例 56：迷你 3D 建筑 (by [@dotey](https://x.com/dotey))
+### 案例 56：迷你 3D 建筑 
 
 [原文链接](https://x.com/dotey/status/1913759515700285569)
 
@@ -1284,7 +1305,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-55"></a>
-### 案例 55：创意绿植花盆 (by [@azed_ai](https://x.com/azed_ai))
+### 案例 55：创意绿植花盆 
 
 [原文链接](https://x.com/azed_ai/status/1923739813414568075)
 
@@ -1305,7 +1326,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-54"></a>
-### 案例 54：“极其平凡”的iPhone自拍 (by [@jiamimaodashu](https://x.com/jiamimaodashu))
+### 案例 54：“极其平凡”的iPhone自拍 
 
 [原文链接](https://x.com/jiamimaodashu/status/1912653073190879410)
 
@@ -1326,7 +1347,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-53"></a>
-### 案例 53：Emoji 充气感靠垫 (by [@gizakdag](https://x.com/gizakdag))
+### 案例 53：Emoji 充气感靠垫 
 
 [原文链接](https://x.com/gizakdag/status/1912858535643197927)
 
@@ -1347,7 +1368,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-52"></a>
-### 案例 52：纸艺风格 Emoji 图标 (by [@egeberkina](https://x.com/egeberkina))
+### 案例 52：纸艺风格 Emoji 图标 
 
 [原文链接](https://x.com/egeberkina/status/1912521263085482464)
 
@@ -1368,7 +1389,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-51"></a>
-### 案例 51：护照入境印章 (by [@M_w14_](https://x.com/M_w14_))
+### 案例 51：护照入境印章 
 
 [原文链接1](https://x.com/M_w14_/status/1912146666410459618) | [原文链接2](https://x.com/ZHO_ZHO_ZHO/status/1912188562944250035)
 
@@ -1389,7 +1410,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-50"></a>
-### 案例 50：物理破坏效果卡片 (劳拉) (by [@op7418](https://x.com/op7418))
+### 案例 50：物理破坏效果卡片 (劳拉) 
 
 [原文链接1](https://x.com/op7418/status/1912782048160542886) | [原文链接2](https://x.com/hc_dsn/status/1912367201476309396)
 
@@ -1410,7 +1431,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-49"></a>
-### 案例 49：时尚杂志封面风格 (by [@dotey](https://x.com/dotey))
+### 案例 49：时尚杂志封面风格 
 
 [原文链接](https://x.com/dotey/status/1912536019905233194)
 
@@ -1430,7 +1451,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-48"></a>
-### 案例 48：体素风格 3D 图标转换 (by [@BrettFromDJ](https://x.com/BrettFromDJ))
+### 案例 48：体素风格 3D 图标转换 
 
 [原文链接1](https://x.com/BrettFromDJ/status/1910387413404234076) | [原文链接2](https://x.com/ZHO_ZHO_ZHO/status/1910671581962985788)
 
@@ -1455,7 +1476,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-47"></a>
-### 案例 47：键盘ESC 键帽微型立体模型 (by [@egeberkina](https://x.com/egeberkina))
+### 案例 47：键盘ESC 键帽微型立体模型 
 
 [原文链接](https://x.com/egeberkina/status/1911368319212408926)
 
@@ -1480,7 +1501,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-45"></a>
-### 案例 45：3D Q版大学拟人化形象 (by [@dotey](https://x.com/dotey))
+### 案例 45：3D Q版大学拟人化形象 
 
 [原文链接](https://x.com/dotey/status/1911988003729203648)
 
@@ -1501,7 +1522,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-44"></a>
-### 案例 44：RPG 风格角色卡片制作 (by [@berryxia_ai](https://x.com/berryxia_ai))
+### 案例 44：RPG 风格角色卡片制作 
 
 [原文链接](https://x.com/berryxia_ai/status/1911334046724165905)
 
@@ -1530,7 +1551,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-43"></a>
-### 案例 43：Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### 案例 43：Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) 
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1911669883315818497)
 
@@ -1551,7 +1572,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-42"></a>
-### 案例 42：3D Q版情侣水晶球 (by [@balconychy](https://x.com/balconychy))
+### 案例 42：3D Q版情侣水晶球 
 
 [原文链接](https://x.com/balconychy/status/1909908568129655248)
 
@@ -1572,7 +1593,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-41"></a>
-### 案例 41：微型立体场景 (孙悟空三打白骨精) (by [@dotey](https://x.com/dotey))
+### 案例 41：微型立体场景 (孙悟空三打白骨精) 
 
 [原文链接](https://x.com/dotey/status/1911609122547449886)
 
@@ -1593,7 +1614,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-39"></a>
-### 案例 39：奇幻卡通插画 (by [@dotey](https://x.com/dotey))
+### 案例 39：奇幻卡通插画 
 
 [原文链接](https://x.com/dotey/status/1905103477879267823)
 
@@ -1613,7 +1634,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-37"></a>
-### 案例 37：柔和风格3D广告 (by [@aziz4ai](https://x.com/aziz4ai))
+### 案例 37：柔和风格3D广告 
 
 [原文链接](https://x.com/aziz4ai/status/1925301120252924356)
 
@@ -1634,7 +1655,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-36"></a>
-### 案例 36：极简主义 3D 插画 (Markdown 格式) (by [@dotey](https://x.com/dotey))
+### 案例 36：极简主义 3D 插画 (Markdown 格式) 
 
 [原文链接](https://x.com/dotey/status/1907131027253772399)
 
@@ -1692,7 +1713,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-35"></a>
-### 案例 35：毛茸茸南瓜灯 (by [gizakdag](https://x.com/gizakdag))
+### 案例 35：毛茸茸南瓜灯 
 
 [原文链接1](https://x.com/gizakdag/status/1911075302941622512) | [原文链接2](https://x.com/dotey/status/1912276883196039520)
 
@@ -1713,7 +1734,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-33"></a>
-### 案例 33：全家福婚纱照 (by [@balconychy](https://x.com/balconychy))
+### 案例 33：全家福婚纱照 
 
 [原文链接](https://x.com/balconychy/status/1909426314643222595)
 
@@ -1734,7 +1755,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-32"></a>
-### 案例 32：折叠式纸雕立体绘本 (by [@dotey](https://x.com/dotey))
+### 案例 32：折叠式纸雕立体绘本 
 
 [原文链接](https://x.com/dotey/status/1923264349050675329)
 
@@ -1755,7 +1776,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-31"></a>
-### 案例 31：动漫贴纸集合 (by [@richardchang](https://x.com/richardchang))
+### 案例 31：动漫贴纸集合 
 
 [原文链接](https://x.com/richardchang/status/1909086122959139312)
 
@@ -1775,7 +1796,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-30"></a>
-### 案例 30：35mm 胶片风格飞岛 (by [@dotey](https://x.com/dotey))
+### 案例 30：35mm 胶片风格飞岛 
 
 [原文链接](https://x.com/dotey/status/1905020833451348283)
 
@@ -1795,7 +1816,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-29"></a>
-### 案例 29：名画人物 OOTD (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### 案例 29：名画人物 OOTD 
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1909892294217781714)
 
@@ -1821,7 +1842,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-28"></a>
-### 案例 28：扁平贴纸设计 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### 案例 28：扁平贴纸设计 
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1908044836953108490)
 
@@ -1842,7 +1863,7 @@ retexture the image attached based on the json below:
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-27"></a>
-### 案例 27：Q 版表情包制作 (by [@dotey](https://x.com/dotey))
+### 案例 27：Q 版表情包制作 
 
 [原文链接](https://x.com/dotey/status/1909800530739679488)
 
@@ -1871,7 +1892,7 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-26"></a>
-### 案例 26：名画人物麦片广告 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### 案例 26：名画人物麦片广告 
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1909542765857587310)
 
@@ -1892,7 +1913,7 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-25"></a>
-### 案例 25：极简主义 3D 插画 (by [@0xdlk](https://x.com/0xdlk))
+### 案例 25：极简主义 3D 插画 
 
 [原文链接](https://x.com/0xdlk/status/1906843247432929642)
 
@@ -1950,7 +1971,7 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-24"></a>
-### 案例 24：Funko Pop 公仔制作 (by [@dotey](https://x.com/dotey))
+### 案例 24：Funko Pop 公仔制作 
 
 [原文链接](https://x.com/dotey/status/1909047283485671924)
 
@@ -1971,7 +1992,7 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-23"></a>
-### 案例 23：《泰坦尼克号》模仿 (by [@balconychy](https://x.com/balconychy))
+### 案例 23：《泰坦尼克号》模仿 
 
 [原文链接](https://x.com/balconychy/status/1909916265067557299)
 
@@ -1996,7 +2017,7 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-21"></a>
-### 案例 21：Q版角色表情包 (by [@leon_yuan2001](https://x.com/leon_yuan2001))
+### 案例 21：Q版角色表情包 
 
 [原文链接](https://x.com/leon_yuan2001/status/1923712069209293014)
 
@@ -2027,7 +2048,7 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-20"></a>
-### 案例 20：手办与真人同框 (by [@dotey](https://x.com/dotey))
+### 案例 20：手办与真人同框 
 
 [原文链接](https://x.com/dotey/status/1920994118580183316)
 
@@ -2048,7 +2069,7 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-19"></a>
-### 案例 19：玩具盒中的国家立体模型 (by [@TheRelianceAI](https://x.com/TheRelianceAI))
+### 案例 19：玩具盒中的国家立体模型 
 
 [原文链接](https://x.com/TheRelianceAI/status/1925223613055017251)
 
@@ -2069,7 +2090,7 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-18"></a>
-### 案例 18：皮克斯3D风格 (by [AnimeAI](https://animeai.online))
+### 案例 18：皮克斯3D风格 
 
 [原文链接](https://animeai.online/#demo-gallery)
 
@@ -2090,7 +2111,7 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-17"></a>
-### 案例 17：复古CRT电脑启动屏幕 (by [@Gdgtify](https://x.com/Gdgtify))
+### 案例 17：复古CRT电脑启动屏幕 
 
 [原文链接](https://x.com/Gdgtify/status/1925176250626159053)
 
@@ -2111,7 +2132,7 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-16"></a>
-### 案例 16：二次元风格徽章 (by [@Alittlefatwhale](https://x.com/Alittlefatwhale))
+### 案例 16：二次元风格徽章 
 
 [原文链接](https://x.com/Alittlefatwhale/status/1922512847030124905)
 
@@ -2135,7 +2156,7 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-14"></a>
-### 案例 14：《海贼王》主题手办制作 (by [@dotey](https://x.com/dotey))
+### 案例 14：《海贼王》主题手办制作 
 
 [原文链接](https://x.com/dotey/status/1909047547563213145)
 
@@ -2157,7 +2178,7 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-13"></a>
-### 案例 13：3D Q版风格 (by [@dotey](https://x.com/dotey))
+### 案例 13：3D Q版风格 
 
 [原文链接](https://x.com/dotey/status/1908194518345678865)
 
@@ -2178,7 +2199,7 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-12"></a>
-### 案例 12：3D 情侣珠宝盒摆件 (by [@dotey](https://x.com/dotey))
+### 案例 12：3D 情侣珠宝盒摆件 
 
 [原文链接](https://x.com/dotey/status/1909332895115714835)
 
@@ -2202,7 +2223,7 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-11"></a>
-### 案例 11：PS2 游戏封面 (GTA x Shrek) (by [@dotey](https://x.com/dotey))
+### 案例 11：PS2 游戏封面 (GTA x Shrek) 
 
 [原文链接](https://x.com/dotey/status/1904978767090524372)
 
@@ -2222,7 +2243,7 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-10"></a>
-### 案例 10：讽刺漫画生成 (by [@dotey](https://x.com/dotey))
+### 案例 10：讽刺漫画生成 
 
 [原文链接](https://x.com/dotey/status/1910514811756065159)
 
@@ -2242,7 +2263,7 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-9"></a>
-### 案例 9：极简未来主义海报 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### 案例 9：极简未来主义海报 
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1921906728763105394)
 
@@ -2275,7 +2296,7 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-8"></a>
-### 案例 8：乐高收藏品 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### 案例 8：乐高收藏品 
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1910644499354968091)
 
@@ -2304,7 +2325,7 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-7"></a>
-### 案例 7：个性化房间设计 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### 案例 7：个性化房间设计 
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1910698005193515370)
 
@@ -2325,7 +2346,7 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-6"></a>
-### 案例 6：角色穿越传送门 (by [@dotey](https://x.com/dotey))
+### 案例 6：角色穿越传送门 
 
 [原文链接](https://x.com/dotey/status/1908910838636765204)
 
@@ -2346,7 +2367,7 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-5"></a>
-### 案例 5：吉卜力风格 (by [AnimeAI](https://animeai.online))
+### 案例 5：吉卜力风格 
 
 [原文链接](https://animeai.online/#demo-gallery)
 
@@ -2368,7 +2389,7 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-4"></a>
-### 案例 4：3D Q版中式婚礼图 (by [@balconychy](https://x.com/balconychy))
+### 案例 4：3D Q版中式婚礼图 
 
 [原文链接](https://x.com/balconychy/status/1909418699150237917)
 
@@ -2389,7 +2410,7 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-2"></a>
-### 案例 2：3D Q版人物立体相框 (by [@dotey](https://x.com/dotey))
+### 案例 2：3D Q版人物立体相框 
 
 [原文链接](https://x.com/dotey/status/1908238003169903060)
 
@@ -2410,7 +2431,7 @@ Aspect ratio: 9:16
 
 [⬆️ 返回案例目录](#cases-toc)
 <a id="cases-1"></a>
-### 案例 1：Q版求婚场景 (by [@balconychy](https://x.com/balconychy))
+### 案例 1：Q版求婚场景 
 
 [原文链接](https://x.com/balconychy/status/1909417750587486469)
 

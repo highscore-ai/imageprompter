@@ -1,24 +1,18 @@
-# New format case.yml (single file with all data)
-title_en: Matchbox Superfast Collector Edition
-title_cn: 火柴盒Superfast收藏版
-title_ja: マッチボックス Superfast コレクション版
-
-prompt_author: '@TraffAlex'
-prompt_author_link: https://x.com/TraffAlex
-image_author: '@highscore-ai'
+title_en: Glossy Gadget Unfolded A Fashion Editorial Explosion
+title_cn: 光面科技展开图 时尚杂志风的爆炸演绎
+title_ja: グロッシーガジェット解体図  ファッション誌風エクスプロージョン
+prompt_author: "@Gdgtify"
+prompt_author_link: https://x.com/Gdgtify
+image_author: "@highscore-ai"
 image_author_link: https://github.com/highscore-ai
-
-source_links:
-  - url: https://x.com/TraffAlex/status/1935451423803851187
-
+source_links: 
+  - url: https://x.com/Gdgtify/status/1936014835025613059
 license: CC-BY-4.0
-image: matchbox_car.png
 
+image: magazine_car.png
 prompt_en: |
-  Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970s Matchbox-style Superfast blister pack. Pearl white paint, black performance wheels, red brake calipers, original-style blister packaging with vibrant retro card art featuring mountain roads and speed lines. Studio lighting, white background, nostalgic collector vibe.
-
+  A flattened diagram of a [Gadget] laid out like a fashion magazine editorial: glossy paper aesthetic, styled poses of the product in exploded view, annotated with clever, cheeky captions in a modern font. Pastel background, bold composition, don't repeat text.
 prompt_cn: |
-  产品摄影，2024款特斯拉Model Y高性能版合金车模，复古1970年代风格火柴盒Superfast吸塑包装。亮黑色车漆，黑色性能轮毂，红色刹车卡钳，包装卡片采用复古插画风格，描绘山路与速度线条。工作室灯光，白色背景，充满怀旧收藏氛围。
-
+  一张展示 [Gadget] 的展开图，风格类似时尚杂志编辑页面：光面纸张质感，产品以造型姿态展开排列，辅以俏皮而机智的注解文字，字体现代，背景为粉彩色调，构图大胆，避免文字重复。
 prompt_ja: |
-  プロダクト写真、2024年テスラ モデルY パフォーマンスのダイキャストカー、1970年代風のマッチボックス「Superfast」ブリスターパックに収められたもの。光沢のある黒い塗装、ブラックパフォーマンスホイール、赤いブレーキキャリパー。レトロな山道とスピードラインを描いたパッケージカードアート。スタジオ照明、白背景、ノスタルジックなコレクター向けの雰囲気。
+  [Gadget] の展開図をファッション雑誌の編集ページのように表現：光沢のある紙質、製品はスタイリッシュなポーズで展開表示され、現代的なフォントでユーモラスかつ機知に富んだキャプション付き。背景はパステルカラーで構成は大胆。テキストの繰り返しは避ける。

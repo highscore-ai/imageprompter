@@ -37,21 +37,21 @@ let cases = numericDirs.map(dir => {
     if (fs.existsSync(attributionPath)) {
       attributionData = yaml.load(fs.readFileSync(attributionPath, 'utf8'));
     } else {
-      // Set default attribution data
+      // FIXED: Extract attribution from unified case data with proper field names
       attributionData = {
-        image_author: '@jamez-bondos',
-        image_author_link: 'https://github.com/jamez-bondos',
-        prompt_author: caseData.author || 'Unknown',
-        prompt_author_link: caseData.author_link || '#'
+        image_author: caseData.image_author || '@highscore-ai',
+        image_author_link: caseData.image_author_link || 'https://github.com/highscore-ai',
+        prompt_author: caseData.prompt_author || caseData.author || 'Unknown',
+        prompt_author_link: caseData.prompt_author_link || caseData.author_link || '#'
       };
     }
   } catch (error) {
-    // Set default attribution data
+    // FIXED: Set updated default attribution data
     attributionData = {
-      image_author: '@jamez-bondos',
-      image_author_link: 'https://github.com/jamez-bondos',
-      prompt_author: caseData.author || 'Unknown',
-      prompt_author_link: caseData.author_link || '#'
+      image_author: caseData.image_author || '@highscore-ai',
+      image_author_link: caseData.image_author_link || 'https://github.com/highscore-ai',
+      prompt_author: caseData.prompt_author || caseData.author || 'Unknown',
+      prompt_author_link: caseData.prompt_author_link || caseData.author_link || '#'
     };
   }
   
