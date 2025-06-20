@@ -1,0 +1,18 @@
+title_en: Miniature World in Vintage Suitcase
+title_cn: 复古手提箱中的微型世界
+title_ja: ヴィンテージスーツケースの中の小さな世界
+prompt_author: "@TheRelianceAI"
+prompt_author_link: https://x.com/TheRelianceAI
+image_author: "@highscore-ai"
+image_author_link: https://github.com/highscore-ai
+source_links:
+  - url: https://x.com/TheRelianceAI/status/1935018868214227039
+license: CC-BY-4.0
+
+image: suitecase_kananaski.png
+prompt_en: |
+  A highly detailed miniature world representing [COUNTRY] inside an open vintage leather suitcase. The landscape overflows from the case — with iconic landmarks, native plants and animals, and small scenes of everyday life. The suitcase is placed on a wooden table, lit by warm natural light, blending magic and realism. ar 1:1
+prompt_cn: |
+  在一个打开的复古皮革手提箱内展现代表[国家]的极其精细的微型世界。景观从箱子中溢出——包含标志性地标、本土植物和动物，以及日常生活的小场景。手提箱放置在木桌上，被温暖的自然光照亮，融合了魔幻与现实主义。画面比例1:1
+prompt_ja: |
+  開いたヴィンテージレザースーツケースの中に[国名]を表現した非常に詳細な小さな世界。風景はケースから溢れ出し——象徴的なランドマーク、土着の植物や動物、そして日常生活の小さなシーンが含まれています。スーツケースは木製のテーブルに置かれ、温かい自然光で照らされ、魔法と現実主義を融合させています。アスペクト比1:1

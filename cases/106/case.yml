@@ -1,0 +1,18 @@
+title_en: Raindrop Country Typography
+title_cn: 雨滴国家文字设计
+title_ja: 雨粒の国名タイポグラフィ
+prompt_author: "@TheRelianceAI"
+prompt_author_link: https://x.com/TheRelianceAI
+image_author: "@highscore-ai"
+image_author_link: https://github.com/highscore-ai
+source_links:
+  - url: https://x.com/TheRelianceAI/status/1935637141444329685
+license: CC-BY-4.0
+
+image: raindrop_calgary.png
+prompt_en: |
+  Raindrops on a glass window forming the word '[COUNTRY]'. In the largest central droplet, a miniature landscape representing [COUNTRY], filled with iconic scenery and atmospheric detail. The background is softly blurred, with magical lighting and a poetic, dreamlike mood.
+prompt_cn: |
+  玻璃窗上的雨滴形成"[国家]"字样。在最大的中央雨滴中，展现代表[国家]的微型景观，充满标志性风景和大气细节。背景柔和模糊，带有魔幻光线和诗意梦幻的氛围。
+prompt_ja: |
+  ガラス窓の雨粒が「[国名]」という文字を形成しています。最大の中央の雨粒の中には、[国名]を代表する小さな風景が描かれ、象徴的な景色と大気の詳細で満たされています。背景はソフトにぼかされ、魔法的な照明と詩的で夢のような雰囲気を演出しています。

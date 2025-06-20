@@ -49,6 +49,12 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
+*   [Case 110: Studio Product Photography](#cases-110)
+*   [Case 109: Miniature World in Vintage Suitcase](#cases-109)
+*   [Case 108: Miniature Tropical Paradise on Palm](#cases-108)
+*   [Case 107: Surreal Brand Advertisement](#cases-107)
+*   [Case 106: Raindrop Country Typography](#cases-106)
+*   [Case 105: Brand Word Typography Design](#cases-105)
 *   [Case 104: Museum Glass Cube Display](#cases-104)
 *   [Case 103: Glossy Gadget Unfolded A Fashion Editorial Explosion](#cases-103)
 *   [Case 102: Matchbox Superfast Collector Edition](#cases-102)
@@ -152,6 +158,126 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases"></a>
 ## 🧩 Case
 
+<a id="cases-110"></a>
+### Case 110: Studio Product Photography 
+
+[Source Link](https://x.com/azed_ai/status/1934631664153760241)
+
+<img src="cases/110/tesla_bulb.png" width="300" alt=""><br>
+<sub>Image © 2025 <a href="https://github.com/highscore-ai">@highscore-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
+
+**Prompt**
+
+```
+A high-quality studio product photo of a [brand name]-branded [product type], [floating / standing] against a solid background in the brand's signature color. The product features the brand logo prominently and uses the official brand color palette. Clean composition, soft shadows, ultra-realistic materials and textures, no text, no props, professional commercial lighting, sharp focus, minimalist aesthetic.
+```
+
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+<a id="cases-109"></a>
+### Case 109: Miniature World in Vintage Suitcase 
+
+[Source Link](https://x.com/TheRelianceAI/status/1935018868214227039)
+
+<img src="cases/109/suitecase_kananaski.png" width="300" alt=""><br>
+<sub>Image © 2025 <a href="https://github.com/highscore-ai">@highscore-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/TheRelianceAI">@TheRelianceAI</a></sub>
+
+**Prompt**
+
+```
+A highly detailed miniature world representing [COUNTRY] inside an open vintage leather suitcase. The landscape overflows from the case — with iconic landmarks, native plants and animals, and small scenes of everyday life. The suitcase is placed on a wooden table, lit by warm natural light, blending magic and realism. ar 1:1
+```
+
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+<a id="cases-108"></a>
+### Case 108: Miniature Tropical Paradise on Palm 
+
+[Source Link](https://x.com/ValMotionAi/status/1935321700335247391)
+
+<img src="cases/108/tropical_paradise.png" width="300" alt=""><br>
+<sub>Image © 2025 <a href="https://github.com/highscore-ai">@highscore-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ValMotionAi">@ValMotionAi</a></sub>
+
+**Prompt**
+
+```
+A surreal miniature tropical paradise carved on top a palm , hyper-realistic style. The beach is on top the palm, complete with tiny people, palm trees, umbrellas, boats, and clear blue water. The water looks real and reflective, with tiny waves and floating beach toys. Lush greenery and natural textures blend seamlessly with the fruit's surface. Soft sunlight and a dreamy depth-of-field effect create a magical, vacation-like atmosphere ultra-detailed, macro photography style, whimsical and imaginative. 9:16
+```
+
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+<a id="cases-107"></a>
+### Case 107: Surreal Brand Advertisement 
+
+[Source Link](https://x.com/aziz4ai/status/1932718194403246588)
+
+<img src="cases/107/surreal_tesla.png" width="300" alt=""><br>
+<sub>Image © 2025 <a href="https://github.com/highscore-ai">@highscore-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/aziz4ai">@aziz4ai</a></sub>
+
+**Prompt**
+
+```
+Create a surreal, cinematic advertisement for [brand name], captured with ultra-realistic DSLR photography. Depict the product or logo at the emotional core of the scene — surrounded by symbolic visual metaphors inspired by the brand's essence. Use imaginative landscapes, abstract dreamlike elements, or raw nature to convey a deeper story. Lighting should be crisp and cool-toned (high Kelvin, ~7500K) to ensure clean white balance and avoid yellow hues. Textures must be hyper-real and detailed, with subtle depth of field and natural HDR contrast. Overlay a short, poetic slogan (max 6 words) that speaks to the heart of the brand — without repeating the brand name. Style: surreal realism, DSLR-grade composition, cinematic elegance. Aspect ratio: 1:1. Visually unforgettable.
+```
+
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+<a id="cases-106"></a>
+### Case 106: Raindrop Country Typography 
+
+[Source Link](https://x.com/TheRelianceAI/status/1935637141444329685)
+
+<img src="cases/106/raindrop_calgary.png" width="300" alt=""><br>
+<sub>Image © 2025 <a href="https://github.com/highscore-ai">@highscore-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/TheRelianceAI">@TheRelianceAI</a></sub>
+
+**Prompt**
+
+```
+Raindrops on a glass window forming the word '[COUNTRY]'. In the largest central droplet, a miniature landscape representing [COUNTRY], filled with iconic scenery and atmospheric detail. The background is softly blurred, with magical lighting and a poetic, dreamlike mood.
+```
+
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+<a id="cases-105"></a>
+### Case 105: Brand Word Typography Design 
+
+[Source Link](https://x.com/aziz4ai/status/1935749368876867967)
+
+<img src="cases/105/doritos_brand.png" width="300" alt=""><br>
+<sub>Image © 2025 <a href="https://github.com/highscore-ai">@highscore-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/aziz4ai">@aziz4ai</a></sub>
+
+**Prompt**
+
+```
+Create the word [] made entirely from its real texture and styled using the identity of the most iconic brand associated with it. The word should: • Visually reflect the material (e.g. honey, chocolate, soda, candy). • Use the brand's signature colors and typography. • Include the brand logo beneath the word. • Add a short slogan (3–4 words) matching the product's vibe. • Be centered in a minimal background inspired by the product (e.g. breakfast table, soda splash, cookie tray). • Dimensions: 1:1 • Style: clean, bold, product-focused • Render: ultra-HD, HDR, 8K
+```
+
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
 <a id="cases-104"></a>
 ### Case 104: Museum Glass Cube Display 
 

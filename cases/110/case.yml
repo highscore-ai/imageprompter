@@ -1,0 +1,18 @@
+title_en: Studio Product Photography
+title_cn: 工作室产品摄影
+title_ja: スタジオ商品撮影
+prompt_author: "@azed_ai"
+prompt_author_link: https://x.com/azed_ai
+image_author: "@highscore-ai"
+image_author_link: https://github.com/highscore-ai
+source_links:
+  - url: https://x.com/azed_ai/status/1934631664153760241
+license: CC-BY-4.0
+
+image: tesla_bulb.png
+prompt_en: |
+  A high-quality studio product photo of a [brand name]-branded [product type], [floating / standing] against a solid background in the brand's signature color. The product features the brand logo prominently and uses the official brand color palette. Clean composition, soft shadows, ultra-realistic materials and textures, no text, no props, professional commercial lighting, sharp focus, minimalist aesthetic.
+prompt_cn: |
+  一张高质量的工作室产品照片，展示一个[品牌名称]品牌的[产品类型]，在品牌标志性颜色的纯色背景前[悬浮/站立]。产品突出展示品牌标志，并使用官方品牌色调。构图简洁，柔和阴影，超逼真的材料和纹理，无文字，无道具，专业商业照明，锐利对焦，极简美学。
+prompt_ja: |
+  [ブランド名]ブランドの[製品タイプ]の高品質なスタジオ商品写真で、ブランドのシグネチャーカラーの無地背景に対して[浮遊/立っている]。製品はブランドロゴを目立つように配し、公式ブランドカラーパレットを使用しています。クリーンな構図、ソフトな影、超リアルな素材とテクスチャ、テキストなし、小道具なし、プロの商業照明、シャープフォーカス、ミニマリストな美学。

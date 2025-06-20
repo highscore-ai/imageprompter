@@ -48,6 +48,12 @@ GPT‑4oは、テキストプロンプトから高品質な画像を生成する
 <a id="cases-toc"></a>
 ## 📖 ケース一覧
 
+*   [ケース 110：スタジオ商品撮影](#cases-110)
+*   [ケース 109：ヴィンテージスーツケースの中の小さな世界](#cases-109)
+*   [ケース 108：ヤシの実の上の小さな熱帯楽園](#cases-108)
+*   [ケース 107：シュールなブランド広告](#cases-107)
+*   [ケース 106：雨粒の国名タイポグラフィ](#cases-106)
+*   [ケース 105：ブランドワードタイポグラフィデザイン](#cases-105)
 *   [ケース 104：美術館のガラスキューブディスプレイ](#cases-104)
 *   [ケース 103：グロッシーガジェット解体図  ファッション誌風エクスプロージョン](#cases-103)
 *   [ケース 102：マッチボックス Superfast コレクション版](#cases-102)
@@ -151,6 +157,126 @@ GPT‑4oは、テキストプロンプトから高品質な画像を生成する
 <a id="cases"></a>
 ## 🧩 ケース
 
+<a id="cases-110"></a>
+### ケース 110：スタジオ商品撮影 
+
+[ソースリンク](https://x.com/azed_ai/status/1934631664153760241)
+
+<img src="cases/110/tesla_bulb.png" width="300" alt=""><br>
+<sub>Image © 2025 <a href="https://github.com/highscore-ai">@highscore-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
+
+**プロンプト**
+
+```
+[ブランド名]ブランドの[製品タイプ]の高品質なスタジオ商品写真で、ブランドのシグネチャーカラーの無地背景に対して[浮遊/立っている]。製品はブランドロゴを目立つように配し、公式ブランドカラーパレットを使用しています。クリーンな構図、ソフトな影、超リアルな素材とテクスチャ、テキストなし、小道具なし、プロの商業照明、シャープフォーカス、ミニマリストな美学。
+```
+
+
+
+
+---
+
+[⬆️ ケース一覧に戻る](#cases-toc)
+<a id="cases-109"></a>
+### ケース 109：ヴィンテージスーツケースの中の小さな世界 
+
+[ソースリンク](https://x.com/TheRelianceAI/status/1935018868214227039)
+
+<img src="cases/109/suitecase_kananaski.png" width="300" alt=""><br>
+<sub>Image © 2025 <a href="https://github.com/highscore-ai">@highscore-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/TheRelianceAI">@TheRelianceAI</a></sub>
+
+**プロンプト**
+
+```
+開いたヴィンテージレザースーツケースの中に[国名]を表現した非常に詳細な小さな世界。風景はケースから溢れ出し——象徴的なランドマーク、土着の植物や動物、そして日常生活の小さなシーンが含まれています。スーツケースは木製のテーブルに置かれ、温かい自然光で照らされ、魔法と現実主義を融合させています。アスペクト比1:1
+```
+
+
+
+
+---
+
+[⬆️ ケース一覧に戻る](#cases-toc)
+<a id="cases-108"></a>
+### ケース 108：ヤシの実の上の小さな熱帯楽園 
+
+[ソースリンク](https://x.com/ValMotionAi/status/1935321700335247391)
+
+<img src="cases/108/tropical_paradise.png" width="300" alt=""><br>
+<sub>Image © 2025 <a href="https://github.com/highscore-ai">@highscore-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ValMotionAi">@ValMotionAi</a></sub>
+
+**プロンプト**
+
+```
+ヤシの実の上に彫刻されたシュールな小さな熱帯楽園、ハイパーリアリスティックスタイル。ビーチはヤシの実の上にあり、小さな人々、ヤシの木、パラソル、ボート、透明な青い水で構成されています。水は本物のように見え、反射があり、小さな波と浮かぶビーチおもちゃがあります。豊かな緑と自然のテクスチャが果実の表面とシームレスに融合しています。柔らかな日光と夢のような被写界深度効果が、魔法的でバケーションのような雰囲気を作り出します。超詳細、マクロ写真スタイル、気まぐれで想像力豊か。9:16比率。
+```
+
+
+
+
+---
+
+[⬆️ ケース一覧に戻る](#cases-toc)
+<a id="cases-107"></a>
+### ケース 107：シュールなブランド広告 
+
+[ソースリンク](https://x.com/aziz4ai/status/1932718194403246588)
+
+<img src="cases/107/surreal_tesla.png" width="300" alt=""><br>
+<sub>Image © 2025 <a href="https://github.com/highscore-ai">@highscore-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/aziz4ai">@aziz4ai</a></sub>
+
+**プロンプト**
+
+```
+[ブランド名]のシュールで映画的な広告を、超リアルなDSLR写真で作成します。製品やロゴをシーンの感情的な中核に描き、ブランドの本質にインスパイアされた象徴的な視覚的メタファーに囲まれます。想像力豊かな風景、抽象的な夢のような要素、または生の自然を使用して、より深いストーリーを伝えます。照明は鮮明でクールトーン（高ケルビン、約7500K）にして、クリーンなホワイトバランスを確保し、黄色味を避けます。テクスチャは超リアルで詳細であり、微妙な被写界深度と自然なHDRコントラストを持ちます。ブランド名を繰り返すことなく、ブランドの核心に響く短い詩的なスローガン（最大6語）をオーバーレイします。スタイル：シュールレアリズム、DSLR級の構図、映画的な優雅さ。アスペクト比：1:1。視覚的に忘れられない。
+```
+
+
+
+
+---
+
+[⬆️ ケース一覧に戻る](#cases-toc)
+<a id="cases-106"></a>
+### ケース 106：雨粒の国名タイポグラフィ 
+
+[ソースリンク](https://x.com/TheRelianceAI/status/1935637141444329685)
+
+<img src="cases/106/raindrop_calgary.png" width="300" alt=""><br>
+<sub>Image © 2025 <a href="https://github.com/highscore-ai">@highscore-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/TheRelianceAI">@TheRelianceAI</a></sub>
+
+**プロンプト**
+
+```
+ガラス窓の雨粒が「[国名]」という文字を形成しています。最大の中央の雨粒の中には、[国名]を代表する小さな風景が描かれ、象徴的な景色と大気の詳細で満たされています。背景はソフトにぼかされ、魔法的な照明と詩的で夢のような雰囲気を演出しています。
+```
+
+
+
+
+---
+
+[⬆️ ケース一覧に戻る](#cases-toc)
+<a id="cases-105"></a>
+### ケース 105：ブランドワードタイポグラフィデザイン 
+
+[ソースリンク](https://x.com/aziz4ai/status/1935749368876867967)
+
+<img src="cases/105/doritos_brand.png" width="300" alt=""><br>
+<sub>Image © 2025 <a href="https://github.com/highscore-ai">@highscore-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/aziz4ai">@aziz4ai</a></sub>
+
+**プロンプト**
+
+```
+最も象徴的なブランドのアイデンティティを使用して、完全にリアルなテクスチャで作られた「」という単語を作成します。この単語は：• 素材を視覚的に反映する（ハチミツ、チョコレート、ソーダ、キャンディなど）。• ブランドの特徴的な色とタイポグラフィを使用する。• 単語の下にブランドロゴを含める。• 製品の雰囲気に合った短いスローガン（3-4語）を追加する。• 製品にインスパイアされたミニマルな背景の中央に配置する（朝食テーブル、ソーダのスプラッシュ、クッキートレイなど）。• 寸法：1:1 • スタイル：クリーン、ボールド、製品重視 • レンダリング：ウルトラHD、HDR、8K
+```
+
+
+
+
+---
+
+[⬆️ ケース一覧に戻る](#cases-toc)
 <a id="cases-104"></a>
 ### ケース 104：美術館のガラスキューブディスプレイ 
 
