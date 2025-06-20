@@ -28,8 +28,33 @@ let cases = numericDirs.map(dir => {
   const caseNumber = parseInt(dir);
   const casePath = path.join(__dirname, '../../cases', dir, 'case.yml');
   const caseData = yaml.load(fs.readFileSync(casePath, 'utf8'));
+  
+  // FIXED: Add error handling for ATTRIBUTION.yml reading
   const attributionPath = path.join(__dirname, '../../cases', dir, 'ATTRIBUTION.yml');
-  const attributionData = yaml.load(fs.readFileSync(attributionPath, 'utf8'));
+  let attributionData = {};
+  
+  try {
+    if (fs.existsSync(attributionPath)) {
+      attributionData = yaml.load(fs.readFileSync(attributionPath, 'utf8'));
+    } else {
+      // Set default attribution data
+      attributionData = {
+        image_author: '@jamez-bondos',
+        image_author_link: 'https://github.com/jamez-bondos',
+        prompt_author: caseData.author || 'Unknown',
+        prompt_author_link: caseData.author_link || '#'
+      };
+    }
+  } catch (error) {
+    // Set default attribution data
+    attributionData = {
+      image_author: '@jamez-bondos',
+      image_author_link: 'https://github.com/jamez-bondos',
+      prompt_author: caseData.author || 'Unknown',
+      prompt_author_link: caseData.author_link || '#'
+    };
+  }
+  
   return {
     case_no: caseNumber,
     ...caseData,

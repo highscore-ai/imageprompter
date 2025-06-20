@@ -49,107 +49,128 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
-*   [Case 102: Matchbox Superfast Collector Edition (by @TraffAlex)](#cases-102)
-*   [Case 101: Edible Pop (by @aziz4ai)](#cases-101)
-*   [Case 100: Creative Ad with Real Object and Hand-Drawn Doodle (by @azed_ai)](#cases-100)
-*   [Case 99: Black and White Portrait Art (by @ZHO_ZHO_ZHO)](#cases-99)
-*   [Case 98: Blurred Silhouette Behind Frosted Glass (by @umesh_ai)](#cases-98)
-*   [Case 97: Cute and Cozy Knitted Doll (by @ZHO_ZHO_ZHO)](#cases-97)
-*   [Case 96: Custom Anime Figure (by @dotey)](#cases-96)
-*   [Case 95: Bobblehead Generator from Selfie (by @thisdudelikesAI)](#cases-95)
-*   [Case 94: Three Animals Selfie at Landmark (by @berryxia_ai)](#cases-94)
-*   [Case 93: Glass Retexturing (by @egeberkina)](#cases-93)
-*   [Case 92: Perspective 3D Pop-Out Effect (by @ZHO_ZHO_ZHO)](#cases-92)
-*   [Case 91: Google Maps to Ancient Treasure Map (by @umesh_ai)](#cases-91)
-*   [Case 90: Branded Mechanical Keycaps (by @egeberkina)](#cases-90)
-*   [Case 89: Chrome Emoji Pin (by @egeberkina)](#cases-89)
-*   [Case 88: Children's Coloring Page Illustration (with Color Reference) (by @dotey)](#cases-88)
-*   [Case 87: Integrating Word Meaning into Letters (by @dotey)](#cases-87)
-*   [Case 86: Double Exposure (by rezzycheck (Sora))](#cases-86)
-*   [Case 85: Surreal Interaction Scene (by @umesh_ai)](#cases-85)
-*   [Case 84: Animal Silicone Wrist Rest (by @ZHO_ZHO_ZHO)](#cases-84)
-*   [Case 83: Glowing Lines Anatomy Diagram (by @umesh_ai)](#cases-83)
-*   [Case 82: Signature City Weather Forecast (by @dotey)](#cases-82)
-*   [Case 81: 3D Translucent Glass Transformation (by @azed_ai)](#cases-81)
-*   [Case 80: Code Style Business Card (by @umesh_ai)](#cases-80)
-*   [Case 79: Lego Cityscape (Shanghai Bund) (by @dotey)](#cases-79)
-*   [Case 78: Glass Retexturing (by @egeberkina)](#cases-78)
-*   [Case 77: Story Scene in Crystal Ball (by @dotey)](#cases-77)
-*   [Case 76: Nostalgic Anime Film Poster (by photis (Sora))](#cases-76)
-*   [Case 75: Social Media Frame Integration (by @dotey)](#cases-75)
-*   [Case 74: Creative Logo Shaped Bookshelf (by @umesh_ai)](#cases-74)
-*   [Case 73: Cute Chibi Keychain (by @azed_ai)](#cases-73)
-*   [Case 72: Gold Pendant Necklace (by @azed_ai)](#cases-72)
-*   [Case 71: Miniature Cyberpunk Tilt-Shift Landscape (by terry623)](#cases-71)
-*   [Case 70: Original Pokemon Creation (by @Anima_Labs)](#cases-70)
-*   [Case 69: Silhouette Art (by @umesh_ai)](#cases-69)
-*   [Case 68: Futuristic Logo Trading Card (by @hewarsaber)](#cases-68)
-*   [Case 67: Ultra-realistic 3D Game (by @ZHO_ZHO_ZHO)](#cases-67)
-*   [Case 66: Creative Silk Universe (by @ZHO_ZHO_ZHO)](#cases-66)
-*   [Case 65: Surreal Underwater Scene Popsicle (by @madpencil_)](#cases-65)
-*   [Case 64: Steampunk Mechanical Fish (by @f-is-h)](#cases-64)
-*   [Case 63: Emoji Cream Popsicle (by @ZHO_ZHO_ZHO)](#cases-63)
-*   [Case 62: Kawaii Enamel Pin (by @gnrlyxyz)](#cases-62)
-*   [Case 61: Fake Tweet Screenshot (Einstein) (by @egeberkina)](#cases-61)
-*   [Case 60: Emoji Tufted Rug (by @gizakdag)](#cases-60)
-*   [Case 59: Colorful Vector Art Poster (by @michaelrabone)](#cases-59)
-*   [Case 58: Cloud Art (by @umesh_ai)](#cases-58)
-*   [Case 57: 8-Bit Pixel Icon (by @egeberkina)](#cases-57)
-*   [Case 56: Miniature 3D Building (by @dotey)](#cases-56)
-*   [Case 55: Cute Plant Planter (by @azed_ai)](#cases-55)
-*   [Case 54: Extremely Ordinary iPhone Selfie (by @jiamimaodashu)](#cases-54)
-*   [Case 53: Emoji Inflatable Cushion (by @gizakdag)](#cases-53)
-*   [Case 52: Paper Craft Style Emoji Icon (by @egeberkina)](#cases-52)
-*   [Case 51: Passport Entry Stamp (by @M_w14_)](#cases-51)
-*   [Case 50: Physical Destruction Effect Card (Lara Croft) (by @op7418)](#cases-50)
-*   [Case 49: Fashion Magazine Cover Style (by @dotey)](#cases-49)
-*   [Case 48: Voxel Style 3D Icon Conversion (by @BrettFromDJ)](#cases-48)
-*   [Case 47: ESC Keycap Miniature Diorama (by @egeberkina)](#cases-47)
-*   [Case 45: 3D Chibi-style University Anthropomorphic Mascot (by @dotey)](#cases-45)
-*   [Case 44: RPG-Style Character Card Creation (by @berryxia_ai)](#cases-44)
-*   [Case 43: Cute Chibi Matryoshka Dolls (Girl with a Pearl Earring) (by @ZHO_ZHO_ZHO)](#cases-43)
-*   [Case 42: 3D Q-version Couple Snow Globe (by @balconychy)](#cases-42)
-*   [Case 41: Miniature Three-dimensional Scene Presentation (by @dotey)](#cases-41)
-*   [Case 39: Fantasy Cartoon Illustration (by @dotey)](#cases-39)
-*   [Case 37: Pastel Power 3D ADS (by @aziz4ai)](#cases-37)
-*   [Case 36: Minimalist 3D Illustration (Markdown Format) (by @dotey)](#cases-36)
-*   [Case 35: Fluffy Jack-o'-lantern (by gizakdag)](#cases-35)
-*   [Case 33: Family Wedding Photo (Q-version) (by @balconychy)](#cases-33)
-*   [Case 32: 3D Papercraft Pop-up Book (by @dotey)](#cases-32)
-*   [Case 31: Anime Sticker Collection (by @richardchang)](#cases-31)
-*   [Case 30: 35mm Film Style Flying Island (by @dotey)](#cases-30)
-*   [Case 29: Famous Painting Character OOTD (by @ZHO_ZHO_ZHO)](#cases-29)
-*   [Case 28: Flat Sticker Design (by @ZHO_ZHO_ZHO)](#cases-28)
-*   [Case 27: Q-version Emoji Sticker Pack Creation (by @dotey)](#cases-27)
-*   [Case 26: Famous Painting Character Cereal Ad (by @ZHO_ZHO_ZHO)](#cases-26)
-*   [Case 25: Minimalist 3D Illustration (by @0xdlk)](#cases-25)
-*   [Case 24: Funko Pop Figure Creation (by @dotey)](#cases-24)
-*   [Case 23: "Titanic" Pose Parody (by @balconychy)](#cases-23)
-*   [Case 21: Chibi Character Sticker Pack (by @leon_yuan2001)](#cases-21)
-*   [Case 20: Action Figure and Real Person in the Same Frame (by @dotey)](#cases-20)
-*   [Case 19: Country Diorama in a Toy Box (by @TheRelianceAI)](#cases-19)
-*   [Case 18: Pixar 3D Style (by AnimeAI)](#cases-18)
-*   [Case 17: Retro CRT Computer Boot Screen (by @Gdgtify)](#cases-17)
-*   [Case 16: Anime-style Badge (by @Alittlefatwhale)](#cases-16)
-*   [Case 14: One Piece Themed Figure Creation (by @dotey)](#cases-14)
-*   [Case 13: Photo to 3D Q-version Style (by @dotey)](#cases-13)
-*   [Case 12: 3D Couple Jewelry Box Figurine (by @dotey)](#cases-12)
-*   [Case 11: PS2 Game Cover (GTA x Shrek) (by @dotey)](#cases-11)
-*   [Case 10: Satirical Cartoon Generation (by @dotey)](#cases-10)
-*   [Case 9: Minimalist Futurist Poster (by @ZHO_ZHO_ZHO)](#cases-9)
-*   [Case 8: Lego Collectible Figure (by @ZHO_ZHO_ZHO)](#cases-8)
-*   [Case 7: Personalized Room Design (by @ZHO_ZHO_ZHO)](#cases-7)
-*   [Case 6: Character Stepping Through Portal (by @dotey)](#cases-6)
-*   [Case 5: Ghibli Style (by AnimeAI)](#cases-5)
-*   [Case 4: 3D Chibi Chinese Wedding Scene (by @balconychy)](#cases-4)
-*   [Case 2: 3D Polaroid Breakout Effect (by @dotey)](#cases-2)
-*   [Case 1: 3D Chibi Proposal Scene (by @balconychy)](#cases-1)
+*   [Case 103: Matchbox Superfast Collector Edition (by )](#cases-103)
+*   [Case 102: Matchbox Superfast Collector Edition (by )](#cases-102)
+*   [Case 101: Edible Pop (by )](#cases-101)
+*   [Case 100: Creative Ad with Real Object and Hand-Drawn Doodle (by )](#cases-100)
+*   [Case 99: Black and White Portrait Art (by )](#cases-99)
+*   [Case 98: Blurred Silhouette Behind Frosted Glass (by )](#cases-98)
+*   [Case 97: Cute and Cozy Knitted Doll (by )](#cases-97)
+*   [Case 96: Custom Anime Figure (by )](#cases-96)
+*   [Case 95: Bobblehead Generator from Selfie (by )](#cases-95)
+*   [Case 94: Three Animals Selfie at Landmark (by )](#cases-94)
+*   [Case 93: Glass Retexturing (by )](#cases-93)
+*   [Case 92: Perspective 3D Pop-Out Effect (by )](#cases-92)
+*   [Case 91: Google Maps to Ancient Treasure Map (by )](#cases-91)
+*   [Case 90: Branded Mechanical Keycaps (by )](#cases-90)
+*   [Case 89: Chrome Emoji Pin (by )](#cases-89)
+*   [Case 88: Children's Coloring Page Illustration (with Color Reference) (by )](#cases-88)
+*   [Case 87: Integrating Word Meaning into Letters (by )](#cases-87)
+*   [Case 86: Double Exposure (by )](#cases-86)
+*   [Case 85: Surreal Interaction Scene (by )](#cases-85)
+*   [Case 84: Animal Silicone Wrist Rest (by )](#cases-84)
+*   [Case 83: Glowing Lines Anatomy Diagram (by )](#cases-83)
+*   [Case 82: Signature City Weather Forecast (by )](#cases-82)
+*   [Case 81: 3D Translucent Glass Transformation (by )](#cases-81)
+*   [Case 80: Code Style Business Card (by )](#cases-80)
+*   [Case 79: Lego Cityscape (Shanghai Bund) (by )](#cases-79)
+*   [Case 78: Glass Retexturing (by )](#cases-78)
+*   [Case 77: Story Scene in Crystal Ball (by )](#cases-77)
+*   [Case 76: Nostalgic Anime Film Poster (by )](#cases-76)
+*   [Case 75: Social Media Frame Integration (by )](#cases-75)
+*   [Case 74: Creative Logo Shaped Bookshelf (by )](#cases-74)
+*   [Case 73: Cute Chibi Keychain (by )](#cases-73)
+*   [Case 72: Gold Pendant Necklace (by )](#cases-72)
+*   [Case 71: Miniature Cyberpunk Tilt-Shift Landscape (by )](#cases-71)
+*   [Case 70: Original Pokemon Creation (by )](#cases-70)
+*   [Case 69: Silhouette Art (by )](#cases-69)
+*   [Case 68: Futuristic Logo Trading Card (by )](#cases-68)
+*   [Case 67: Ultra-realistic 3D Game (by )](#cases-67)
+*   [Case 66: Creative Silk Universe (by )](#cases-66)
+*   [Case 65: Surreal Underwater Scene Popsicle (by )](#cases-65)
+*   [Case 64: Steampunk Mechanical Fish (by )](#cases-64)
+*   [Case 63: Emoji Cream Popsicle (by )](#cases-63)
+*   [Case 62: Kawaii Enamel Pin (by )](#cases-62)
+*   [Case 61: Fake Tweet Screenshot (Einstein) (by )](#cases-61)
+*   [Case 60: Emoji Tufted Rug (by )](#cases-60)
+*   [Case 59: Colorful Vector Art Poster (by )](#cases-59)
+*   [Case 58: Cloud Art (by )](#cases-58)
+*   [Case 57: 8-Bit Pixel Icon (by )](#cases-57)
+*   [Case 56: Miniature 3D Building (by )](#cases-56)
+*   [Case 55: Cute Plant Planter (by )](#cases-55)
+*   [Case 54: Extremely Ordinary iPhone Selfie (by )](#cases-54)
+*   [Case 53: Emoji Inflatable Cushion (by )](#cases-53)
+*   [Case 52: Paper Craft Style Emoji Icon (by )](#cases-52)
+*   [Case 51: Passport Entry Stamp (by )](#cases-51)
+*   [Case 50: Physical Destruction Effect Card (Lara Croft) (by )](#cases-50)
+*   [Case 49: Fashion Magazine Cover Style (by )](#cases-49)
+*   [Case 48: Voxel Style 3D Icon Conversion (by )](#cases-48)
+*   [Case 47: ESC Keycap Miniature Diorama (by )](#cases-47)
+*   [Case 45: 3D Chibi-style University Anthropomorphic Mascot (by )](#cases-45)
+*   [Case 44: RPG-Style Character Card Creation (by )](#cases-44)
+*   [Case 43: Cute Chibi Matryoshka Dolls (Girl with a Pearl Earring) (by )](#cases-43)
+*   [Case 42: 3D Q-version Couple Snow Globe (by )](#cases-42)
+*   [Case 41: Miniature Three-dimensional Scene Presentation (by )](#cases-41)
+*   [Case 39: Fantasy Cartoon Illustration (by )](#cases-39)
+*   [Case 37: Pastel Power 3D ADS (by )](#cases-37)
+*   [Case 36: Minimalist 3D Illustration (Markdown Format) (by )](#cases-36)
+*   [Case 35: Fluffy Jack-o'-lantern (by )](#cases-35)
+*   [Case 33: Family Wedding Photo (Q-version) (by )](#cases-33)
+*   [Case 32: 3D Papercraft Pop-up Book (by )](#cases-32)
+*   [Case 31: Anime Sticker Collection (by )](#cases-31)
+*   [Case 30: 35mm Film Style Flying Island (by )](#cases-30)
+*   [Case 29: Famous Painting Character OOTD (by )](#cases-29)
+*   [Case 28: Flat Sticker Design (by )](#cases-28)
+*   [Case 27: Q-version Emoji Sticker Pack Creation (by )](#cases-27)
+*   [Case 26: Famous Painting Character Cereal Ad (by )](#cases-26)
+*   [Case 25: Minimalist 3D Illustration (by )](#cases-25)
+*   [Case 24: Funko Pop Figure Creation (by )](#cases-24)
+*   [Case 23: "Titanic" Pose Parody (by )](#cases-23)
+*   [Case 21: Chibi Character Sticker Pack (by )](#cases-21)
+*   [Case 20: Action Figure and Real Person in the Same Frame (by )](#cases-20)
+*   [Case 19: Country Diorama in a Toy Box (by )](#cases-19)
+*   [Case 18: Pixar 3D Style (by )](#cases-18)
+*   [Case 17: Retro CRT Computer Boot Screen (by )](#cases-17)
+*   [Case 16: Anime-style Badge (by )](#cases-16)
+*   [Case 14: One Piece Themed Figure Creation (by )](#cases-14)
+*   [Case 13: Photo to 3D Q-version Style (by )](#cases-13)
+*   [Case 12: 3D Couple Jewelry Box Figurine (by )](#cases-12)
+*   [Case 11: PS2 Game Cover (GTA x Shrek) (by )](#cases-11)
+*   [Case 10: Satirical Cartoon Generation (by )](#cases-10)
+*   [Case 9: Minimalist Futurist Poster (by )](#cases-9)
+*   [Case 8: Lego Collectible Figure (by )](#cases-8)
+*   [Case 7: Personalized Room Design (by )](#cases-7)
+*   [Case 6: Character Stepping Through Portal (by )](#cases-6)
+*   [Case 5: Ghibli Style (by )](#cases-5)
+*   [Case 4: 3D Chibi Chinese Wedding Scene (by )](#cases-4)
+*   [Case 2: 3D Polaroid Breakout Effect (by )](#cases-2)
+*   [Case 1: 3D Chibi Proposal Scene (by )](#cases-1)
 
 ---
 
 <a id="cases"></a>
 ## 🧩 Case
 
+<a id="cases-103"></a>
+### Case 103: Matchbox Superfast Collector Edition (by []())
+
+[Source Link](https://x.com/TraffAlex/status/1935451423803851187)
+
+<img src="cases/103/matchbox_car.png" width="300" alt=""><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="#">Unknown</a></sub>
+
+**Prompt**
+
+```
+Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970s Matchbox-style Superfast blister pack. Pearl white paint, black performance wheels, red brake calipers, original-style blister packaging with vibrant retro card art featuring mountain roads and speed lines. Studio lighting, white background, nostalgic collector vibe.
+```
+
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
 <a id="cases-102"></a>
 ### Case 102: Matchbox Superfast Collector Edition (by [@TraffAlex](https://x.com/TraffAlex))
 
@@ -170,7 +191,6 @@ Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-101"></a>
 ### Case 101: Edible Pop (by [@aziz4ai](https://x.com/aziz4ai/))
 
@@ -192,7 +212,6 @@ A hyper-realistic DSLR photo of the [brand/product] — juicy, crispy, mouth-wat
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-100"></a>
 ### Case 100: Creative Ad with Real Object and Hand-Drawn Doodle (by [@azed_ai](https://x.com/azed_ai))
 
@@ -220,7 +239,6 @@ For example:
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-99"></a>
 ### Case 99: Black and White Portrait Art (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
@@ -247,7 +265,6 @@ The overall atmosphere is abstract yet deeply human, like a fleeting glance or a
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-98"></a>
 ### Case 98: Blurred Silhouette Behind Frosted Glass (by [@umesh_ai](https://x.com/umesh_ai))
 
@@ -270,7 +287,6 @@ For example, set [SUBJECT] to “a Sith Lord wielding a red lightsaber in one ha
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-97"></a>
 ### Case 97: Cute and Cozy Knitted Doll (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
@@ -292,7 +308,6 @@ A close-up, professionally composed photograph showcasing a hand-crocheted yarn 
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-96"></a>
 ### Case 96: Custom Anime Figure (by [@dotey](https://x.com/dotey))
 
@@ -314,7 +329,6 @@ Generate an anime-style figure photo placed on a desktop, presented from a casua
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-95"></a>
 ### Case 95: Bobblehead Generator from Selfie (by [@thisdudelikesAI](https://x.com/thisdudelikesAI))
 
@@ -337,7 +351,6 @@ Turn this photo into a bobblehead: enlarge the head slightly, keep the face accu
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-94"></a>
 ### Case 94: Three Animals Selfie at Landmark (by [@berryxia_ai](https://x.com/berryxia_ai))
 
@@ -359,7 +372,6 @@ A close-up selfie of three [animal type] with different expressions in front of 
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-93"></a>
 ### Case 93: Glass Retexturing (by [@egeberkina](https://x.com/egeberkina))
 
@@ -414,7 +426,6 @@ retexture the image attached based on the JSON aesthetic below
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-92"></a>
 ### Case 92: Perspective 3D Pop-Out Effect (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
@@ -437,7 +448,6 @@ Hyperrealistic, top-down bird's-eye view shot, a beautiful Instagram model [Anne
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-91"></a>
 ### Case 91: Google Maps to Ancient Treasure Map (by [@umesh_ai](https://x.com/umesh_ai))
 
@@ -459,7 +469,6 @@ Transform the image to an ancient treasure map drawn on aged parchment. The map 
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-90"></a>
 ### Case 90: Branded Mechanical Keycaps (by [@egeberkina](https://x.com/egeberkina))
 
@@ -481,7 +490,6 @@ ultra-realistic 3D render of four mechanical keyboard keycaps in a tight 2x2 gri
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-89"></a>
 ### Case 89: Chrome Emoji Pin (by [@egeberkina](https://x.com/egeberkina))
 
@@ -503,7 +511,6 @@ highly detailed 3D render of a single metallic {👍} emoji pin attached to a ve
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-88"></a>
 ### Case 88: Children's Coloring Page Illustration (with Color Reference) (by [@dotey](https://x.com/dotey))
 
@@ -529,7 +536,6 @@ Scene description:
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-87"></a>
 ### Case 87: Integrating Word Meaning into Letters (by [@dotey](https://x.com/dotey))
 
@@ -553,7 +559,6 @@ Add a brief explanation of the word below.
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-86"></a>
 ### Case 86: Double Exposure (by [rezzycheck (Sora)](https://sora.com/explore?user=rezzycheck))
 
@@ -575,7 +580,6 @@ Double exposure, Midjourney style, merging, blending, overlay double exposure im
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-85"></a>
 ### Case 85: Surreal Interaction Scene (by [@umesh_ai](https://x.com/umesh_ai))
 
@@ -597,7 +601,6 @@ A pencil sketch of [Subject 1] interacting with [Subject 2], where [Subject 2] i
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-84"></a>
 ### Case 84: Animal Silicone Wrist Rest (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
@@ -619,7 +622,6 @@ Create an image of a cute chibi-style silicone wrist rest based on the {🐼} em
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-83"></a>
 ### Case 83: Glowing Lines Anatomy Diagram (by [@umesh_ai](https://x.com/umesh_ai))
 
@@ -641,7 +643,6 @@ A digital illustration of a [SUBJECT], portrayed with a network of glowing clean
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-82"></a>
 ### Case 82: Signature City Weather Forecast (by [@dotey](https://x.com/dotey))
 
@@ -664,7 +665,6 @@ Show a clear 45-degree bird’s-eye view of an isometric miniature city scene fe
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-81"></a>
 ### Case 81: 3D Translucent Glass Transformation (by [@azed_ai](https://x.com/azed_ai))
 
@@ -687,7 +687,6 @@ A soft, 3D translucent glass of the attached image with a frosty matte finish an
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-80"></a>
 ### Case 80: Code Style Business Card (by [@umesh_ai](https://x.com/umesh_ai))
 
@@ -717,7 +716,6 @@ The card displays the following code formatted in JSON:
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-79"></a>
 ### Case 79: Lego Cityscape (Shanghai Bund) (by [@dotey](https://x.com/dotey))
 
@@ -741,7 +739,6 @@ The sky is LEGO’s signature bright blue, adorned with a few white LEGO brick c
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-78"></a>
 ### Case 78: Glass Retexturing (by [@egeberkina](https://x.com/egeberkina))
 
@@ -780,7 +777,6 @@ retexture the image attached based on the json below:
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-77"></a>
 ### Case 77: Story Scene in Crystal Ball (by [@dotey](https://x.com/dotey))
 
@@ -804,7 +800,6 @@ The overall atmosphere is rich with East Asian fantasy elements, full of intrica
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-76"></a>
 ### Case 76: Nostalgic Anime Film Poster (by [photis (Sora)](https://sora.com/explore?user=user-sydD5ZkXZsDaL0BriQa010dQ))
 
@@ -826,7 +821,6 @@ The overall atmosphere is rich with East Asian fantasy elements, full of intrica
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-75"></a>
 ### Case 75: Social Media Frame Integration (by [@dotey](https://x.com/dotey))
 
@@ -849,7 +843,6 @@ Create a stylized 3D chibi character based on the attached photo, accurately pre
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-74"></a>
 ### Case 74: Creative Logo Shaped Bookshelf (by [@umesh_ai](https://x.com/umesh_ai))
 
@@ -871,7 +864,6 @@ Create a photograph of a modern bookshelf inspired by the shape of [LOGO]. The b
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-73"></a>
 ### Case 73: Cute Chibi Keychain (by [@azed_ai](https://x.com/azed_ai))
 
@@ -895,7 +887,6 @@ A close-up photo of a cute, colorful keychain held by person's hand. The keychai
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-72"></a>
 ### Case 72: Gold Pendant Necklace (by [@azed_ai](https://x.com/azed_ai))
 
@@ -918,7 +909,6 @@ A photorealistic close-up of a gold pendant necklace held by female hand. The pe
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-71"></a>
 ### Case 71: Miniature Cyberpunk Tilt-Shift Landscape (by [terry623](https://github.com/terry623))
 
@@ -941,7 +931,6 @@ A highly detailed miniature [Cyberpunk] landscape viewed from above, using a til
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-70"></a>
 ### Case 70: Original Pokemon Creation (by [@Anima_Labs](https://x.com/Anima_Labs))
 
@@ -967,7 +956,6 @@ Create an original creature inspired by this object (photo provided). The creatu
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-69"></a>
 ### Case 69: Silhouette Art (by [@umesh_ai](https://x.com/umesh_ai))
 
@@ -989,7 +977,6 @@ The silhouette of a basic outline of a [PROMPT]. The background is bright yellow
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-68"></a>
 ### Case 68: Futuristic Logo Trading Card (by [@hewarsaber](https://x.com/hewarsaber))
 
@@ -1035,7 +1022,6 @@ The silhouette of a basic outline of a [PROMPT]. The background is bright yellow
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-67"></a>
 ### Case 67: Ultra-realistic 3D Game (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
@@ -1059,7 +1045,6 @@ The flash slightly overexposes her face and clothes, making her silhouette stand
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-66"></a>
 ### Case 66: Creative Silk Universe (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
@@ -1082,7 +1067,6 @@ Transform the {❄️} into a soft 3D object with a silk texture. The entire sur
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-65"></a>
 ### Case 65: Surreal Underwater Scene Popsicle (by [@madpencil_](https://x.com/madpencil_))
 
@@ -1103,7 +1087,6 @@ Tilt POV shot of a hand holding a surreal popsicle with a transparent blue exter
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-64"></a>
 ### Case 64: Steampunk Mechanical Fish (by [@f-is-h](https://github.com/f-is-h))
 
@@ -1132,7 +1115,6 @@ The entire fish looks very cool. This is a high-definition image with extremely 
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-63"></a>
 ### Case 63: Emoji Cream Popsicle (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
@@ -1154,7 +1136,6 @@ Generate an image: Transform the [🍓] into a creamy ice cream bar, with cream 
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-62"></a>
 ### Case 62: Kawaii Enamel Pin (by [@gnrlyxyz](https://x.com/gnrlyxyz))
 
@@ -1177,7 +1158,6 @@ Turn the subject in the attached image into a kawaii enamel pin. Use glossy meta
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-61"></a>
 ### Case 61: Fake Tweet Screenshot (Einstein) (by [@egeberkina](https://x.com/egeberkina))
 
@@ -1198,7 +1178,6 @@ a hyper realistic twitter post by Albert Einstein right after finishing the theo
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-60"></a>
 ### Case 60: Emoji Tufted Rug (by [@gizakdag](https://x.com/gizakdag))
 
@@ -1220,7 +1199,6 @@ Create an image of a colorful, hand-tufted rug in the shape of 🦖 emoji, place
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-59"></a>
 ### Case 59: Colorful Vector Art Poster (by [@michaelrabone](https://x.com/michaelrabone))
 
@@ -1242,7 +1220,6 @@ Barcelona Spain colourful summer vector art poster with big "BARCELONA" title at
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-58"></a>
 ### Case 58: Cloud Art (by [@umesh_ai](https://x.com/umesh_ai))
 
@@ -1264,7 +1241,6 @@ Generate image: A photograph captures a daytime scene with a [SUBJECT/OBJECT] fo
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-57"></a>
 ### Case 57: 8-Bit Pixel Icon (by [@egeberkina](https://x.com/egeberkina))
 
@@ -1286,7 +1262,6 @@ Create a minimalist 8-bit pixel logo of [🍔], centered on a pure white backgro
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-56"></a>
 ### Case 56: Miniature 3D Building (by [@dotey](https://x.com/dotey))
 
@@ -1308,7 +1283,6 @@ Create a minimalist 8-bit pixel logo of [🍔], centered on a pure white backgro
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-55"></a>
 ### Case 55: Cute Plant Planter (by [@azed_ai](https://x.com/azed_ai))
 
@@ -1330,7 +1304,6 @@ A high-quality photo of a cute ceramic [object/animal]-shaped planter with a glo
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-54"></a>
 ### Case 54: Extremely Ordinary iPhone Selfie (by [@jiamimaodashu](https://x.com/jiamimaodashu))
 
@@ -1353,7 +1326,6 @@ The subjects are Eason Chan and Nicholas Tse, taken at night, next to the Hong K
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-53"></a>
 ### Case 53: Emoji Inflatable Cushion (by [@gizakdag](https://x.com/gizakdag))
 
@@ -1375,7 +1347,6 @@ Create a high-resolution 3D render of [🥹] designed as an inflatable, puffy ob
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-52"></a>
 ### Case 52: Paper Craft Style Emoji Icon (by [@egeberkina](https://x.com/egeberkina))
 
@@ -1397,7 +1368,6 @@ A paper craft-style "🔥" floating on a pure white background. The emoji is han
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-51"></a>
 ### Case 51: Passport Entry Stamp (by [@M_w14_](https://x.com/M_w14_))
 
@@ -1419,7 +1389,6 @@ Create a realistic passport page with an entry stamp for [{City}, {Country}]. Th
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-50"></a>
 ### Case 50: Physical Destruction Effect Card (Lara Croft) (by [@op7418](https://x.com/op7418))
 
@@ -1445,7 +1414,6 @@ The title “Archaeological Adventure” and the name “Lara Croft” (accompan
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-49"></a>
 ### Case 49: Fashion Magazine Cover Style (by [@dotey](https://x.com/dotey))
 
@@ -1466,7 +1434,6 @@ A beautiful woman wearing a pink qipao, adorned with delicate floral accessories
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-48"></a>
 ### Case 48: Voxel Style 3D Icon Conversion (by [@BrettFromDJ](https://x.com/BrettFromDJ))
 
@@ -1489,7 +1456,6 @@ Take the icon on the right and transform it into a voxel 3d icon like the icons 
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-47"></a>
 ### Case 47: ESC Keycap Miniature Diorama (by [@egeberkina](https://x.com/egeberkina))
 
@@ -1511,7 +1477,6 @@ A hyper-realistic isometric 3D render of a miniature computer setup inside a tra
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-45"></a>
 ### Case 45: 3D Chibi-style University Anthropomorphic Mascot (by [@dotey](https://x.com/dotey))
 
@@ -1533,7 +1498,6 @@ Create a personified 3D chibi-style anime girl character representing {Northwest
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-44"></a>
 ### Case 44: RPG-Style Character Card Creation (by [@berryxia_ai](https://x.com/berryxia_ai))
 
@@ -1563,7 +1527,6 @@ Colors: warm highlights, profession-matching hues.
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-43"></a>
 ### Case 43: Cute Chibi Matryoshka Dolls (Girl with a Pearl Earring) (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
@@ -1585,7 +1548,6 @@ Transform the person in the image into a set of cute chibi-style Russian nesting
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-42"></a>
 ### Case 42: 3D Q-version Couple Snow Globe (by [@balconychy](https://x.com/balconychy))
 
@@ -1609,7 +1571,6 @@ Inside the globe: The characters are in a cute chibi-style 3D design, gazing at 
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-41"></a>
 ### Case 41: Miniature Three-dimensional Scene Presentation (by [@dotey](https://x.com/dotey))
 
@@ -1631,7 +1592,6 @@ Miniature three-dimensional scene presentation using tilt-shift photography tech
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-39"></a>
 ### Case 39: Fantasy Cartoon Illustration (by [@dotey](https://x.com/dotey))
 
@@ -1652,7 +1612,6 @@ A cartoon-style character with a smiling computer monitor as its head, wearing g
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-37"></a>
 ### Case 37: Pastel Power 3D ADS (by [@aziz4ai](https://x.com/aziz4ai))
 
@@ -1674,7 +1633,6 @@ a soft 3D cartoon-style sculpture of [brand product], made of smooth clay-like t
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-36"></a>
 ### Case 36: Minimalist 3D Illustration (Markdown Format) (by [@dotey](https://x.com/dotey))
 
@@ -1731,7 +1689,6 @@ Draw a Toilet
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-35"></a>
 ### Case 35: Fluffy Jack-o'-lantern (by [gizakdag](https://x.com/gizakdag))
 
@@ -1753,7 +1710,6 @@ Transform a simple flat vector icon of [🎃] into a soft, 3D fluffy object. The
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-33"></a>
 ### Case 33: Family Wedding Photo (Q-version) (by [@balconychy](https://x.com/balconychy))
 
@@ -1779,7 +1735,6 @@ The entire scene is placed inside a photo frame.
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-32"></a>
 ### Case 32: 3D Papercraft Pop-up Book (by [@dotey](https://x.com/dotey))
 
@@ -1801,7 +1756,6 @@ Multi-layered foldable paper sculpture pop-up book, placed on a desk, with a cle
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-31"></a>
 ### Case 31: Anime Sticker Collection (by [@richardchang](https://x.com/richardchang))
 
@@ -1822,7 +1776,6 @@ Naruto stickers
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-30"></a>
 ### Case 30: 35mm Film Style Flying Island (by [@dotey](https://x.com/dotey))
 
@@ -1843,7 +1796,6 @@ Naruto stickers
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-29"></a>
 ### Case 29: Famous Painting Character OOTD (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
@@ -1876,7 +1828,6 @@ Right side: individual clothing items and accessories laid out separately, as if
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-28"></a>
 ### Case 28: Flat Sticker Design (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
@@ -1905,7 +1856,6 @@ The overall style should be clean, modern, and visually appealing for use as a f
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-27"></a>
 ### Case 27: Q-version Emoji Sticker Pack Creation (by [@dotey](https://x.com/dotey))
 
@@ -1940,7 +1890,6 @@ Aspect ratio: 9:16
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-26"></a>
 ### Case 26: Famous Painting Character Cereal Ad (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
@@ -1976,7 +1925,6 @@ All visuals should be balanced, modern, and appealing, reflecting a premium and 
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-25"></a>
 ### Case 25: Minimalist 3D Illustration (by [@0xdlk](https://x.com/0xdlk))
 
@@ -2035,7 +1983,6 @@ Generate a toilet with the following JSON profile:
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-24"></a>
 ### Case 24: Funko Pop Figure Creation (by [@dotey](https://x.com/dotey))
 
@@ -2060,7 +2007,6 @@ Next to the box, show a realistic rendering of the actual figure outside the pac
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-23"></a>
 ### Case 23: "Titanic" Pose Parody (by [@balconychy](https://x.com/balconychy))
 
@@ -2086,7 +2032,6 @@ Only the characters should be in chibi 3D style; the rest of the environment sho
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-21"></a>
 ### Case 21: Chibi Character Sticker Pack (by [@leon_yuan2001](https://x.com/leon_yuan2001))
 
@@ -2118,7 +2063,6 @@ Design requirements:
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-20"></a>
 ### Case 20: Action Figure and Real Person in the Same Frame (by [@dotey](https://x.com/dotey))
 
@@ -2140,7 +2084,6 @@ In a casual, everyday style as if shot on a mobile phone, an anime figure of [Ja
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-19"></a>
 ### Case 19: Country Diorama in a Toy Box (by [@TheRelianceAI](https://x.com/TheRelianceAI))
 
@@ -2162,7 +2105,6 @@ An ultra-realistic top-down photograph of a 3D-printed diorama inside a beige ca
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-18"></a>
 ### Case 18: Pixar 3D Style (by [AnimeAI](https://animeai.online))
 
@@ -2184,7 +2126,6 @@ Redraw this photo in Pixar 3D style
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-17"></a>
 ### Case 17: Retro CRT Computer Boot Screen (by [@Gdgtify](https://x.com/Gdgtify))
 
@@ -2206,7 +2147,6 @@ Retro CRT computer boot screen that resolves into ASCII-art of [shape or logo]
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-16"></a>
 ### Case 16: Anime-style Badge (by [@Alittlefatwhale](https://x.com/Alittlefatwhale))
 
@@ -2231,7 +2171,6 @@ Main subject: A hand holding the badge
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-14"></a>
 ### Case 14: One Piece Themed Figure Creation (by [@dotey](https://x.com/dotey))
 
@@ -2256,7 +2195,6 @@ Next to the box, include a realistic, fully rendered version of the actual figur
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-13"></a>
 ### Case 13: Photo to 3D Q-version Style (by [@dotey](https://x.com/dotey))
 
@@ -2278,7 +2216,6 @@ Transform the characters in the scene into 3D chibi-style figures, while keeping
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-12"></a>
 ### Case 12: 3D Couple Jewelry Box Figurine (by [@dotey](https://x.com/dotey))
 
@@ -2310,7 +2247,6 @@ Aspect ratio: 9:16
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-11"></a>
 ### Case 11: PS2 Game Cover (GTA x Shrek) (by [@dotey](https://x.com/dotey))
 
@@ -2331,7 +2267,6 @@ Can you create a PS2 video game case of "Grand Theft Auto: Far Far Away" a GTA b
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-10"></a>
 ### Case 10: Satirical Cartoon Generation (by [@dotey](https://x.com/dotey))
 
@@ -2354,7 +2289,6 @@ The composition is exaggerated and satirical, carrying a strong critique of poli
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-9"></a>
 ### Case 9: Minimalist Futurist Poster (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
@@ -2387,7 +2321,6 @@ The overall layout is clean with generous whitespace, balanced composition, shar
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-8"></a>
 ### Case 8: Lego Collectible Figure (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
@@ -2417,7 +2350,6 @@ Balance is key to the layout. The background should feature a smooth gradient tr
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-7"></a>
 ### Case 7: Personalized Room Design (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
@@ -2439,7 +2371,6 @@ Design a cozy bedroom in a cute 3D style with C4D-quality rendering, presented i
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-6"></a>
 ### Case 6: Character Stepping Through Portal (by [@dotey](https://x.com/dotey))
 
@@ -2464,7 +2395,6 @@ The scene is captured from a third-person perspective, clearly showing the viewe
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-5"></a>
 ### Case 5: Ghibli Style (by [AnimeAI](https://animeai.online))
 
@@ -2487,7 +2417,6 @@ Redraw this photo in Ghibli style
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-4"></a>
 ### Case 4: 3D Chibi Chinese Wedding Scene (by [@balconychy](https://x.com/balconychy))
 
@@ -2516,7 +2445,6 @@ This image should reflect the joy and blessing of a traditional Chinese wedding,
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-2"></a>
 ### Case 2: 3D Polaroid Breakout Effect (by [@dotey](https://x.com/dotey))
 
@@ -2538,7 +2466,6 @@ Convert the character in the scene into a 3D chibi-style figure, placed inside a
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 <a id="cases-1"></a>
 ### Case 1: 3D Chibi Proposal Scene (by [@balconychy](https://x.com/balconychy))
 
@@ -2560,7 +2487,6 @@ Transform the two people in the photo into chibi-style 3D cartoon characters. Ch
 ---
 
 [⬆️ Back to Cases Directory](#cases-toc)
-
 
 
 ---
@@ -2623,4 +2549,3 @@ Special thanks to the following users for sharing their inspiring work ✨:
 If your work is included here and you wish to change the attribution or have it removed, please feel free to contact us. ✉️
 
 [⬆️ Back to Top](#readme-top)
-

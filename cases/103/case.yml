@@ -1,0 +1,24 @@
+# New format case.yml (single file with all data)
+title_en: Matchbox Superfast Collector Edition
+title_cn: 火柴盒Superfast收藏版
+title_ja: マッチボックス Superfast コレクション版
+
+prompt_author: '@TraffAlex'
+prompt_author_link: https://x.com/TraffAlex
+image_author: '@highscore-ai'
+image_author_link: https://github.com/highscore-ai
+
+source_links:
+  - url: https://x.com/TraffAlex/status/1935451423803851187
+
+license: CC-BY-4.0
+image: matchbox_car.png
+
+prompt_en: |
+  Product photography, 2024 Tesla Model Y Performance die-cast car in vintage 1970s Matchbox-style Superfast blister pack. Pearl white paint, black performance wheels, red brake calipers, original-style blister packaging with vibrant retro card art featuring mountain roads and speed lines. Studio lighting, white background, nostalgic collector vibe.
+
+prompt_cn: |
+  产品摄影，2024款特斯拉Model Y高性能版合金车模，复古1970年代风格火柴盒Superfast吸塑包装。亮黑色车漆，黑色性能轮毂，红色刹车卡钳，包装卡片采用复古插画风格，描绘山路与速度线条。工作室灯光，白色背景，充满怀旧收藏氛围。
+
+prompt_ja: |
+  プロダクト写真、2024年テスラ モデルY パフォーマンスのダイキャストカー、1970年代風のマッチボックス「Superfast」ブリスターパックに収められたもの。光沢のある黒い塗装、ブラックパフォーマンスホイール、赤いブレーキキャリパー。レトロな山道とスピードラインを描いたパッケージカードアート。スタジオ照明、白背景、ノスタルジックなコレクター向けの雰囲気。
