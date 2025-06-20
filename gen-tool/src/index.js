@@ -118,35 +118,43 @@ const data = {
 const readmeTemplate = fs.readFileSync(path.join(__dirname, '../templates/README.md.md'), 'utf8');
 const renderedReadme = Mustache.render(readmeTemplate, data);
 
-// Determine output filename based on language
-let filename;
+// Determine output filenames based on language
+let filenames = [];
 switch(lang) {
   case 'en':
-    filename = 'README.md';
+    // For English, generate both README.md (default) and README_en.md (explicit)
+    filenames = ['README.md', 'README_en.md'];
     break;
   case 'zh':
-    filename = 'README_cn.md';
+    filenames = ['README_cn.md'];
     break;
   case 'ja':
-    filename = 'README_ja.md';
+    filenames = ['README_ja.md'];
     break;
   default:
-    filename = `README_${lang}.md`;
+    filenames = [`README_${lang}.md`];
 }
 
-// Write the rendered README
-const outputPath = path.join(__dirname, '../..', filename);
-fs.writeFileSync(outputPath, renderedReadme);
-
-console.log(`✅ ${filename} generated successfully!`);
-console.log(`📁 Output location: ${outputPath}`);
+// Write the rendered README to all specified filenames
+filenames.forEach(filename => {
+  const outputPath = path.join(__dirname, '../..', filename);
+  fs.writeFileSync(outputPath, renderedReadme);
+  console.log(`✅ ${filename} generated successfully!`);
+  console.log(`📁 Output location: ${outputPath}`);
+});
 
 // Summary
 console.log('\n📊 Generation Summary:');
 console.log(`   • Language: ${lang}`);
 console.log(`   • Cases processed: ${cases.length}`);
-console.log(`   • Output file: ${filename}`);
+console.log(`   • Output files: ${filenames.join(', ')}`);
 console.log(`   • Template directory: templates/${lang}/`);
+
+if (lang === 'en') {
+  console.log('\n🇺🇸 English-specific info:');
+  console.log('   • Generated both README.md (default) and README_en.md (explicit)');
+  console.log('   • This ensures clear multi-language support');
+}
 
 if (lang === 'ja') {
   console.log('\n🇯🇵 Japanese-specific info:');
