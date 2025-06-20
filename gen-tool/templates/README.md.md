@@ -17,7 +17,7 @@
 ## 📖 {{{t.case_toc_caption}}}
 
 {{#cases}}
-*   [{{{t.case_caption}}} {{{case_no}}}{{{t.colon}}}{{{title}}} (by {{{prompt_author}}})](#cases-{{{case_no}}})
+*   [{{{t.case_caption}}} {{{case_no}}}{{{t.colon}}}{{{title}}}](#cases-{{{case_no}}})
 {{/cases}}
 
 ---

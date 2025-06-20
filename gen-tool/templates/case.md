@@ -1,5 +1,5 @@
 <a id="cases-{{{case_no}}}"></a>
-### {{{t.case_caption}}} {{{case_no}}}{{{t.colon}}}{{{title}}} (by [{{{author}}}]({{{author_link}}}))
+### {{{t.case_caption}}} {{{case_no}}}{{{t.colon}}}{{{title}}} 
 
 {{{source_links}}}
 
