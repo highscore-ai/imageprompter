@@ -50,6 +50,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 <a id="cases-toc"></a>
 ## 📖 案例目录
 
+*   [案例 111：Ingredient-Sculpted Product Photography](#cases-111)
 *   [案例 110：Studio Product Photography](#cases-110)
 *   [案例 109：Miniature World in Vintage Suitcase](#cases-109)
 *   [案例 108：Miniature Tropical Paradise on Palm](#cases-108)
@@ -159,6 +160,26 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 <a id="cases"></a>
 ## 🧩 案例
 
+<a id="cases-111"></a>
+### 案例 111：Ingredient-Sculpted Product Photography 
+
+[原文链接](https://x.com/azed_ai/status/1934250327693476182)
+
+<img src="cases/111/ingredient_berry.png" width="300" alt=""><br>
+<sub>Image © 2025 <a href="https://github.com/highscore-ai">@highscore-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
+
+**提示词**
+
+```
+A realistic product photo of a [brand name] [bottle or jar] sculpted entirely from fresh [ingredient name], arranged perfectly to form the shape of the original packaging, including a detailed and accurate label on the front. The background is a clean, soft light gray with a natural wooden surface. Studio lighting, soft shadows, 1:1 square composition, professional product photography style, ultra-detailed textures, vibrant and glossy finish
+```
+
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
 <a id="cases-110"></a>
 ### 案例 110：Studio Product Photography 
 

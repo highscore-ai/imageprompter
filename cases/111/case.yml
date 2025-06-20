@@ -1,0 +1,18 @@
+title_en: Ingredient-Sculpted Product Photography
+title_cn: 原料雕塑产品摄影
+title_ja: 原料彫刻商品撮影
+prompt_author: "@azed_ai"
+prompt_author_link: https://x.com/azed_ai
+image_author: "@highscore-ai"
+image_author_link: https://github.com/highscore-ai
+source_links:
+  - url: https://x.com/azed_ai/status/1934250327693476182
+license: CC-BY-4.0
+
+image: ingredient_berry.png
+prompt_en: |
+  A realistic product photo of a [brand name] [bottle or jar] sculpted entirely from fresh [ingredient name], arranged perfectly to form the shape of the original packaging, including a detailed and accurate label on the front. The background is a clean, soft light gray with a natural wooden surface. Studio lighting, soft shadows, 1:1 square composition, professional product photography style, ultra-detailed textures, vibrant and glossy finish
+prompt_cn: |
+  一张真实的产品照片，展示完全由新鲜[原料名称]雕刻而成的[品牌名称][瓶子或罐子]，完美排列形成原始包装的形状，包括正面详细准确的标签。背景是干净的柔和浅灰色，带有天然木质表面。工作室照明，柔和阴影，1:1方形构图，专业产品摄影风格，超精细纹理，鲜艳光泽饰面
+prompt_ja: |
+  新鮮な[原料名]から完全に彫刻された[ブランド名]の[ボトルまたはジャー]のリアルな商品写真で、元のパッケージの形状を完璧に形成し、前面に詳細で正確なラベルが含まれています。背景はクリーンで柔らかなライトグレーで、自然な木製の表面があります。スタジオ照明、ソフトシャドウ、1:1スクエア構図、プロの商品撮影スタイル、超詳細なテクスチャ、鮮やかで光沢のある仕上がり

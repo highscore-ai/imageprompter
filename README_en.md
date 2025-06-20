@@ -49,6 +49,7 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
+*   [Case 111: Ingredient-Sculpted Product Photography](#cases-111)
 *   [Case 110: Studio Product Photography](#cases-110)
 *   [Case 109: Miniature World in Vintage Suitcase](#cases-109)
 *   [Case 108: Miniature Tropical Paradise on Palm](#cases-108)
@@ -158,6 +159,26 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases"></a>
 ## 🧩 Case
 
+<a id="cases-111"></a>
+### Case 111: Ingredient-Sculpted Product Photography 
+
+[Source Link](https://x.com/azed_ai/status/1934250327693476182)
+
+<img src="cases/111/ingredient_berry.png" width="300" alt=""><br>
+<sub>Image © 2025 <a href="https://github.com/highscore-ai">@highscore-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
+
+**Prompt**
+
+```
+A realistic product photo of a [brand name] [bottle or jar] sculpted entirely from fresh [ingredient name], arranged perfectly to form the shape of the original packaging, including a detailed and accurate label on the front. The background is a clean, soft light gray with a natural wooden surface. Studio lighting, soft shadows, 1:1 square composition, professional product photography style, ultra-detailed textures, vibrant and glossy finish
+```
+
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
 <a id="cases-110"></a>
 ### Case 110: Studio Product Photography 
 
