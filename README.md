@@ -49,6 +49,7 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
+*   [Case 112: Anthropomorphic Superhero Character](#cases-112)
 *   [Case 111: Ingredient-Sculpted Product Photography](#cases-111)
 *   [Case 110: Studio Product Photography](#cases-110)
 *   [Case 109: Miniature World in Vintage Suitcase](#cases-109)
@@ -159,6 +160,26 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases"></a>
 ## 🧩 Case
 
+<a id="cases-112"></a>
+### Case 112: Anthropomorphic Superhero Character 
+
+[Source Link](https://x.com/Kerroudjm/status/1937253913305948321)
+
+<img src="cases/112/superhero_carrot.png" width="300" alt=""><br>
+<sub>Image © 2025 <a href="https://github.com/highscore-ai">@highscore-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/Kerroudjm">@Kerroudjm</a></sub>
+
+**Prompt**
+
+```
+Create a high-quality 3D-rendered digital illustration of an anthropomorphic [OBJECT/FOOD/ANIMAL] transformed into a muscular superhero. Use the shape, texture, and colors of the object as the foundation for its design, costume, and personality. The superhero is posing with both arms bent, flexing its biceps to show strength. Its gloves, boots, and cape should follow the same color palette as the object. The lighting should be dramatic and studio-style, with a gradient background that complements the object's natural tones. The result should be fun, bold, detailed, and in 1:1 format.
+```
+
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
 <a id="cases-111"></a>
 ### Case 111: Ingredient-Sculpted Product Photography 
 
