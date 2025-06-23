@@ -2,7 +2,8 @@ name: Build and Deploy Website
 
 on:
   push:
-    branches: [ main, 101 ]  # Added 101 branch
+    branches: 
+    - main
     paths:
       - 'cases/**'
       - 'index.html'

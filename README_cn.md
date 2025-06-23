@@ -50,6 +50,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 <a id="cases-toc"></a>
 ## 📖 案例目录
 
+*   [案例 113：Cultural Chess Board Photography](#cases-113)
 *   [案例 112：Anthropomorphic Superhero Character](#cases-112)
 *   [案例 111：Ingredient-Sculpted Product Photography](#cases-111)
 *   [案例 110：Studio Product Photography](#cases-110)
@@ -161,6 +162,26 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 <a id="cases"></a>
 ## 🧩 案例
 
+<a id="cases-113"></a>
+### 案例 113：Cultural Chess Board Photography 
+
+[原文链接](https://x.com/TheRelianceAI/status/1937064180017971501)
+
+<img src="cases/113/ai_chessboard.png" width="300" alt=""><br>
+<sub>Image © 2025 <a href="https://github.com/highscore-ai">@highscore-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/TheRelianceAI">@TheRelianceAI</a></sub>
+
+**提示词**
+
+```
+A highly realistic vertical photograph of a traditional chessboard viewed from above, set against a textured surface inspired by [COUNTRY]'s artistic heritage. The chessboard features intricate patterns and national motifs, with the word "[COUNTRY]" written across the board in elegant golden calligraphy. All the chess pieces are off the board, arranged around it on the fabric — some lying on their side, others upright — as if waiting to be placed. Each piece is uniquely reimagined in shape, ornament, and texture, reflecting the architecture, cultural symbols, and color palette of [COUNTRY]. Rich materials, soft directional light, cinematic shadows, ultra-detailed editorial still life style, symmetrical top-down framing, 9:16 format.
+```
+
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
 <a id="cases-112"></a>
 ### 案例 112：Anthropomorphic Superhero Character 
 

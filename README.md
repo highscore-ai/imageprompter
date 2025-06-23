@@ -49,6 +49,7 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
+*   [Case 113: Cultural Chess Board Photography](#cases-113)
 *   [Case 112: Anthropomorphic Superhero Character](#cases-112)
 *   [Case 111: Ingredient-Sculpted Product Photography](#cases-111)
 *   [Case 110: Studio Product Photography](#cases-110)
@@ -160,6 +161,26 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases"></a>
 ## 🧩 Case
 
+<a id="cases-113"></a>
+### Case 113: Cultural Chess Board Photography 
+
+[Source Link](https://x.com/TheRelianceAI/status/1937064180017971501)
+
+<img src="cases/113/ai_chessboard.png" width="300" alt=""><br>
+<sub>Image © 2025 <a href="https://github.com/highscore-ai">@highscore-ai</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/TheRelianceAI">@TheRelianceAI</a></sub>
+
+**Prompt**
+
+```
+A highly realistic vertical photograph of a traditional chessboard viewed from above, set against a textured surface inspired by [COUNTRY]'s artistic heritage. The chessboard features intricate patterns and national motifs, with the word "[COUNTRY]" written across the board in elegant golden calligraphy. All the chess pieces are off the board, arranged around it on the fabric — some lying on their side, others upright — as if waiting to be placed. Each piece is uniquely reimagined in shape, ornament, and texture, reflecting the architecture, cultural symbols, and color palette of [COUNTRY]. Rich materials, soft directional light, cinematic shadows, ultra-detailed editorial still life style, symmetrical top-down framing, 9:16 format.
+```
+
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
 <a id="cases-112"></a>
 ### Case 112: Anthropomorphic Superhero Character 
 

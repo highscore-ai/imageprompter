@@ -1,0 +1,18 @@
+title_en: Cultural Chess Board Photography
+title_cn: 文化象棋棋盘摄影
+title_ja: 文化的チェスボード写真
+prompt_author: "@TheRelianceAI"
+prompt_author_link: https://x.com/TheRelianceAI
+image_author: "@highscore-ai"
+image_author_link: https://github.com/highscore-ai
+source_links:
+  - url: https://x.com/TheRelianceAI/status/1937064180017971501
+license: CC-BY-4.0
+
+image: ai_chessboard.png
+prompt_en: |
+  A highly realistic vertical photograph of a traditional chessboard viewed from above, set against a textured surface inspired by [COUNTRY]'s artistic heritage. The chessboard features intricate patterns and national motifs, with the word "[COUNTRY]" written across the board in elegant golden calligraphy. All the chess pieces are off the board, arranged around it on the fabric — some lying on their side, others upright — as if waiting to be placed. Each piece is uniquely reimagined in shape, ornament, and texture, reflecting the architecture, cultural symbols, and color palette of [COUNTRY]. Rich materials, soft directional light, cinematic shadows, ultra-detailed editorial still life style, symmetrical top-down framing, 9:16 format.
+prompt_cn: |
+  一张高度逼真的垂直照片，从上方俯视传统的象棋棋盘，棋盘置于受[国家]艺术遗产启发的质感表面上。棋盘具有复杂的图案和民族图案，"[国家]"字样以优雅的金色书法写在棋盘上。所有棋子都不在棋盘上，而是围绕棋盘排列在织物上——有些侧躺，有些直立——仿佛等待被放置。每个棋子在形状、装饰和质地上都被独特地重新想象，反映了[国家]的建筑、文化符号和色彩调色板。丰富的材料，柔和的定向光，电影般的阴影，超精细的编辑静物风格，对称的俯视构图，9:16格式。
+prompt_ja: |
+  上から見た伝統的なチェスボードの非常にリアルな縦写真で、[国名]の芸術的遺産にインスパイアされたテクスチャのある表面に設置されています。チェスボードは複雑な模様と民族的なモチーフを特徴とし、「[国名]」という文字が優雅な金色の書道でボード全体に書かれています。すべてのチェスピースはボードから離れ、周囲の布の上に配置されています——いくつかは横向きに、他は直立して——配置されるのを待っているかのように。各ピースは形、装飾、テクスチャが独特に再想像され、[国名]の建築、文化的シンボル、カラーパレットを反映しています。豊かな素材、柔らかな指向性ライト、映画的な影、超詳細な編集静物スタイル、対称的な俯瞰フレーミング、9:16フォーマット。
